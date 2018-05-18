@@ -1,0 +1,22 @@
+main th
+{
+    background-color: #ededed;
+    border-color: #bbb;
+    border-width: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.1;
+}
+
+main td
+{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.1;
+    border-width: 1px;
+    border-color: #bbb;
+}
