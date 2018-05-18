@@ -113,8 +113,6 @@ properties initialized as follows:</p>
 <p><b>Contents TC:</b> Columns from section <a href="f58e1ea9-b592-408d-b89e-53fd4cd6024b.htm">2.4.4.5.1</a>; no rows.</p>
 
 <p><b>FAI contents table TC:</b> Columns from section <a href="b2e619a0-6a9c-4101-9dcb-340ac41cf308.htm">2.4.4.6.1</a>; no rows.</p>
-
-
                 </div>
             </div>
         </div>

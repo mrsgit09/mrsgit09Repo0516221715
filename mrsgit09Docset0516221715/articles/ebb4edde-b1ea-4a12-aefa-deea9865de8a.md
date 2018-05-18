@@ -55,8 +55,6 @@ Server Protocols Master Property List</mshelp:link>&quot;.</p>
 <p>[RFC2119] Bradner, S.,
 &quot;Key words for use in RFCs to Indicate Requirement Levels&quot;, BCP 14,
 RFC 2119, March 1997, <a href="https://go.microsoft.com/fwlink/?LinkId=90317">http://www.rfc-editor.org/rfc/rfc2119.txt</a></p>
-
-
                 </div>
             </div>
         </div>

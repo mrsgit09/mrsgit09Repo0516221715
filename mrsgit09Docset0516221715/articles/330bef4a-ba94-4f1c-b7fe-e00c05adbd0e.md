@@ -26,8 +26,6 @@
 <p>This section provides detailed technical information about
 all of the data structures that are used in the PST file format, as applicable
 to the scope of this document.</p>
-
-
                 </div>
             </div>
         </div>

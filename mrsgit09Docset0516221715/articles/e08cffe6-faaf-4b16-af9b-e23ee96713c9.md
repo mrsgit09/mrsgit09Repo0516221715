@@ -63,8 +63,6 @@ are reset to zero.</p>
 <p>The same generic queue node concept is used throughout this
 section, except that each type of queue has its own specific value for the size
 of each item (that is, k).</p>
-
-
                 </div>
             </div>
         </div>

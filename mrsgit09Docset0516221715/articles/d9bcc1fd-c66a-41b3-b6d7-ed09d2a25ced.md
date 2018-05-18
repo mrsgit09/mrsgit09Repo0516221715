@@ -50,8 +50,6 @@ manipulating the AMaps in any way. If the <b>fAMapValid</b> value is set to
 invalid, implementations that do not implement AMap Rebuild algorithms MUST NOT
 modify the PST file in any way. Read-only implementations, however, MAY ignore
 the <b>fAMapValid</b> value.</p>
-
-
                 </div>
             </div>
         </div>

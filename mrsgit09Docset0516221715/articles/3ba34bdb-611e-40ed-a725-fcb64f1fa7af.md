@@ -33,8 +33,6 @@ hierarchical relationships between the streams.</p>
 
 <p><span>§<span>  </span></span>Provide transaction
 functionality when modifying data within the streams.</p>
-
-
                 </div>
             </div>
         </div>

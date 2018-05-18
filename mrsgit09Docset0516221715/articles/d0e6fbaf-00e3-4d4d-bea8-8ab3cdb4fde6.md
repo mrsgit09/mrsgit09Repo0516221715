@@ -194,8 +194,6 @@ Implementations MUST ignore this field.</p>
 
 <p><b>blockTrailer (Unicode: 16 bytes; ANSI: 12 bytes):</b>
 A BLOCKTRAILER structure (section <a href="a14943ef-70c2-403f-898c-5bc3747117e1.htm">2.2.2.8.1</a>).</p>
-
-
                 </div>
             </div>
         </div>

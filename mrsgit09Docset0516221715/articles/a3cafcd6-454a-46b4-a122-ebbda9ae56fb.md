@@ -78,8 +78,6 @@ ordering of the columns based on the column data size (section 2.3.4.2).</p>
 <p>Also see section 2.3.4.2 for the rules regarding setting the
 <b>cbData</b> field of <b>TCOLDESC</b>, noting the use of HNIDs for
 variable-size data or fixed-size data that exceeds 8 bytes.</p>
-
-
                 </div>
             </div>
         </div>

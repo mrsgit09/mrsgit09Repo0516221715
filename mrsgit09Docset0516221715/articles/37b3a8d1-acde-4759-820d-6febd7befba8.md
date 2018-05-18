@@ -97,8 +97,6 @@ From the PST perspective, the following properties MUST be present in any valid
 </table>
 
 <p> </p>
-
-
                 </div>
             </div>
         </div>

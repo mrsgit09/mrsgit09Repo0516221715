@@ -27,8 +27,6 @@
 the columns in the recipient table template, plus a number of extra properties
 about its Recipients. Recipient properties are specified in <mshelp:link keywords="f6ab1613-aefe-447d-a49c-18217230b148" tabindex="0">[MS-OXPROPS]</mshelp:link>.
 </p>
-
-
                 </div>
             </div>
         </div>
