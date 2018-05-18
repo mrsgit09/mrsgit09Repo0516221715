@@ -18,6 +18,10 @@
         ]
       }
     ],
+    "template": [
+      "default",
+      "templates/custom"
+    ],
     "resource": [
       {
         "files": [
@@ -39,10 +43,6 @@
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
-    "template": [
-      "default",
-      "templates/custom"
-    ],
     "dest": "/mrsgit09Docset0516221715",
     "markdownEngineName": "markdig"
   }
