@@ -7,7 +7,8 @@ exports.transform = function (model) {
   if (extension && extension.preTransform) {
     model = extension.preTransform(model);
   }
-
+  
+  model._extra_property = "Hello world";
   model._disableToc = model._disableToc || !model._tocPath || (model._navPath === model._tocPath);
   model.docurl = model.docurl || common.getImproveTheDocHref(model, model._gitContribute, model._gitUrlPattern);
 
