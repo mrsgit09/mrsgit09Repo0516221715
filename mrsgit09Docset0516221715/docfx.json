@@ -39,8 +39,11 @@
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
-    "template": [],
     "dest": "/mrsgit09Docset0516221715",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "template": [
+      "default",
+      "template"
+    ]
   }
 }

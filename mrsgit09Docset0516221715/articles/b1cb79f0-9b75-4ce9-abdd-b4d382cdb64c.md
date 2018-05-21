@@ -27,8 +27,6 @@
 inside of an HN structure. The HN provides a quick way to access the BTree
 structures, whereas the BTH provides an expedient way to search through data.
 PCs are implemented as BTHs.</p>
-
-
                 </div>
             </div>
         </div>
