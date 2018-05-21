@@ -24,8 +24,8 @@
                     
 
 <p>Copying all the contents of an existing node to a new node,
-where the new node can be a top-level node or a subnode (for example, when a <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.htm#gt_b6c15d0c-d992-421d-ba96-99d3b63894cf">Message object</a> is added to
-another Message object as an <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.htm#gt_6ab4cacc-0e1a-4843-b9e5-4f1fee5a695a">Attachment
+where the new node can be a top-level node or a subnode (for example, when a <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_b6c15d0c-d992-421d-ba96-99d3b63894cf">Message object</a> is added to
+another Message object as an <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_6ab4cacc-0e1a-4843-b9e5-4f1fee5a695a">Attachment
 object</a>). Both nodes end up referencing the same instance of the data block,
 and subnodes (that is, single-instancing). </p>
 

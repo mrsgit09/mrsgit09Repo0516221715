@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The basic property schema of a general <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.htm#gt_b6c15d0c-d992-421d-ba96-99d3b63894cf">Message object</a> is specified
+<p>The basic property schema of a general <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_b6c15d0c-d992-421d-ba96-99d3b63894cf">Message object</a> is specified
 in <mshelp:link keywords="7fd7ec40-deec-4c06-9493-1bc06b349682" tabindex="0">[MS-OXCMSG]</mshelp:link>
 and <mshelp:link keywords="f6ab1613-aefe-447d-a49c-18217230b148" tabindex="0">[MS-OXPROPS]</mshelp:link>.
 From the PST perspective, the following properties MUST be present in any valid
-<a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.htm#gt_6ab4cacc-0e1a-4843-b9e5-4f1fee5a695a">Attachment object</a> PC.</p>
+<a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_6ab4cacc-0e1a-4843-b9e5-4f1fee5a695a">Attachment object</a> PC.</p>
 
 <table>
  <thead>

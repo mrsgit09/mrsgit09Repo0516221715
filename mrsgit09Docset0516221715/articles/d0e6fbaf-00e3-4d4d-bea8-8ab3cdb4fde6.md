@@ -182,7 +182,7 @@ structures defined at the NDB Layer.</p>
 </table>
 
 <p><b>data (variable):</b> The value of this field
-SHOULD be treated as an opaque <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.htm#gt_ad861812-8cb0-497a-80bb-13c95aa4e425">binary large object (BLOB)</a>
+SHOULD be treated as an opaque <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_ad861812-8cb0-497a-80bb-13c95aa4e425">binary large object (BLOB)</a>
 by the NDB Layer. The size of this field is indicated by the <b>cb</b> subfield
 of the <b>blockTrailer </b>field.</p>
 
@@ -193,7 +193,7 @@ bytes required to make the size of the data block a multiple of 64.
 Implementations MUST ignore this field.</p>
 
 <p><b>blockTrailer (Unicode: 16 bytes; ANSI: 12 bytes):</b>
-A BLOCKTRAILER structure (section <a href="a14943ef-70c2-403f-898c-5bc3747117e1.htm">2.2.2.8.1</a>).</p>
+A BLOCKTRAILER structure (section <a href="a14943ef-70c2-403f-898c-5bc3747117e1.html">2.2.2.8.1</a>).</p>
                 </div>
             </div>
         </div>

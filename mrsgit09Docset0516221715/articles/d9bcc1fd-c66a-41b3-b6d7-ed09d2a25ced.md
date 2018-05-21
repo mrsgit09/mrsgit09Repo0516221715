@@ -25,7 +25,7 @@
 
 <p>The <b>fAMapValid</b> flag in the ROOT structure is used to
 indicate whether the AMaps in the PST file are in a known-valid state. In
-general, this flag is set to one of the two valid states described in section <a href="32ce8c94-4757-46c8-a169-3fd21abee584.htm">2.2.2.5</a>.</p>
+general, this flag is set to one of the two valid states described in section <a href="32ce8c94-4757-46c8-a169-3fd21abee584.html">2.2.2.5</a>.</p>
 
 <p>At the beginning of any operation that either allocates or
 frees space in the PST file, implementations set the <b>fAMapValid</b> value to
@@ -40,7 +40,7 @@ allocate file space is made.</p>
 <p>This recovery operation uses a process called an &quot;AMap
 rebuild&quot;, which involves first marking all the AMaps as &quot;free&quot;
 and then walking the NBT and BBT to mark pages and blocks as
-&quot;allocated&quot; in the map pages as they appear.<a id="Appendix_A_Target_23"></a><a href="f040f8b2-f023-4ed9-94fd-de487da83ed5.htm#Appendix_A_23" aria-label="Product behavior note 23">&lt;23&gt;</a> The rebuild process also
+&quot;allocated&quot; in the map pages as they appear.<a id="Appendix_A_Target_23"></a><a href="f040f8b2-f023-4ed9-94fd-de487da83ed5.html#Appendix_A_23" aria-label="Product behavior note 23">&lt;23&gt;</a> The rebuild process also
 ensures that all space occupied by the AMaps, PMaps, FMaps and FPMaps are
 properly marked as allocated.</p>
 
