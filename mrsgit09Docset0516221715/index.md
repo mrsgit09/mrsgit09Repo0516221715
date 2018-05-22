@@ -7,6 +7,7 @@ The document TOCs were generated from the HxT files produced by the build.
 
 ## Known Issues
 * Glossary bookmarks need to be changed to correct an issue that causes whole terms to be "links".
-* Table formatting - to be fixed with custom CSS
-* Links are go to .htm instead of .html
+* Table formatting - easily fixed with custom CSS
+* Generated links go to .htm instead of .html
 * Extra HTML tags at the bottom of all pages
+* Code boxes don't wrap - but do we want them to?

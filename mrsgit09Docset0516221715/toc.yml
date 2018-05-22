@@ -1,5 +1,6 @@
 - name: HTML Test Docs
-  homepage: articles/index.md
+  href: index.md
+  homepage: index.md
   items:
     - name: Office Docs
       href: articles/officeindex.md
