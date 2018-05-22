@@ -1,3 +1,17 @@
-- name: HTML Test # octothorpes work for line comments, too
-  href: articles/
+- name: HTML Test Docs
   homepage: articles/index.md
+  items:
+    - name: Office Docs
+      href: articles/officeindex.md
+      items:
+        - name: MS-PST
+          href: articles/MS-PST/
+    - name: SQL Docs
+      href: articles/sqlindex.md
+      items:
+        - name: MS-RDL
+          href: articles/MS-RDL/
+        - name: MS-RGDI
+          href: articles/MS-RGDI/
+        - name: MS-RPL
+          href: articles/MS-RPL/

@@ -1,0 +1,66 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>2.259.13 MapLegend.MapLocation</title>
+        <xml>
+            <mshelp:toctitle title="2.259.13 MapLegend.MapLocation"></mshelp:toctitle>
+            <mshelp:rltitle title="[MS-RDL]: MapLegend.MapLocation"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="fb3dcd5a-bfde-43b5-9fec-8d63c88d110e"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="fb3dcd5a-bfde-43b5-9fec-8d63c88d110e"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="[MS-RDL]: MapLegend.MapLocation" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">2.259.13 MapLegend.MapLocation</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+
+<p>The <b>MapLegend.MapLocation</b> element specifies the
+location of a <a href="71c7ce11-4e8a-433b-975a-731e089ea04f.htm">MapLegend</a>.
+This element is optional. If this element is present, <a href="06dc3644-b0f4-4c29-a356-01830b32ce48.htm">MapLegend.Position</a> is
+ignored. The <b>MapLegend.MapLocation</b> element is of type <a href="5888ec40-7918-47d0-9b80-4d5897124957.htm">MapLocation</a>.</p>
+
+<p>Following is the parent element of the <b>MapLegend.MapLocation</b>
+element.</p>
+
+<table>
+ <thead>
+  <tr>
+   <th>
+   <p>Parent elements</p>
+   </th>
+  </tr>
+ </thead>
+ <tr>
+  <td>
+  <p>MapLegend</p>
+  </td>
+ </tr>
+</table>
+
+<p>The following is the XML Schema definition of the <b>MapLegend.MapLocation</b>
+element.</p>
+
+<dl>
+<dd>
+<div><pre> &lt;xsd:element name=&quot;MapLocation&quot; type=&quot;MapLocationType&quot; minOccurs=&quot;0&quot; /&gt;
+</pre></div>
+</dd></dl>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

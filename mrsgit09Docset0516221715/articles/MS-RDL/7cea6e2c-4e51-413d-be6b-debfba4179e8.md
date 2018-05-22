@@ -1,0 +1,68 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>2.70.1 TableRows.TableRow</title>
+        <xml>
+            <mshelp:toctitle title="2.70.1 TableRows.TableRow"></mshelp:toctitle>
+            <mshelp:rltitle title="[MS-RDL]: TableRows.TableRow"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="7cea6e2c-4e51-413d-be6b-debfba4179e8"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="7cea6e2c-4e51-413d-be6b-debfba4179e8"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="[MS-RDL]: TableRows.TableRow" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">2.70.1 TableRows.TableRow</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+
+<p>The <b>TableRows.TableRow</b> element specifies a single row
+of cells in a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.htm">Table</a>.
+This element MUST be specified. More than one <b>TableRows.TableRow</b> element
+can be specified under a single <a href="e0f8c5a6-4cdb-4fec-9bfc-cabf5ecd04ad.htm">TableRows</a> parent element.</p>
+
+<p>The <b>TableRows.TableRow</b> element is of type <a href="839c6688-01b5-4468-a398-49a7a4ce5eed.htm">TableRow</a>.</p>
+
+<p>Following is the parent element of the <b>TableRows.TableRow</b>
+element.</p>
+
+<table>
+ <thead>
+  <tr>
+   <th>
+   <p>Parent elements</p>
+   </th>
+  </tr>
+ </thead>
+ <tr>
+  <td>
+  <p>TableRows</p>
+  </td>
+ </tr>
+</table>
+
+<p>The following is the XML Schema definition of the <b>TableRows.TableRow</b>
+element.</p>
+
+<dl>
+<dd>
+<div><pre> &lt;xsd:element name=&quot;TableRow&quot; type=&quot;TableRowType&quot; maxOccurs=&quot;unbounded&quot; /&gt;
+</pre></div>
+</dd></dl>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

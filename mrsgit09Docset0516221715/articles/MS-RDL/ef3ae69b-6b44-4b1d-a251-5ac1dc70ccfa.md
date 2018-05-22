@@ -1,0 +1,86 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>2.176.6 CustomLabel.Placement</title>
+        <xml>
+            <mshelp:toctitle title="2.176.6 CustomLabel.Placement"></mshelp:toctitle>
+            <mshelp:rltitle title="[MS-RDL]: CustomLabel.Placement"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="ef3ae69b-6b44-4b1d-a251-5ac1dc70ccfa"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="ef3ae69b-6b44-4b1d-a251-5ac1dc70ccfa"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="[MS-RDL]: CustomLabel.Placement" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">2.176.6 CustomLabel.Placement</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+
+<p>The <b>CustomLabel.Placement</b> element specifies where a <a href="519139e8-6188-4286-b148-dfd76a0a6be4.htm">CustomLabel</a> is placed relative
+to its containing <a href="86468d9f-c561-4b50-a689-5dfccfde8495.htm">RadialScale</a>
+or <a href="744f8b40-7ad5-4652-94a1-76ae5df59389.htm">LinearScale</a> element.
+The <b>CustomLabel.Placement</b> element is optional. If this element is
+present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a>
+(<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a>
+section 3.2.1) or an expression that evaluates to a <b>String</b>. The value of
+this element MUST be one of the following or an expression that evaluates to
+one of the following:</p>
+
+<p><b>Inside:</b> Specifies that the <b>CustomLabel</b>
+instance is placed inside of the <b>RadialScale</b> or <b>LinearScale</b>
+element.</p>
+
+<p><b>Outside:</b> Specifies that the <b>CustomLabel</b>
+instance is placed outside of the <b>RadialScale</b> or <b>LinearScale</b>
+element.</p>
+
+<p><b>Cross:</b> Specifies that the <b>CustomLabel</b>
+instance is placed across the <b>RadialScale</b> or <b>LinearScale</b> element.</p>
+
+<p>If this element is not present, its value is interpreted as
+&quot;Inside&quot;.</p>
+
+<p>The following is the parent element of the <b>CustomLabel.Placement</b>
+element.</p>
+
+<table>
+ <thead>
+  <tr>
+   <th>
+   <p>Parent elements</p>
+   </th>
+  </tr>
+ </thead>
+ <tr>
+  <td>
+  <p>CustomLabel</p>
+  </td>
+ </tr>
+</table>
+
+<p>The following is the XML Schema definition of the <b>CustomLabel.Placement</b>
+element.</p>
+
+<dl>
+<dd>
+<div><pre> &lt;xsd:element name=&quot;Placement&quot; type=&quot;xsd:string&quot; minOccurs=&quot;0&quot; /&gt;
+</pre></div>
+</dd></dl>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
