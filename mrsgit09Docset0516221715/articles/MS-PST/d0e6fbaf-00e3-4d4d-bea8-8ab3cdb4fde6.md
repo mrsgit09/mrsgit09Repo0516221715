@@ -193,7 +193,7 @@ bytes required to make the size of the data block a multiple of 64.
 Implementations MUST ignore this field.</p>
 
 <p><b>blockTrailer (Unicode: 16 bytes; ANSI: 12 bytes):</b>
-A BLOCKTRAILER structure (section <a href="a14943ef-70c2-403f-898c-5bc3747117e1.html">2.2.2.8.1</a>).</p>
+A BLOCKTRAILER structure (section <a href="a14943ef-70c2-403f-898c-5bc3747117e1.md">2.2.2.8.1</a>).</p>
                 </div>
             </div>
         </div>

@@ -25,7 +25,7 @@
 
 <p>The <b>fAMapValid</b> flag in the ROOT structure is used to
 indicate whether the AMaps in the PST file are in a known-valid state. In
-general, this flag is set to one of the two valid states described in section <a href="32ce8c94-4757-46c8-a169-3fd21abee584.html">2.2.2.5</a>.</p>
+general, this flag is set to one of the two valid states described in section <a href="32ce8c94-4757-46c8-a169-3fd21abee584.md">2.2.2.5</a>.</p>
 
 <p>At the beginning of any operation that either allocates or
 frees space in the PST file, implementations set the <b>fAMapValid</b> value to

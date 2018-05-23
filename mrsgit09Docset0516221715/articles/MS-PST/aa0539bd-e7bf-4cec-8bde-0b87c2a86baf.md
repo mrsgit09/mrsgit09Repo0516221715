@@ -30,7 +30,7 @@ access and manage the PST contents.</p>
 
 <p>At the LTP Level, the message store is implemented as a
 regular PC. At the NDB Layer, the message store is identified with a special
-internal NID value of NID_MESSAGE_STORE (0x21) (see section <a href="0510ece4-6853-4bef-8cc8-8df3468e3ff1.html">2.4.1</a>). Any valid PST MUST
+internal NID value of NID_MESSAGE_STORE (0x21) (see section <a href="0510ece4-6853-4bef-8cc8-8df3468e3ff1.md">2.4.1</a>). Any valid PST MUST
 have exactly one message store node.</p>
                 </div>
             </div>

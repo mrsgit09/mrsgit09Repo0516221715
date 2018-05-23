@@ -42,11 +42,11 @@
   </td>
   <td>
   <p>MUST check the <b>fAMapValid</b> value in the ROOT
-  structure before proceeding (see section <a href="d9bcc1fd-c66a-41b3-b6d7-ed09d2a25ced.html">2.6.1.3.7</a>).</p>
-  <p>Create a new page for the modifications (section <a href="40703178-c913-468c-ad44-e50e61e6db94.html">2.6.1.1.4</a>).</p>
+  structure before proceeding (see section <a href="d9bcc1fd-c66a-41b3-b6d7-ed09d2a25ced.md">2.6.1.3.7</a>).</p>
+  <p>Create a new page for the modifications (section <a href="40703178-c913-468c-ad44-e50e61e6db94.md">2.6.1.1.4</a>).</p>
   <p>Replace references to the old page BID with the new
   page BID.</p>
-  <p>Free the old page (section <a href="7e1477b0-af44-41f8-b6d6-8ca31951333f.html">2.6.1.1.6</a>).</p>
+  <p>Free the old page (section <a href="7e1477b0-af44-41f8-b6d6-8ca31951333f.md">2.6.1.1.6</a>).</p>
   </td>
  </tr>
  <tr>
@@ -85,7 +85,7 @@
   <p>Free slot of required size not found.</p>
   </td>
   <td>
-  <p>The PST File needs to grow. Refer to section <a href="cbea68b6-e93e-4477-a8ae-7e71c6b7908e.html">2.6.1.1.2</a> for additional
+  <p>The PST File needs to grow. Refer to section <a href="cbea68b6-e93e-4477-a8ae-7e71c6b7908e.md">2.6.1.1.2</a> for additional
   considerations.</p>
   </td>
  </tr>

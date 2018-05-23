@@ -24,8 +24,8 @@
                     
 
 <p>Creating a Table Context. This involves creating a heap node
-with specialized contents (section <a href="a29ef0f7-1a42-4483-a14c-c245d066e23a.html">2.6.2.1.1</a>), and an
-embedded BTH within the HN (section <a href="bfb05b53-2091-49be-a9e1-1d2434f997ed.html">2.6.2.2.1</a>).</p>
+with specialized contents (section <a href="a29ef0f7-1a42-4483-a14c-c245d066e23a.md">2.6.2.1.1</a>), and an
+embedded BTH within the HN (section <a href="bfb05b53-2091-49be-a9e1-1d2434f997ed.md">2.6.2.2.1</a>).</p>
 
 <table>
  <thead>
@@ -44,11 +44,11 @@ embedded BTH within the HN (section <a href="bfb05b53-2091-49be-a9e1-1d2434f997e
   </td>
   <td>
   <p>See section 2.6.2.1.1 and 2.6.2.2.1.</p>
-  <p>The TCINFO (section <a href="45b3a0c5-d6d6-4e02-aebf-13766ff693f0.html">2.3.4.1</a>) and <b>TCOLDESC</b>
-  (section <a href="3a2f63cf-bb40-4559-910c-e55ec43d9cbb.html">2.3.4.2</a>)
+  <p>The TCINFO (section <a href="45b3a0c5-d6d6-4e02-aebf-13766ff693f0.md">2.3.4.1</a>) and <b>TCOLDESC</b>
+  (section <a href="3a2f63cf-bb40-4559-910c-e55ec43d9cbb.md">2.3.4.2</a>)
   structures MUST be properly initialized.</p>
   <p>The embedded BTH key and data fields MUST be set up
-  according to the TCROWID structure (see section <a href="e20b5cf4-ea56-48b8-a8fa-e086c9b862ca.html">2.3.4.3.1</a>).</p>
+  according to the TCROWID structure (see section <a href="e20b5cf4-ea56-48b8-a8fa-e086c9b862ca.md">2.3.4.3.1</a>).</p>
   </td>
  </tr>
  <tr>
