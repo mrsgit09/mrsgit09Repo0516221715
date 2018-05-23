@@ -1,0 +1,48 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>4.1.2.2 Response 1</title>
+        <xml>
+            <mshelp:toctitle title="4.1.2.2 Response 1"></mshelp:toctitle>
+            <mshelp:rltitle title="[MS-SSAS8]: Response 1"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="dfa7d6ba-f1cb-4eab-a27e-21db76ccbacd"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="dfa7d6ba-f1cb-4eab-a27e-21db76ccbacd"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="[MS-SSAS8]: Response 1" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">4.1.2.2 Response 1</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<dl>
+<dd>
+<div><pre>  
+ HTTP/1.1 200 OK
+ Server: Microsoft-IIS/5.1
+ Date: Thu, 21 Feb 2008 22:02:32 GMT
+ Content-Type: text/html
+ Expires: Thu, 21 Feb 2008 22:02:32 GMT
+ Cache-control: private
+ X-Powered-By: ASP.NET
+ Transfer-Encoding: chunked
+ Set-Cookie: ASPSESSIONIDQSSAASAC=JKFLOGPCEPJMHEEIKIKMPPCO; path=/
+  
+ … Encoding of the prefix + Binary Response here …
+</pre></div>
+</dd></dl>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

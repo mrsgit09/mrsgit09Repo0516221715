@@ -1,0 +1,56 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>4.22.1 Client Sends Request</title>
+        <xml>
+            <mshelp:toctitle title="4.22.1 Client Sends Request"></mshelp:toctitle>
+            <mshelp:rltitle title="[MS-SSAS]: Client Sends Request"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="bfbbbc04-8ac5-45b6-aaf4-4b4a40afa2fa"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="bfbbbc04-8ac5-45b6-aaf4-4b4a40afa2fa"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="[MS-SSAS]: Client Sends Request" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">4.22.1 Client Sends Request</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<p>The client sends the following request:</p>
+
+<dl>
+<dd>
+<div><pre> &lt;Envelope xmlns=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;
+   &lt;Header&gt;
+     &lt;Session xmlns=&quot;urn:schemas-microsoft-com:xml-analysis&quot;
+     SessionId=&quot;34B67555-85B9-46CE-8803-4BEC7D6AEE13&quot; /&gt;
+   &lt;/Header&gt;
+   &lt;Body&gt;
+     &lt;Execute xmlns=&quot;urn:schemas-microsoft-com:xml-analysis&quot;&gt;
+       &lt;Command&gt;
+         &lt;RollbackTransaction xmlns=&quot;http://schemas.microsoft.com/analysisservices/2003/engine&quot; /&gt;
+       &lt;/Command&gt;
+       &lt;Properties&gt;
+         &lt;PropertyList&gt;
+           &lt;LocaleIdentifier&gt;1033&lt;/LocaleIdentifier&gt;
+         &lt;/PropertyList&gt;
+       &lt;/Properties&gt;
+     &lt;/Execute&gt;
+   &lt;/Body&gt;
+ &lt;/Envelope&gt;
+</pre></div>
+</dd></dl>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
