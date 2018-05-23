@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
-<p>The <b>PinLabel</b> element specifies a label for a <a href="b04b7ea8-b15d-4c22-a1e2-c8ac4f7f01b0.html">ScalePin</a>. This element is
+<p>The <b>PinLabel</b> element specifies a label for a <a href="b04b7ea8-b15d-4c22-a1e2-c8ac4f7f01b0.md">ScalePin</a>. This element is
 optional.</p>
 
 <p>The following are the parent and child elements of the <b>PinLabel</b>
@@ -60,48 +60,48 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="5bb2e66d-9e68-456f-a890-2be21ab8a638.html">PinLabel.AllowUpsideDown</a>
+  <p><a href="5bb2e66d-9e68-456f-a890-2be21ab8a638.md">PinLabel.AllowUpsideDown</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="d2799a22-6982-4d75-8422-bafd14f5a523.html">PinLabel.DistanceFromScale</a>
+  <p><a href="d2799a22-6982-4d75-8422-bafd14f5a523.md">PinLabel.DistanceFromScale</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="2d61b0cd-d471-44e9-9169-20804df2bc34.html">PinLabel.FontAngle</a>
+  <p><a href="2d61b0cd-d471-44e9-9169-20804df2bc34.md">PinLabel.FontAngle</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="bb042693-f356-4e70-8294-ed755ef19f8b.html">PinLabel.Placement</a>
+  <p><a href="bb042693-f356-4e70-8294-ed755ef19f8b.md">PinLabel.Placement</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="4239ae8b-8814-4669-8eb3-815757726d60.html">PinLabel.RotateLabel</a>
+  <p><a href="4239ae8b-8814-4669-8eb3-815757726d60.md">PinLabel.RotateLabel</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="5a5d14e3-4d2e-418f-b955-3608c28056d8.html">PinLabel.Style</a>
+  <p><a href="5a5d14e3-4d2e-418f-b955-3608c28056d8.md">PinLabel.Style</a>
   </p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="a540815c-440d-4c54-8ef1-0302c3303266.html">PinLabel.Text</a></p>
+  <p><a href="a540815c-440d-4c54-8ef1-0302c3303266.md">PinLabel.Text</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="2c035bc1-623f-403f-826a-a4cb1ee92bf0.html">PinLabel.UseFontPercent</a></p>
+  <p><a href="2c035bc1-623f-403f-826a-a4cb1ee92bf0.md">PinLabel.UseFontPercent</a></p>
   </td>
  </tr>
 </table>

@@ -23,15 +23,15 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>ChartBorderSkin.ChartBorderSkinType</b> element
-specifies the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_38e5e1a0-1189-42d7-a373-9f03a2cee49d">border skin</a>
-type for a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.html">Chart</a>. This
+specifies the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_38e5e1a0-1189-42d7-a373-9f03a2cee49d">border skin</a>
+type for a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.md">Chart</a>. This
 element is optional. If the <b>ChartBorderSkin.ChartBorderSkinType</b> element
-is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1) or an expression that evaluates to a <b>String</b>. The value of this
 element MUST be one of the following or an expression that evaluates to one of
 the following:</p>
@@ -102,7 +102,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="837ccfbc-ec49-4b27-97e6-0cf28f8ef1a6.html">ChartBorderSkin</a></p>
+  <p><a href="837ccfbc-ec49-4b27-97e6-0cf28f8ef1a6.md">ChartBorderSkin</a></p>
   </td>
  </tr>
 </table>

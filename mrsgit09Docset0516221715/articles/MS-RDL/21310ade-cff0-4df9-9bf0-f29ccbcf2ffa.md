@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b><i>,
-</i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a><b><i>,
-and </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b><i>,
+</i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a><b><i>,
+and </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a></p>
 
-<p>The <b>Report.Body</b> element describes how the <a href="6bf4e125-fdfd-4d04-88aa-c4395ba8a252.html">Body</a> of the report is
+<p>The <b>Report.Body</b> element describes how the <a href="6bf4e125-fdfd-4d04-88aa-c4395ba8a252.md">Body</a> of the report is
 structured and rendered. The <b>Report.Body</b> element MUST be specified. This
 element is of type <b>Body</b>.</p>
 
@@ -44,7 +44,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a></p>
+  <p><a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.md">Report</a></p>
   </td>
  </tr>
 </table>

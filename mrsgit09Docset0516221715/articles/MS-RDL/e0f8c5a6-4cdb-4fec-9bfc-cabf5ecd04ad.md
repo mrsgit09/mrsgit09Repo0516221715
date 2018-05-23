@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
-<p>The <b>TableRows</b> element specifies a collection of <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_d3a7da8d-a597-4838-9756-25e30b640ba7">table</a> rows as an ordered
+<p>The <b>TableRows</b> element specifies a collection of <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_d3a7da8d-a597-4838-9756-25e30b640ba7">table</a> rows as an ordered
 list. If the <b>TableRows</b> element is specified, there MUST be at least one
-and there can be more than one <a href="839c6688-01b5-4468-a398-49a7a4ce5eed.html">TableRow</a> in the <b>TableRows</b>
+and there can be more than one <a href="839c6688-01b5-4468-a398-49a7a4ce5eed.md">TableRow</a> in the <b>TableRows</b>
 collection.</p>
 
 <p>The following are the parent and child elements of the <b>TableRows</b>
@@ -44,17 +44,17 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="10728959-73bf-46f9-b7a8-1b3612eda445.html">Details</a></p>
+  <p><a href="10728959-73bf-46f9-b7a8-1b3612eda445.md">Details</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="ac104947-f4a3-4119-85bb-386b6219d64b.html">Header</a></p>
+  <p><a href="ac104947-f4a3-4119-85bb-386b6219d64b.md">Header</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="cbfd158a-39e9-437a-9c7b-875c87155583.html">Footer</a></p>
+  <p><a href="cbfd158a-39e9-437a-9c7b-875c87155583.md">Footer</a></p>
   </td>
  </tr>
 </table>
@@ -71,7 +71,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="7cea6e2c-4e51-413d-be6b-debfba4179e8.html">TableRows.TableRow</a></p>
+  <p><a href="7cea6e2c-4e51-413d-be6b-debfba4179e8.md">TableRows.TableRow</a></p>
   </td>
  </tr>
 </table>

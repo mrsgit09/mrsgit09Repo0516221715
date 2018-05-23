@@ -25,7 +25,7 @@
 
 <p>The Report Definition Language (RDL) file format is the file
 format for Microsoft SQL Server RDL, a file type that is used to represent the
-metadata for defining a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_556439b8-0249-44d1-894c-6c7dbd8f0a00">report</a>.</p>
+metadata for defining a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_556439b8-0249-44d1-894c-6c7dbd8f0a00">report</a>.</p>
 
 <p>Sections 1.7 and 2 of this specification are normative. All
 other sections and examples in this specification are informative.</p>

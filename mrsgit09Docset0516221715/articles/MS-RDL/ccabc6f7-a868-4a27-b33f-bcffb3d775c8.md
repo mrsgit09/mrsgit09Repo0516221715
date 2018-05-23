@@ -23,10 +23,10 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
 <p>The <b>Tablix.ReportSlicerState</b> element specifies the
-filter state for a <a href="e42fb86e-799a-4202-8845-ac38831efccb.html">Tablix</a>
+filter state for a <a href="e42fb86e-799a-4202-8845-ac38831efccb.md">Tablix</a>
 that filters data for other report items. The <b>Tablix.ReportSlicerState</b>
 element is optional and MUST NOT be specified more than once. This element is
 defined in <mshelp:link keywords="763e4a6a-2d4a-4eab-982c-2e01c448d50f" tabindex="0">[MS-RDLRS]</mshelp:link>

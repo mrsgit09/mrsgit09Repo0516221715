@@ -23,9 +23,9 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>NumericIndicatorRange</b> element is ignored.</p>
 
@@ -42,7 +42,7 @@ elements of the <b>NumericIndicatorRange</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p> <a href="59efa9a2-aafc-4c54-9ab2-65613de712ed.html">NumericIndicatorRanges</a>
+  <p> <a href="59efa9a2-aafc-4c54-9ab2-65613de712ed.md">NumericIndicatorRanges</a>
   </p>
   </td>
  </tr>
@@ -60,7 +60,7 @@ elements of the <b>NumericIndicatorRange</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="0700b85e-3022-4332-ac90-f2f9a56aea3f.html">NumericIndicatorRange.Name</a></p>
+  <p><a href="0700b85e-3022-4332-ac90-f2f9a56aea3f.md">NumericIndicatorRange.Name</a></p>
   </td>
  </tr>
 </table>
@@ -77,22 +77,22 @@ elements of the <b>NumericIndicatorRange</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p> <a href="ba8aba3b-4363-4990-bce1-180487628a5c.html">NumericIndicatorRange.StartValue</a></p>
+  <p> <a href="ba8aba3b-4363-4990-bce1-180487628a5c.md">NumericIndicatorRange.StartValue</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p> <a href="d516a144-fab6-4f0f-8a4a-b65af5c707a7.html">NumericIndicatorRange.EndValue</a></p>
+  <p> <a href="d516a144-fab6-4f0f-8a4a-b65af5c707a7.md">NumericIndicatorRange.EndValue</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p> <a href="a48c5151-99ed-43e7-85b6-7d9553095f68.html">NumericIndicatorRange.DecimalDigitColor</a></p>
+  <p> <a href="a48c5151-99ed-43e7-85b6-7d9553095f68.md">NumericIndicatorRange.DecimalDigitColor</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p> <a href="5c83c8e7-0466-4c49-bb00-6479672183ee.html">NumericIndicatorRange.DigitColor</a></p>
+  <p> <a href="5c83c8e7-0466-4c49-bb00-6479672183ee.md">NumericIndicatorRange.DigitColor</a></p>
   </td>
  </tr>
 </table>

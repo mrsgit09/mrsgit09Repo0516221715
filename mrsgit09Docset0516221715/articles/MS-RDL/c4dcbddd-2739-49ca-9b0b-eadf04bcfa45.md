@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapFields.MapField</b> element specifies a name and a
-value to be associated with a <a href="3ee27e43-26a2-4f27-9a31-d97e374d8633.html">MapPolygon</a>, a <a href="0e78f900-9e5b-4067-b8c1-327bcf3758e2.html">MapPoint</a>, or a <a href="848562bc-c49f-443c-8002-ae8d395f9fde.html">MapLine</a>. This element MUST
-be specified. This element is of type <a href="fcd57c0c-4137-4771-89db-d56e3474ea36.html">MapField</a>.</p>
+value to be associated with a <a href="3ee27e43-26a2-4f27-9a31-d97e374d8633.md">MapPolygon</a>, a <a href="0e78f900-9e5b-4067-b8c1-327bcf3758e2.md">MapPoint</a>, or a <a href="848562bc-c49f-443c-8002-ae8d395f9fde.md">MapLine</a>. This element MUST
+be specified. This element is of type <a href="fcd57c0c-4137-4771-89db-d56e3474ea36.md">MapField</a>.</p>
 
 <p>Following is the parent element of the <b>MapFields.MapField</b>
 element.</p>
@@ -43,7 +43,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="2c2c5097-27a6-4fd1-90a4-5c3545d00695.html">MapFields</a></p>
+  <p><a href="2c2c5097-27a6-4fd1-90a4-5c3545d00695.md">MapFields</a></p>
   </td>
  </tr>
 </table>

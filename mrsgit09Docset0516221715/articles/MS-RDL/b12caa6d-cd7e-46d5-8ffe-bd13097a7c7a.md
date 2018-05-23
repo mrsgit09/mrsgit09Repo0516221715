@@ -23,19 +23,19 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>GaugePanel.DataElementName</b> element specifies the
-name of a <a href="f01744d3-79fa-4f30-94bf-a1ffa6bde2ac.html">GaugePanel</a> to
-be used in a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_9069c206-b9e9-4374-a7ee-50faf5def25b">data rendering</a>.
+name of a <a href="f01744d3-79fa-4f30-94bf-a1ffa6bde2ac.md">GaugePanel</a> to
+be used in a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_9069c206-b9e9-4374-a7ee-50faf5def25b">data rendering</a>.
 The <b>GaugePanel.DataElementName</b> element is optional. </p>
 
 <p>If this element is not present, its value is interpreted to
-be the <b>Name</b> attribute of the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_8beb719e-adf3-461d-a3d4-d52ef83336ca">gauge panel</a>. If the <b>GaugePanel.DataElementName</b>
-element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
-3.2.1) or an expression that evaluates to a <b>String</b> that is a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>.</p>
+be the <b>Name</b> attribute of the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_8beb719e-adf3-461d-a3d4-d52ef83336ca">gauge panel</a>. If the <b>GaugePanel.DataElementName</b>
+element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+3.2.1) or an expression that evaluates to a <b>String</b> that is a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>.</p>
 
 <p>The following is the parent element of the <b>GaugePanel.DataElementName</b>
 element.</p>

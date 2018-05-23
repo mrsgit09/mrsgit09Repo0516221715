@@ -23,26 +23,26 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>PointerImage.Value</b> element specifies the location
-of a <a href="ecf5073e-d4ae-4742-a92f-6790140b0fe6.html">PointerImage</a>
-depending on the peer <a href="d95875ab-d00a-416b-ac72-c9fc81741720.html">PointerImage.Source</a>
+of a <a href="ecf5073e-d4ae-4742-a92f-6790140b0fe6.md">PointerImage</a>
+depending on the peer <a href="d95875ab-d00a-416b-ac72-c9fc81741720.md">PointerImage.Source</a>
 element. The <b>PointerImage.Value</b> element MUST be specified.</p>
 
 <p>If the peer <b>PointerImage.Source</b> element is set to
 &quot;External&quot; and if the value of <b>PointerImage.Value</b> is
-non-empty, then the value of <b>PointerImage.Value</b> MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+non-empty, then the value of <b>PointerImage.Value</b> MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1) constant or an expression that evaluates to the location of an image.
-This location MUST be a <a href="0e8ab873-6565-45f0-a61f-2d7da8e1ff74.html">ReportPath</a>
-or <a href="b302c6a5-6023-42b1-95ed-bafcdc4b5714.html">RdlColor</a>.</p>
+This location MUST be a <a href="0e8ab873-6565-45f0-a61f-2d7da8e1ff74.md">ReportPath</a>
+or <a href="b302c6a5-6023-42b1-95ed-bafcdc4b5714.md">RdlColor</a>.</p>
 
 <p>If the peer <b>PointerImage.Source</b> element is set to
 &quot;Embedded&quot; and if the value of <b>PointerImage.Value</b> is
 non-empty, then the value of <b>PointerImage.Value</b> MUST be a <b>String</b>
-constant or an expression that evaluates to the name of an <a href="6cdb345a-b502-4eee-84fd-de5ccf2a40e7.html">EmbeddedImage</a> within the
+constant or an expression that evaluates to the name of an <a href="6cdb345a-b502-4eee-84fd-de5ccf2a40e7.md">EmbeddedImage</a> within the
 report.</p>
 
 <p>If the peer <b>PointerImage.Source</b> element is set to

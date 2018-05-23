@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapLegend.MapLocation</b> element specifies the
-location of a <a href="71c7ce11-4e8a-433b-975a-731e089ea04f.html">MapLegend</a>.
-This element is optional. If this element is present, <a href="06dc3644-b0f4-4c29-a356-01830b32ce48.html">MapLegend.Position</a> is
-ignored. The <b>MapLegend.MapLocation</b> element is of type <a href="5888ec40-7918-47d0-9b80-4d5897124957.html">MapLocation</a>.</p>
+location of a <a href="71c7ce11-4e8a-433b-975a-731e089ea04f.md">MapLegend</a>.
+This element is optional. If this element is present, <a href="06dc3644-b0f4-4c29-a356-01830b32ce48.md">MapLegend.Position</a> is
+ignored. The <b>MapLegend.MapLocation</b> element is of type <a href="5888ec40-7918-47d0-9b80-4d5897124957.md">MapLocation</a>.</p>
 
 <p>Following is the parent element of the <b>MapLegend.MapLocation</b>
 element.</p>

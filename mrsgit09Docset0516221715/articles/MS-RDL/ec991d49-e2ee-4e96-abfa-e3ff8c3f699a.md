@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>Chart.Name</b> attribute specifies the name of a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.html">Chart</a>. This attribute MUST
+<p>The <b>Chart.Name</b> attribute specifies the name of a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.md">Chart</a>. This attribute MUST
 be specified. The value of the <b>Chart.Name</b> attribute MUST be a
-case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
+case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
 identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>
-that is unique among data regions, groups, and scope names in the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>.</p>
+that is unique among data regions, groups, and scope names in the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.md">Report</a>.</p>
 
 <p>Following is the parent element of the <b>Chart.Name</b>
 attribute.</p>

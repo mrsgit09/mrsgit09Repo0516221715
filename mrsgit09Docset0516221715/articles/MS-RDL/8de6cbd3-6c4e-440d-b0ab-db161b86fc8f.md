@@ -23,15 +23,15 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>ColumnGrouping.FixedHeader</b> element specifies
-whether the header for a column grouping remains visible when a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a> is partially
-scrolled off the <a href="b5e525d5-00d6-4e1a-8813-55f327da6b4c.html">Page</a>.
+whether the header for a column grouping remains visible when a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.md">Matrix</a> is partially
+scrolled off the <a href="b5e525d5-00d6-4e1a-8813-55f327da6b4c.md">Page</a>.
 Fixed headers MUST be contiguous and MUST include the outermost grouping.</p>
 
 <p>This element is optional. The value of this element MUST be
-a <a href="4802fa14-3619-43fa-9898-3acab160a24c.html">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+a <a href="4802fa14-3619-43fa-9898-3acab160a24c.md">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.2). If this element is not present, its value is interpreted as false.</p>
 
 <p>Following is the parent element of the <b>ColumnGrouping.FixedHeader</b>
@@ -47,7 +47,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="dc090e7a-cb5f-477c-9157-b1a087d66cfc.html">ColumnGrouping</a></p>
+  <p><a href="dc090e7a-cb5f-477c-9157-b1a087d66cfc.md">ColumnGrouping</a></p>
   </td>
  </tr>
 </table>

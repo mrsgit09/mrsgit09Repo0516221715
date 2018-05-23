@@ -23,9 +23,9 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>Image.ActionInfo</b> element specifies <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_b178b6c0-7df9-4107-95ca-12c7f0b9900b">actions</a> (such as
-hyperlinks) that are associated with an <a href="63e1e5ab-7c49-4f62-8dbd-62d85de2b153.html">Image</a>. This element is
-optional. This element is of type <a href="c2f76273-c025-42ba-bccf-91067d997228.html">ActionInfo</a>.</p>
+<p>The <b>Image.ActionInfo</b> element specifies <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_b178b6c0-7df9-4107-95ca-12c7f0b9900b">actions</a> (such as
+hyperlinks) that are associated with an <a href="63e1e5ab-7c49-4f62-8dbd-62d85de2b153.md">Image</a>. This element is
+optional. This element is of type <a href="c2f76273-c025-42ba-bccf-91067d997228.md">ActionInfo</a>.</p>
 
 <p>Following is the parent element of the <b>Image.ActionInfo</b>
 element.</p>
@@ -54,10 +54,10 @@ element.</p>
 </pre></div>
 </dd></dl>
 
-<p>In <a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html">RDL 2003/10</a>
-and <a href="3ebe2912-4958-4832-b391-cad1f5e13338.html">RDL 2005/01</a>,
+<p>In <a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md">RDL 2003/10</a>
+and <a href="3ebe2912-4958-4832-b391-cad1f5e13338.md">RDL 2005/01</a>,
 the equivalent element of <b>Image.ActionInfo</b> is <b>Image.Action</b>, which
-is of type <a href="0c9b8d37-de61-420e-a652-26d3db8bc586.html">Action</a>.</p>
+is of type <a href="0c9b8d37-de61-420e-a652-26d3db8bc586.md">Action</a>.</p>
 
 
                 </div>

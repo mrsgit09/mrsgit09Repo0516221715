@@ -24,8 +24,8 @@
                     
 
 <p><i>rsVariableInPreviousAggregate</i> is a critical error
-that will occur when a <a href="3e1da2a1-547f-4b00-b88e-62847bea3419.html">Previous</a>
-aggregate function has within its <i>Expression</i> parameter a reference to a <a href="c3747cca-eb76-4004-bbdf-c74940cbe7e4.html">Variables</a> global
+that will occur when a <a href="3e1da2a1-547f-4b00-b88e-62847bea3419.md">Previous</a>
+aggregate function has within its <i>Expression</i> parameter a reference to a <a href="c3747cca-eb76-4004-bbdf-c74940cbe7e4.md">Variables</a> global
 collection.</p>
 
 

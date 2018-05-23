@@ -26,7 +26,7 @@
 <p>If the RDL format specifies an element or attribute as type <b>String</b>,
 it MUST be a valid <b>UNICODE</b> string, as specified in <a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1 for <b>xsd:string</b>. Unless the value is explicitly specified (such as
-when the element or attribute is not present), its value is interpreted as a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_ef0f7888-d6e8-40a8-bef8-543ab9399923">null value</a>.</p>
+when the element or attribute is not present), its value is interpreted as a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_ef0f7888-d6e8-40a8-bef8-543ab9399923">null value</a>.</p>
 
 
                 </div>

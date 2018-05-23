@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Footer.TableRows</b> element specifies the footer
-rows for a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.html">Table</a> or <a href="a23c61be-758a-4247-a3ab-fd1159ff0520.html">TableGroup</a>. This element
-MUST be specified and is of type <a href="e0f8c5a6-4cdb-4fec-9bfc-cabf5ecd04ad.html">TableRows</a>.</p>
+rows for a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.md">Table</a> or <a href="a23c61be-758a-4247-a3ab-fd1159ff0520.md">TableGroup</a>. This element
+MUST be specified and is of type <a href="e0f8c5a6-4cdb-4fec-9bfc-cabf5ecd04ad.md">TableRows</a>.</p>
 
 <p>Following is the parent element of the <b>Footer.TableRows</b>
 element.</p>
@@ -43,7 +43,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="cbfd158a-39e9-437a-9c7b-875c87155583.html">Footer</a>
+  <p><a href="cbfd158a-39e9-437a-9c7b-875c87155583.md">Footer</a>
   </p>
   </td>
  </tr>

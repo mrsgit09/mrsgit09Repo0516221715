@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>Map.MapDistanceScale</b> element specifies the
-distance scale for a Map. This element is optional. This element is of type <a href="04ab14be-9206-4c63-bc93-d68bb48ed02c.html">MapDistanceScale</a>. </p>
+distance scale for a Map. This element is optional. This element is of type <a href="04ab14be-9206-4c63-bc93-d68bb48ed02c.md">MapDistanceScale</a>. </p>
 
 <p>The following is the parent element of the <b>Map.MapDistanceScale</b>
 element.</p>
@@ -42,7 +42,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p> <a href="fd166dd8-6772-4507-b3f6-50a2b7cfd6ac.html">Map</a></p>
+  <p> <a href="fd166dd8-6772-4507-b3f6-50a2b7cfd6ac.md">Map</a></p>
   </td>
  </tr>
 </table>

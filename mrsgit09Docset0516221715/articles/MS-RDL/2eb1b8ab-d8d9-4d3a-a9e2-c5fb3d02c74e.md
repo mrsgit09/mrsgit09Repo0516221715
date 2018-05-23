@@ -23,19 +23,19 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
 <p>The <b>JoinCondition.SortDirection</b> element specifies the
-sort order of the <a href="64091774-c185-49ed-821c-9e720b2ee019.html">JoinCondition</a>
+sort order of the <a href="64091774-c185-49ed-821c-9e720b2ee019.md">JoinCondition</a>
 element. The <b>JoinCondition.SortDirection</b> element is optional and MUST
-NOT be specified more than once. If the <b>JoinCondition</b> has a containing <a href="6d1c77e5-1573-4ad6-8d2a-c507411ad94b.html">Relationship</a>, <b>JoinCondition.SortDirection</b>
-MUST NOT be specified unless <a href="010c596a-95a7-4db2-b1e0-76f2d4eb4c7a.html">Relationship.NaturalJoin</a>
-is true. If the <b>JoinCondition</b> has a containing <a href="9fa528f6-2956-4f90-98c8-831aeb45aa26.html">DefaultRelationship</a>, <b>JoinCondition.SortDirection</b>
+NOT be specified more than once. If the <b>JoinCondition</b> has a containing <a href="6d1c77e5-1573-4ad6-8d2a-c507411ad94b.md">Relationship</a>, <b>JoinCondition.SortDirection</b>
+MUST NOT be specified unless <a href="010c596a-95a7-4db2-b1e0-76f2d4eb4c7a.md">Relationship.NaturalJoin</a>
+is true. If the <b>JoinCondition</b> has a containing <a href="9fa528f6-2956-4f90-98c8-831aeb45aa26.md">DefaultRelationship</a>, <b>JoinCondition.SortDirection</b>
 MUST NOT be specified unless <b>DefaultRelationship.NaturalJoin</b> is true. If
 the <b>JoinCondition.SortDirection</b> element is specified, its value MUST be
 one of the following:</p>
 
-<p><b>Ascending</b> (default): Both <a href="8a8301cb-c9b3-48ca-84fb-03e8724f959f.html">DataSets</a> involved in the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_b837a3f6-40e2-4181-b82f-badccf629ff7">data correlation</a> are sorted
+<p><b>Ascending</b> (default): Both <a href="8a8301cb-c9b3-48ca-84fb-03e8724f959f.md">DataSets</a> involved in the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_b837a3f6-40e2-4181-b82f-badccf629ff7">data correlation</a> are sorted
 in ascending order by the <b>JoinCondition</b>.</p>
 
 <p><b>Descending</b>: Both <b>DataSets</b> involved in

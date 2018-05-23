@@ -23,10 +23,10 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
 <p><i>rsInvalidFeatureRdlAttribute</i> is a critical error that
-occurs when an invalid attribute is used in nested elements of the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>.</p>
+occurs when an invalid attribute is used in nested elements of the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.md">Report</a>.</p>
 
 
                 </div>

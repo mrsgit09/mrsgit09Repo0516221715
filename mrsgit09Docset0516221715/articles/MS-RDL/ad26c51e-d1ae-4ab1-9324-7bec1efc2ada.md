@@ -23,10 +23,10 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
-<p>The <b>Title</b> element specifies a title for a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.html">Chart</a> or for an <a href="2bfb943e-7cfe-41c1-baa4-5739a99a341b.html">Axis</a>.</p>
+<p>The <b>Title</b> element specifies a title for a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.md">Chart</a> or for an <a href="2bfb943e-7cfe-41c1-baa4-5739a99a341b.md">Axis</a>.</p>
 
 <p>The following are the parent and child elements of the <b>Title</b>
 element.</p>
@@ -63,17 +63,17 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="3fc9d092-506c-47dd-9ee3-611f7691a122.html">Title.Caption</a></p>
+  <p><a href="3fc9d092-506c-47dd-9ee3-611f7691a122.md">Title.Caption</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="52941fb9-e606-4043-bbc2-84a4f617b0cb.html">Title.Position</a></p>
+  <p><a href="52941fb9-e606-4043-bbc2-84a4f617b0cb.md">Title.Position</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="61c04cc7-1d21-4167-816b-6a001f591cdd.html">Title.Style</a></p>
+  <p><a href="61c04cc7-1d21-4167-816b-6a001f591cdd.md">Title.Style</a></p>
   </td>
  </tr>
 </table>

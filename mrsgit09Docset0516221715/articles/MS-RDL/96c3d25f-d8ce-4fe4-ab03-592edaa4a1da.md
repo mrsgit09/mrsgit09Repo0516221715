@@ -23,8 +23,8 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>ReportSection</b> element specifies the structure and
 layout information of a <b>ReportSection</b>. This element MUST be specified.</p>
@@ -42,7 +42,7 @@ the <b>ReportSection</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="734d5041-fe18-41a6-8701-d213086c575b.html">ReportSections</a></p>
+  <p><a href="734d5041-fe18-41a6-8701-d213086c575b.md">ReportSections</a></p>
   </td>
  </tr>
 </table>
@@ -59,32 +59,32 @@ the <b>ReportSection</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="cdf74c46-02ef-4ded-9ebc-e621e145b80d.html">ReportSection.Body</a></p>
+  <p><a href="cdf74c46-02ef-4ded-9ebc-e621e145b80d.md">ReportSection.Body</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="9bbd51e2-ed21-498e-8080-88a1df1ad3b8.html">ReportSection.Page</a></p>
+  <p><a href="9bbd51e2-ed21-498e-8080-88a1df1ad3b8.md">ReportSection.Page</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="8a71282e-fac4-4158-808c-4c7995ffdefa.html">ReportSection.Width</a></p>
+  <p><a href="8a71282e-fac4-4158-808c-4c7995ffdefa.md">ReportSection.Width</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="0a505a9d-0303-4969-b1b6-71b449d24eeb.html">ReportSection.DataElementName</a></p>
+  <p><a href="0a505a9d-0303-4969-b1b6-71b449d24eeb.md">ReportSection.DataElementName</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="33e53a21-4dba-41eb-9e73-b670197038ac.html">ReportSection.DataElementOutput</a></p>
+  <p><a href="33e53a21-4dba-41eb-9e73-b670197038ac.md">ReportSection.DataElementOutput</a></p>
   </td>
  </tr>
 </table>
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
 <table>
  <thead>
@@ -96,12 +96,12 @@ the <b>ReportSection</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="3fd6dfb2-203f-4158-afe6-ebbd00d39fa7.html">ReportSection.Name</a></p>
+  <p><a href="3fd6dfb2-203f-4158-afe6-ebbd00d39fa7.md">ReportSection.Name</a></p>
   </td>
  </tr>
 </table>
 
-<p><b><i>Applies to </i></b><a href="f165fb82-3c5a-4369-961c-128de233638c.html"><b><i>RDL 2012/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="f165fb82-3c5a-4369-961c-128de233638c.md"><b><i>RDL 2012/01</i></b></a></p>
 
 <table>
  <thead>
@@ -113,7 +113,7 @@ the <b>ReportSection</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="b8269680-5fba-403b-ac99-84e8cc7705cb.html">ReportSection.LayoutDirection</a></p>
+  <p><a href="b8269680-5fba-403b-ac99-84e8cc7705cb.md">ReportSection.LayoutDirection</a></p>
   </td>
  </tr>
 </table>
@@ -124,8 +124,8 @@ element.</p>
 <p><b>Note</b>: The following XSD represents RDL
 macro-versioned schemas only. Possible additions, identified earlier in this
 section, to base schema RDL 2010/01 from micro-versioned schemas RDL 2011/01,
-RDL 2012/01, and RDL 2013/01 are provided in sections 5.5, 5.6, and <a href="c5c219b8-4b13-4c49-9c86-6a07aab39823.html">5.7</a>, respectively. For
-more information about macro- and micro-versioned schemas, see section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.html">2.1</a>.</p>
+RDL 2012/01, and RDL 2013/01 are provided in sections 5.5, 5.6, and <a href="c5c219b8-4b13-4c49-9c86-6a07aab39823.md">5.7</a>, respectively. For
+more information about macro- and micro-versioned schemas, see section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.md">2.1</a>.</p>
 
 <dl>
 <dd>

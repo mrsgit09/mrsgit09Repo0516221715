@@ -23,15 +23,15 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapPolygonTemplate.ScaleFactor</b> element specifies
-the scale factor for map polygons (specified by <a href="3ee27e43-26a2-4f27-9a31-d97e374d8633.html">MapPolygon</a> elements) to
-which this <a href="1b048418-d7ff-4c51-b08e-30ab8d5a63c5.html">MapPolygonTemplate</a>
+the scale factor for map polygons (specified by <a href="3ee27e43-26a2-4f27-9a31-d97e374d8633.md">MapPolygon</a> elements) to
+which this <a href="1b048418-d7ff-4c51-b08e-30ab8d5a63c5.md">MapPolygonTemplate</a>
 is applied. This element is optional. </p>
 
-<p>If this element is present, its value MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.html">Float</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+<p>If this element is present, its value MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.md">Float</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.4) or an expression that evaluates to a <b>Float</b>. If this element is
 not present, its value is interpreted as 1.</p>
 

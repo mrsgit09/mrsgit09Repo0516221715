@@ -23,28 +23,28 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapPointRules.MapColorRangeRule</b> element specifies
 a color range to be used for colorizing map points in the parent layer based on
-the value of the <a href="8812f9fc-af59-4901-97c5-243fb4032540.html">MapColorRangeRule.DataValue</a>
+the value of the <a href="8812f9fc-af59-4901-97c5-243fb4032540.md">MapColorRangeRule.DataValue</a>
 element. The <b>MapPointRules.MapColorRangeRule</b> element is optional. If
-this element is present, it overrides the <a href="7911c883-f314-41d9-9136-02e8a26279ad.html">Style.Color</a> child element
-of the <a href="22055a42-2ec0-48cd-893f-f7bd717efc7a.html">MapMarkerTemplate</a>
+this element is present, it overrides the <a href="7911c883-f314-41d9-9136-02e8a26279ad.md">Style.Color</a> child element
+of the <a href="22055a42-2ec0-48cd-893f-f7bd717efc7a.md">MapMarkerTemplate</a>
 element. </p>
 
 <p>The <b>MapPointRules.MapColorRangeRule</b> element cannot be
 present if either of the following elements is present: </p>
 
 <ul><li><p><span><span> 
-</span></span><a href="f7cd528b-f2cb-4801-ac72-e42fb9c16ef2.html">MapPointRules.MapColorPaletteRule</a></p>
+</span></span><a href="f7cd528b-f2cb-4801-ac72-e42fb9c16ef2.md">MapPointRules.MapColorPaletteRule</a></p>
 
 </li><li><p><span><span> 
-</span></span><a href="6ca17b10-03b5-4a96-8661-0cff7e4e88d7.html">MapPointRules.MapCustomColorRule</a></p>
+</span></span><a href="6ca17b10-03b5-4a96-8661-0cff7e4e88d7.md">MapPointRules.MapCustomColorRule</a></p>
 
 </li></ul><p>The <b>MapPointRules.MapColorRangeRule</b> element is of
-type <a href="1c6ca85d-f3d6-403c-9232-7d0183108a92.html">MapColorRangeRule</a>.</p>
+type <a href="1c6ca85d-f3d6-403c-9232-7d0183108a92.md">MapColorRangeRule</a>.</p>
 
 <p>Following is the parent element of the <b>MapPointRules.MapColorRangeRule</b>
 element.</p>
@@ -59,7 +59,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="d090d792-6d70-412c-b024-88c08de4d300.html">MapPointRules</a></p>
+  <p><a href="d090d792-6d70-412c-b024-88c08de4d300.md">MapPointRules</a></p>
   </td>
  </tr>
 </table>

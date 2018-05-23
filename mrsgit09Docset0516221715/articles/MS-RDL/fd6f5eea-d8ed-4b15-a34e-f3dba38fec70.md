@@ -23,18 +23,18 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Matrix.Label</b> element specifies a document map
-label to identify a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a>
-within the rendered <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>.</p>
+label to identify a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.md">Matrix</a>
+within the rendered <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.md">Report</a>.</p>
 
 <p>This element is optional. If <b>Matrix.Label</b> is
-specified, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> or an expression
-that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>.
+specified, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a> or an expression
+that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>.
 If the expression returns NULL, no item is added to the document map. This
-element is ignored if the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_32295443-a111-4846-955d-a3f5964726bb">matrix</a>
+element is ignored if the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_32295443-a111-4846-955d-a3f5964726bb">matrix</a>
 is contained within a page header or page footer.</p>
 
 <p>Following is the parent element of the <b>Matrix.Label</b>

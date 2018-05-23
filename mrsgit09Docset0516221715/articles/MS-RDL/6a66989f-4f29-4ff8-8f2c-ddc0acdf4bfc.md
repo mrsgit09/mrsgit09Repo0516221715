@@ -23,19 +23,19 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>CustomLabel.AllowUpsideDown</b> element specifies
-whether a <a href="519139e8-6188-4286-b148-dfd76a0a6be4.html">CustomLabel</a>
+whether a <a href="519139e8-6188-4286-b148-dfd76a0a6be4.md">CustomLabel</a>
 can be rotated by more than 90 degrees. The <b>CustomLabel.AllowUpsideDown</b>
 element is optional. </p>
 
-<p>If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.html">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+<p>If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.md">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.2) or an expression that evaluates to a <b>Boolean</b>. If this element is
 not present, its value is interpreted as false. If the containing element for
-this <b>CustomLabel</b> is not a <a href="86468d9f-c561-4b50-a689-5dfccfde8495.html">RadialScale</a>, the <b>CustomLabel.AllowUpsideDown</b>
+this <b>CustomLabel</b> is not a <a href="86468d9f-c561-4b50-a689-5dfccfde8495.md">RadialScale</a>, the <b>CustomLabel.AllowUpsideDown</b>
 element is ignored.</p>
 
 <p>The following is the parent element of the <b>CustomLabel.AllowUpsideDown</b>

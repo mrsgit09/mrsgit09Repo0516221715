@@ -24,11 +24,11 @@
                     
 
 <p>The <b>Field.Name</b> attribute specifies a unique
-identifier for a <a href="940b8522-5d1f-4a2a-ab79-087ef6a69881.html">Field</a>.
+identifier for a <a href="940b8522-5d1f-4a2a-ab79-087ef6a69881.md">Field</a>.
 This attribute MUST be specified. The value of the <b>Field.Name</b> attribute
-MUST be a case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
+MUST be a case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
 identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>
-that is unique among the fields within the same <a href="b37f01de-0f2f-42f0-90e2-ad8bed343954.html">Fields</a> collection.</p>
+that is unique among the fields within the same <a href="b37f01de-0f2f-42f0-90e2-ad8bed343954.md">Fields</a> collection.</p>
 
 <p>Following is the parent element of the <b>Field.Name</b>
 attribute. </p>

@@ -23,9 +23,9 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
-<p>The <b>Slider</b> element specifies the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_de562f82-95a1-4b96-a94e-0e6e3c15dd97">slider metadata</a> for band
+<p>The <b>Slider</b> element specifies the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_de562f82-95a1-4b96-a94e-0e6e3c15dd97">slider metadata</a> for band
 navigation.</p>
 
 <p>The following are the parent and child elements of the <b>Slider</b>
@@ -41,17 +41,17 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="abc2c5cb-891e-4b78-baec-9b692f1f388a.html">Coverflow</a></p>
+  <p><a href="abc2c5cb-891e-4b78-baec-9b692f1f388a.md">Coverflow</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="7d46e0bb-d38a-4c70-966c-37302e7f3315.html">Tabstrip</a></p>
+  <p><a href="7d46e0bb-d38a-4c70-966c-37302e7f3315.md">Tabstrip</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="acda9c21-394e-4fea-91ec-24e988e9d4f7.html">PlayAxis</a></p>
+  <p><a href="acda9c21-394e-4fea-91ec-24e988e9d4f7.md">PlayAxis</a></p>
   </td>
  </tr>
 </table>
@@ -68,12 +68,12 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="e3046f50-3b68-4dcb-83d6-01315282a2fd.html">Hidden</a></p>
+  <p><a href="e3046f50-3b68-4dcb-83d6-01315282a2fd.md">Hidden</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="062db763-8882-4662-895c-71fe98d16b14.html">LabelData</a></p>
+  <p><a href="062db763-8882-4662-895c-71fe98d16b14.md">LabelData</a></p>
   </td>
  </tr>
 </table>

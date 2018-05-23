@@ -23,10 +23,10 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>Image.Height</b> element specifies the height of an <a href="63e1e5ab-7c49-4f62-8dbd-62d85de2b153.html">Image</a>. This element is
-optional. If this element is present, its value MUST be an <a href="b40c092e-4fe5-4f7b-a0bf-c98df1361c90.html">RdlSize</a>. If this element
+<p>The <b>Image.Height</b> element specifies the height of an <a href="63e1e5ab-7c49-4f62-8dbd-62d85de2b153.md">Image</a>. This element is
+optional. If this element is present, its value MUST be an <a href="b40c092e-4fe5-4f7b-a0bf-c98df1361c90.md">RdlSize</a>. If this element
 is not present, its value is interpreted as the height of the image's
-container, such as a <b>Rectangle</b> or <b>Body</b>, minus the value of the <a href="87b4ca54-7e3c-4fb6-bf62-9e24b7dd36fd.html">Image.Top</a> element, if
+container, such as a <b>Rectangle</b> or <b>Body</b>, minus the value of the <a href="87b4ca54-7e3c-4fb6-bf62-9e24b7dd36fd.md">Image.Top</a> element, if
 specified.</p>
 
 <p>Following is the parent element of the <b>Image.Height</b>

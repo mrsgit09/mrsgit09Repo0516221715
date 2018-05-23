@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Matrix.Name</b> attribute specifies a unique
-identifier for a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a>.
+identifier for a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.md">Matrix</a>.
 This attribute MUST be specified. The value of the <b>Matrix.Name</b> attribute
-MUST be a <b>NormalizedString</b> that is a case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>. This value
+MUST be a <b>NormalizedString</b> that is a case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>. This value
 MUST be unique among the set of all report item and scope names.</p>
 
 <p>Following is the parent element of the <b>Matrix.Name</b>

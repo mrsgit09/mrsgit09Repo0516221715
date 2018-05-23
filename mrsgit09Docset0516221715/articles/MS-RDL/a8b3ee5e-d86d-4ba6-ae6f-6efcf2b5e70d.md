@@ -24,8 +24,8 @@
                     
 
 <p><i>rsDataSourceInQueryParameterExpression</i> is a critical
-error that will occur when a <a href="460d7670-b17e-4b1c-8dfd-6e708eef1d8c.html">QueryParameter.Value</a>
-element references a <a href="77c08d5f-043d-4ab0-93fc-151964bf42a5.html">DataSources</a>
+error that will occur when a <a href="460d7670-b17e-4b1c-8dfd-6e708eef1d8c.md">QueryParameter.Value</a>
+element references a <a href="77c08d5f-043d-4ab0-93fc-151964bf42a5.md">DataSources</a>
 global collection.</p>
 
 

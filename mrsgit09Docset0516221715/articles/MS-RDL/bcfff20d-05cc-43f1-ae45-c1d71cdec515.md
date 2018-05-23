@@ -23,8 +23,8 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Subreport.LinkToChild</b> element is ignored.</p>
 
@@ -41,7 +41,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="04d4d6d6-e103-48fc-b4f7-bf5b4a7e56e5.html">Subreport</a></p>
+  <p><a href="04d4d6d6-e103-48fc-b4f7-bf5b4a7e56e5.md">Subreport</a></p>
   </td>
  </tr>
 </table>

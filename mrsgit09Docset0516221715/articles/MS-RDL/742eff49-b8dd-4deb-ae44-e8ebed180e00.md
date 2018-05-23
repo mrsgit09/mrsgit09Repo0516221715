@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>IndicatorStates.IndicatorState</b> element is ignored
 in any schema version prior to <a href="file:///C:\Users\v-ciwyck\Documents\EAI%20Projects\EAI%20166%20RDL%20scrub\EAI%20166_MS-RDL%20Scrub%20Instructions%20101416%20CJW.docx#Section_3428e690a3484ec78a6a8efb42d2cdee">RDL 2010/01</a>.
-This element is of type <a href="b01d342e-1604-47c5-b90b-a4ce7bfd441c.html">IndicatorState</a>.</p>
+This element is of type <a href="b01d342e-1604-47c5-b90b-a4ce7bfd441c.md">IndicatorState</a>.</p>
 
 <p>The following is the parent element of the <b>IndicatorStates.IndicatorState</b>
 element.</p>
@@ -44,7 +44,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="634b6e0c-6af3-42e6-a823-1d5487d9b59e.html">IndicatorStates</a></p>
+  <p><a href="634b6e0c-6af3-42e6-a823-1d5487d9b59e.md">IndicatorStates</a></p>
   </td>
  </tr>
 </table>

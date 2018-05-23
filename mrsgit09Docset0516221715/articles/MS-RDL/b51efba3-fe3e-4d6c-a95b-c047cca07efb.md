@@ -24,8 +24,8 @@
                     
 
 <p>The <b>FilterValues.FilterValue</b> element specifies a
-value to compare to the value of the <a href="6cfe60b1-d7e0-4e1e-807e-0ca41147cc29.html">Filter.FilterExpression</a>
-element by using the <a href="aeabd6cf-dda9-4abc-accc-302948402c07.html">Filter.Operator</a>
+value to compare to the value of the <a href="6cfe60b1-d7e0-4e1e-807e-0ca41147cc29.md">Filter.FilterExpression</a>
+element by using the <a href="aeabd6cf-dda9-4abc-accc-302948402c07.md">Filter.Operator</a>
 element.</p>
 
 <p>If <b>Filter.Operator</b> is not set to &quot;In&quot; or
@@ -34,12 +34,12 @@ element. </p>
 
 <p>If <b>Filter.Operator</b> is set to &quot;TopN&quot; or
 &quot;BottomN&quot;, the value of the <b>FilterValues.FilterValue</b> element
-MUST be an <a href="176fbb59-c3e2-430c-b1bb-37fd15df813e.html">Integer</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+MUST be an <a href="176fbb59-c3e2-430c-b1bb-37fd15df813e.md">Integer</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.3.17) or an expression that evaluates to an <b>Integer</b>. </p>
 
 <p>If <b>Filter.Operator</b> is set to &quot;TopPercent&quot;
 or &quot;BottomPercent&quot;, the value of the <b>FilterValues.FilterValue</b>
-element MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.html">Float</a>
+element MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.md">Float</a>
 ([XMLSCHEMA2] section 3.2.4) or an expression that evaluates to a <b>Float</b>.
 </p>
 
@@ -59,7 +59,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="6bd82e79-e154-4159-94ef-b950fbba402d.html">FilterValues</a></p>
+  <p><a href="6bd82e79-e154-4159-94ef-b950fbba402d.md">FilterValues</a></p>
   </td>
  </tr>
 </table>
@@ -76,13 +76,13 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="f29f2111-e458-4aac-aabd-3086ad4d7acc.html">FilterValues.FilterValue.DataType</a></p>
+  <p><a href="f29f2111-e458-4aac-aabd-3086ad4d7acc.md">FilterValues.FilterValue.DataType</a></p>
   </td>
  </tr>
 </table>
 
 <p>The following is the XML Schema definition of the <b>FilterValues.FilterValue</b>
-element in <a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html">RDL 2003/10</a><span> </span>and <a href="3ebe2912-4958-4832-b391-cad1f5e13338.html">RDL 2005/01</a>.</p>
+element in <a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md">RDL 2003/10</a><span> </span>and <a href="3ebe2912-4958-4832-b391-cad1f5e13338.md">RDL 2005/01</a>.</p>
 
 <dl>
 <dd>
@@ -92,8 +92,8 @@ element in <a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html">RDL 2003/10</a><s
 </dd></dl>
 
 <p>The following is the XML Schema definition of the <b>FilterValues.FilterValue</b>
-element in <a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html">RDL 2008/01</a>,
-<a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html">RDL 2010/01</a>, and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html">RDL 2016/01</a>.</p>
+element in <a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md">RDL 2008/01</a>,
+<a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md">RDL 2010/01</a>, and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md">RDL 2016/01</a>.</p>
 
 <dl>
 <dd>

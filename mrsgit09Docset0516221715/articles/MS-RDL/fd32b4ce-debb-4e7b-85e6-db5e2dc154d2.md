@@ -23,14 +23,14 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>ChartAxis.ChartAxisScaleBreak</b> element specifies
-the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_2d4a929f-30aa-49de-98c0-dbee18f13f34">scale break</a> behavior
-of a <a href="0c19f1cb-ef68-4c28-a2d0-8601b7fd0f32.html">ChartAxis</a>. This
-element is optional. The element is of type <a href="2933ab6c-fef1-4e72-8f2f-fae83e9e3bb8.html">ChartAxisScaleBreak</a>.</p>
+the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_2d4a929f-30aa-49de-98c0-dbee18f13f34">scale break</a> behavior
+of a <a href="0c19f1cb-ef68-4c28-a2d0-8601b7fd0f32.md">ChartAxis</a>. This
+element is optional. The element is of type <a href="2933ab6c-fef1-4e72-8f2f-fae83e9e3bb8.md">ChartAxisScaleBreak</a>.</p>
 
 <p>Following is the parent element of the <b>ChartAxis.ChartAxisScaleBreak</b>
 element.</p>

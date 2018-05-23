@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Chart.PageBreakAtStart</b> element specifies whether
-a page break is inserted before a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.html">Chart</a>. This element is
-optional. If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.html">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+a page break is inserted before a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.md">Chart</a>. This element is
+optional. If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.md">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.2). If this element is not present, its value is interpreted as false.</p>
 
 <p>Following is the parent element of the <b>Chart.PageBreakAtStart</b>

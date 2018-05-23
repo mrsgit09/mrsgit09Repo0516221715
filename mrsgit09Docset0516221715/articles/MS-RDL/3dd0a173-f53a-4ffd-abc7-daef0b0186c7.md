@@ -23,18 +23,18 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>TextRun.Value.DataType</b> attribute specifies the
-data type of the <a href="99982bda-2dd1-4626-b8ef-da888d95f4ff.html">TextRun.Value</a>
+data type of the <a href="99982bda-2dd1-4626-b8ef-da888d95f4ff.md">TextRun.Value</a>
 element if the value of <b>TextRun.Value</b> is a constant. This attribute is
-optional. If this attribute is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
-3.2.1), a <a href="4802fa14-3619-43fa-9898-3acab160a24c.html">Boolean</a>
-([XMLSCHEMA2] section 3.2.2), a <a href="d3b6da93-3935-4a28-8521-268d6f7f9a9d.html">DateTime</a> ([XMLSCHEMA2]
-section 3.2.7), an <a href="176fbb59-c3e2-430c-b1bb-37fd15df813e.html">Integer</a>
-([XMLSCHEMA2] section 3.3.17), or a <a href="c7d0946f-992e-4abc-a304-09b53e030692.html">Float</a> ([XMLSCHEMA2]
+optional. If this attribute is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+3.2.1), a <a href="4802fa14-3619-43fa-9898-3acab160a24c.md">Boolean</a>
+([XMLSCHEMA2] section 3.2.2), a <a href="d3b6da93-3935-4a28-8521-268d6f7f9a9d.md">DateTime</a> ([XMLSCHEMA2]
+section 3.2.7), an <a href="176fbb59-c3e2-430c-b1bb-37fd15df813e.md">Integer</a>
+([XMLSCHEMA2] section 3.3.17), or a <a href="c7d0946f-992e-4abc-a304-09b53e030692.md">Float</a> ([XMLSCHEMA2]
 section 3.2.4). If this attribute is not present, its value is interpreted as a
 <b>String.</b></p>
 

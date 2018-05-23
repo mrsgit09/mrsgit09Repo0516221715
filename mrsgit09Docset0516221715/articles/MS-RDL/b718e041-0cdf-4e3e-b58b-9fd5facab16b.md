@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapMarkerImage.TransparentColor</b> element specifies
-the color to treat as transparent in the <a href="d31b353a-74ed-40cb-9031-7c5cf39a3056.html">MapMarkerImage</a>. The <b>MapMarkerImage.TransparentColor</b>
-element is optional. If this element is present, its value MUST be an <a href="b302c6a5-6023-42b1-95ed-bafcdc4b5714.html">RdlColor</a> or an expression
+the color to treat as transparent in the <a href="d31b353a-74ed-40cb-9031-7c5cf39a3056.md">MapMarkerImage</a>. The <b>MapMarkerImage.TransparentColor</b>
+element is optional. If this element is present, its value MUST be an <a href="b302c6a5-6023-42b1-95ed-bafcdc4b5714.md">RdlColor</a> or an expression
 that evaluates to an <b>RdlColor</b>. Otherwise, the image is displayed as-is.</p>
 
 <p>Following is the parent element of the <b>MapMarkerImage.TransparentColor</b>

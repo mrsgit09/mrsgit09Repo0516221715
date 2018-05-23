@@ -24,7 +24,7 @@
                     
 
 <p>The <b>Values</b> element specifies a set of values. For a
-non-multivalue parameter (such as when <a href="c21237a1-8237-4538-a105-1f760242de1d.html">ReportParameter.MultiValue</a>
+non-multivalue parameter (such as when <a href="c21237a1-8237-4538-a105-1f760242de1d.md">ReportParameter.MultiValue</a>
 is set to &quot;false&quot;), this collection MUST contain one <b>Value</b>
 element.</p>
 
@@ -41,7 +41,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="c3ccf500-98a5-438c-8e4f-fc5cc4b8d508.html">DefaultValue</a></p>
+  <p><a href="c3ccf500-98a5-438c-8e4f-fc5cc4b8d508.md">DefaultValue</a></p>
   </td>
  </tr>
 </table>
@@ -58,7 +58,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="6d1d760f-fc6f-4450-bacd-b0de538016fc.html">Values.Value</a>
+  <p><a href="6d1d760f-fc6f-4450-bacd-b0de538016fc.md">Values.Value</a>
   </p>
   </td>
  </tr>

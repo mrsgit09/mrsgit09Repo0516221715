@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b><i>
-and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b><i>
+and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p><i>rsCountRowsInPageSectionExpression</i> is a critical
-error that will occur (in SQL Server 2005 Reporting Services) when the <a href="4d32760b-63b7-427b-a576-edaf40e00d69.html">CountRows</a> aggregate
-function is used in an expression within a <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.html">PageHeaderFooter</a>.</p>
+error that will occur (in SQL Server 2005 Reporting Services) when the <a href="4d32760b-63b7-427b-a576-edaf40e00d69.md">CountRows</a> aggregate
+function is used in an expression within a <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.md">PageHeaderFooter</a>.</p>
 
 
                 </div>

@@ -23,15 +23,15 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>TableRows.TableRow</b> element specifies a single row
-of cells in a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.html">Table</a>.
+of cells in a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.md">Table</a>.
 This element MUST be specified. More than one <b>TableRows.TableRow</b> element
-can be specified under a single <a href="e0f8c5a6-4cdb-4fec-9bfc-cabf5ecd04ad.html">TableRows</a> parent element.</p>
+can be specified under a single <a href="e0f8c5a6-4cdb-4fec-9bfc-cabf5ecd04ad.md">TableRows</a> parent element.</p>
 
-<p>The <b>TableRows.TableRow</b> element is of type <a href="839c6688-01b5-4468-a398-49a7a4ce5eed.html">TableRow</a>.</p>
+<p>The <b>TableRows.TableRow</b> element is of type <a href="839c6688-01b5-4468-a398-49a7a4ce5eed.md">TableRow</a>.</p>
 
 <p>Following is the parent element of the <b>TableRows.TableRow</b>
 element.</p>

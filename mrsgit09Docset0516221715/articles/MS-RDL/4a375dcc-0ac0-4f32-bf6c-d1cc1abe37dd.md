@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.md"><b><i>RDL 2011/01</i></b></a></p>
 
-<p>The <b>Chart.Relationship</b> element specifies a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_2913b24a-aa1a-42cb-8b80-047821e296cb">relationship</a> to use for
-correlating data in a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.html">Chart</a>
+<p>The <b>Chart.Relationship</b> element specifies a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_2913b24a-aa1a-42cb-8b80-047821e296cb">relationship</a> to use for
+correlating data in a <a href="b0ab5524-7eb2-47a7-a4d3-230f5c8c5526.md">Chart</a>
 with the data in the containing scope. The <b>Chart.Relationship</b> element is
 optional and MUST NOT be specified more than once. If this element is
-specified, it is of type <a href="6d1c77e5-1573-4ad6-8d2a-c507411ad94b.html">Relationship</a>.
+specified, it is of type <a href="6d1c77e5-1573-4ad6-8d2a-c507411ad94b.md">Relationship</a>.
 The <b>Chart.Relationship</b> element MUST NOT be specified if there is no
 containing scope.</p>
 

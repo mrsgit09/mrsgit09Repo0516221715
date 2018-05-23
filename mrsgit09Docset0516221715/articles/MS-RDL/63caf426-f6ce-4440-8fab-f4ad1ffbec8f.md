@@ -23,14 +23,14 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.md"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.md"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.md"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>ChartFormulaParameters.ChartFormulaParameter</b>
-element specifies a <a href="9348c7b6-8dbe-4681-a6d3-ed41b36e06c7.html">ChartFormulaParameter</a>
-within the <a href="97094777-5f97-423f-9603-eee3a774271c.html">ChartFormulaParameters</a>
-for a <a href="1d639ad1-8e24-45ec-8dcb-8b6163780a36.html">ChartDerivedSeries</a>.
+element specifies a <a href="9348c7b6-8dbe-4681-a6d3-ed41b36e06c7.md">ChartFormulaParameter</a>
+within the <a href="97094777-5f97-423f-9603-eee3a774271c.md">ChartFormulaParameters</a>
+for a <a href="1d639ad1-8e24-45ec-8dcb-8b6163780a36.md">ChartDerivedSeries</a>.
 The <b>ChartFormulaParameters.ChartFormulaParameter</b> element MUST be
 specified at least once. This element is of type <b>ChartFormulaParameter</b>.</p>
 

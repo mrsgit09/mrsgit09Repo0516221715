@@ -23,14 +23,14 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.md"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.md"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>SortBy.SortExpression</b> element specifies an
 expression by which to sort the data. This element MUST be specified, and its
-value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a>
+value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.md">String</a>
 (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a>
-section 3.2.1) or an expression that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>.</p>
+section 3.2.1) or an expression that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.md#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>.</p>
 
 <p>Following is the parent element of the <b>SortBy.SortExpression</b>
 element.</p>
@@ -45,7 +45,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="cb7d07c5-845b-40f5-b1a8-e28b205cc7a1.html">SortBy</a></p>
+  <p><a href="cb7d07c5-845b-40f5-b1a8-e28b205cc7a1.md">SortBy</a></p>
   </td>
  </tr>
 </table>
