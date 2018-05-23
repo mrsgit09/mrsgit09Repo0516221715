@@ -182,7 +182,7 @@ structures defined at the NDB Layer.</p>
 </table>
 
 <p><b>data (variable):</b> The value of this field
-SHOULD be treated as an opaque <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_ad861812-8cb0-497a-80bb-13c95aa4e425">binary large object (BLOB)</a>
+SHOULD be treated as an opaque <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.md#gt_ad861812-8cb0-497a-80bb-13c95aa4e425">binary large object (BLOB)</a>
 by the NDB Layer. The size of this field is indicated by the <b>cb</b> subfield
 of the <b>blockTrailer </b>field.</p>
 

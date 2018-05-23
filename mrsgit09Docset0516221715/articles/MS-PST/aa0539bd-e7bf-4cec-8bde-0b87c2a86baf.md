@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>At the PST level, the <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.html#gt_fda94a53-448d-48d5-9991-176c530ff597">message store</a> is the root
+<p>At the PST level, the <a href="08220cc9-69b1-4072-a2e7-2a0ff201d505.md#gt_fda94a53-448d-48d5-9991-176c530ff597">message store</a> is the root
 of the PST, which is the rough equivalent of the top of a Mailbox. The message
 store contains the top-level PST settings and metadata that are required to
 access and manage the PST contents.</p>

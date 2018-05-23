@@ -40,7 +40,7 @@ allocate file space is made.</p>
 <p>This recovery operation uses a process called an &quot;AMap
 rebuild&quot;, which involves first marking all the AMaps as &quot;free&quot;
 and then walking the NBT and BBT to mark pages and blocks as
-&quot;allocated&quot; in the map pages as they appear.<a id="Appendix_A_Target_23"></a><a href="f040f8b2-f023-4ed9-94fd-de487da83ed5.html#Appendix_A_23" aria-label="Product behavior note 23">&lt;23&gt;</a> The rebuild process also
+&quot;allocated&quot; in the map pages as they appear.<a id="Appendix_A_Target_23"></a><a href="f040f8b2-f023-4ed9-94fd-de487da83ed5.md#Appendix_A_23" aria-label="Product behavior note 23">&lt;23&gt;</a> The rebuild process also
 ensures that all space occupied by the AMaps, PMaps, FMaps and FPMaps are
 properly marked as allocated.</p>
 
