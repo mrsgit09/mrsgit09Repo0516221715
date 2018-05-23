@@ -40,7 +40,7 @@ operation are described with the operation.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="ffbc22a5-b743-4611-87f6-7527653bcf92.htm">AnnotationsCreateResponse</a></p>
+  <p><a href="ffbc22a5-b743-4611-87f6-7527653bcf92.html">AnnotationsCreateResponse</a></p>
   </td>
   <td>
   <p>Specifies the standard response message for an
@@ -49,7 +49,7 @@ operation are described with the operation.</p>
  </tr>
  <tr>
   <td>
-  <p><a href="bbcd3d5f-b7e5-468b-8561-6244771b8f1b.htm">DataQualityOperationCreateResponse</a></p>
+  <p><a href="bbcd3d5f-b7e5-468b-8561-6244771b8f1b.html">DataQualityOperationCreateResponse</a></p>
   </td>
   <td>
   <p>Specifies the parameters that identify the operation
@@ -58,7 +58,7 @@ operation are described with the operation.</p>
  </tr>
  <tr>
   <td>
-  <p><a href="81713c2d-8c41-43bd-85dd-e106c538c3ae.htm">MessageResponse</a></p>
+  <p><a href="81713c2d-8c41-43bd-85dd-e106c538c3ae.html">MessageResponse</a></p>
   </td>
   <td>
   <p>Specifies the standard response message for a
@@ -67,7 +67,7 @@ operation are described with the operation.</p>
  </tr>
  <tr>
   <td>
-  <p><a href="e8497e18-d5e8-465e-8176-5ad8315f054e.htm">SecurityCreateResponse</a></p>
+  <p><a href="e8497e18-d5e8-465e-8176-5ad8315f054e.html">SecurityCreateResponse</a></p>
   </td>
   <td>
   <p>Specifies the parameters that return the set of
@@ -76,7 +76,7 @@ operation are described with the operation.</p>
  </tr>
  <tr>
   <td>
-  <p><a href="39ddbb0b-421e-4cf1-b6a7-e5dcea8a63b5.htm">SecurityPrincipalsRequest</a></p>
+  <p><a href="39ddbb0b-421e-4cf1-b6a7-e5dcea8a63b5.html">SecurityPrincipalsRequest</a></p>
   </td>
   <td>
   <p>Specifies the parameters that are used to filter the
@@ -85,7 +85,7 @@ operation are described with the operation.</p>
  </tr>
  <tr>
   <td>
-  <p><a href="3f870fd6-70a4-4e7d-9b23-e1428eb50db5.htm">SecurityPrivilegesRequest</a></p>
+  <p><a href="3f870fd6-70a4-4e7d-9b23-e1428eb50db5.html">SecurityPrivilegesRequest</a></p>
   </td>
   <td>
   <p>Specifies the common parameters for a security

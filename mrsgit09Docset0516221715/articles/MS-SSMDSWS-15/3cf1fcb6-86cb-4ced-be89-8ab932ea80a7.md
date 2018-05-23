@@ -46,7 +46,7 @@ the annotations: </p>
 </li></ul><p>Additionally, at least one annotation MUST be included in a
 collection of annotations.</p>
 
-<p>This operation returns an <a href="ffbc22a5-b743-4611-87f6-7527653bcf92.htm">AnnotationsCreateResponse</a>
+<p>This operation returns an <a href="ffbc22a5-b743-4611-87f6-7527653bcf92.html">AnnotationsCreateResponse</a>
 message.</p>
 
 <p>The following is the WSDL definition of the <b>EntityMemberAnnotationsCreate</b>

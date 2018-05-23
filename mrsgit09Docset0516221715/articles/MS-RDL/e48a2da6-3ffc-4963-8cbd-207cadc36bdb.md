@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Grouping.Filters</b> element specifies a collection
-of <a href="c0f6a66a-1055-4f4d-b1e7-4fc47b588ed2.htm">Filter</a> elements to
-be applied to the data for each instance of a <a href="7d574154-eefe-4fc1-8b78-3a18b9350e87.htm">Grouping</a>. This element is
-optional and is of type <a href="4075354a-2747-4ce0-ba0f-3e32a950f605.htm">Filters</a>.
+of <a href="c0f6a66a-1055-4f4d-b1e7-4fc47b588ed2.html">Filter</a> elements to
+be applied to the data for each instance of a <a href="7d574154-eefe-4fc1-8b78-3a18b9350e87.html">Grouping</a>. This element is
+optional and is of type <a href="4075354a-2747-4ce0-ba0f-3e32a950f605.html">Filters</a>.
 </p>
 
 <p>Following is the parent element of the <b>Grouping.Filters</b>

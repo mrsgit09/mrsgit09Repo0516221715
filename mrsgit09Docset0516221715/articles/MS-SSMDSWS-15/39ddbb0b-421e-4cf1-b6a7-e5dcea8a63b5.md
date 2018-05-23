@@ -26,7 +26,7 @@
 <p>The <b>SecurityPrincipalsRequest</b> message specifies the
 parameters that are used to filter the list of returned security principals.</p>
 
-<p>The following is the <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.htm#gt_5a824664-0858-4b09-b852-83baf4584efa">WSDL</a> definition of the <b>SecurityPrincipalsRequest</b>
+<p>The following is the <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.html#gt_5a824664-0858-4b09-b852-83baf4584efa">WSDL</a> definition of the <b>SecurityPrincipalsRequest</b>
 message.</p>
 
 <dl>

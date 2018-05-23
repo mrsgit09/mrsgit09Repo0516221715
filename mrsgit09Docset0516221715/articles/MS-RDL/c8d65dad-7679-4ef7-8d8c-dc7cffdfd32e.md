@@ -24,13 +24,13 @@
                     
 
 <p>The <b>Visibility.ToggleItem</b> element specifies the name
-of a <a href="469d0032-b5ec-43d9-ab36-d3a88b9cc1f6.htm">Textbox</a> that is
+of a <a href="469d0032-b5ec-43d9-ab36-d3a88b9cc1f6.html">Textbox</a> that is
 used to hide or unhide the containing report item. This element is optional. </p>
 
-<p>If this element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+<p>If this element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1). The value of this element MUST contain the name of a text box in the
 same group as the containing report item or in any containing ancestor group
-scope. The value of this element MUST NOT refer to a report item within <a href="afff0921-7d95-4216-8f28-635c67d539d8.htm">PageSection</a> or <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.htm">PageHeaderFooter</a> element.
+scope. The value of this element MUST NOT refer to a report item within <a href="afff0921-7d95-4216-8f28-635c67d539d8.html">PageSection</a> or <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.html">PageHeaderFooter</a> element.
 If the <b>Visibility.ToggleItem</b> element is not present, the appearance of
 the containing report item MUST NOT be toggleable.</p>
 
@@ -47,7 +47,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="9505fbda-7f65-4874-a54a-1944059812e0.htm">Visibility</a></p>
+  <p><a href="9505fbda-7f65-4874-a54a-1944059812e0.html">Visibility</a></p>
   </td>
  </tr>
 </table>

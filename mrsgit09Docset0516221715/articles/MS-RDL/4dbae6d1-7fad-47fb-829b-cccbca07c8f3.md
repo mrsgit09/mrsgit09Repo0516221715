@@ -23,25 +23,25 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
-<p>The <b>MapPointLayer.MapShapefile</b> element specifies a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_acfac44c-899b-4e09-9b7b-02e9a82d4f50">shapefile</a> as the source for
+<p>The <b>MapPointLayer.MapShapefile</b> element specifies a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_acfac44c-899b-4e09-9b7b-02e9a82d4f50">shapefile</a> as the source for
 the map points for the parent layer. This element is optional. This element is
-ignored if the value of the <a href="c2ab976f-45a9-4d60-a228-e45942cf4246.htm">MapPointLayer.MapPoints</a>
+ignored if the value of the <a href="c2ab976f-45a9-4d60-a228-e45942cf4246.html">MapPointLayer.MapPoints</a>
 element is specified. </p>
 
 <p>The <b>MapPointLayer.MapShapefile</b> element cannot be
 present if either of the following elements is present:</p>
 
 <ul><li><p><span><span> 
-</span></span> <a href="50f66e00-ecd7-48a7-9d10-ca15c307dba9.htm">MapPointLayer.MapSpatialDataSet</a></p>
+</span></span> <a href="50f66e00-ecd7-48a7-9d10-ca15c307dba9.html">MapPointLayer.MapSpatialDataSet</a></p>
 
 </li><li><p><span><span> 
-</span></span> <a href="e5028a82-02d1-4155-a9ab-78b7550dda05.htm">MapPointLayer.MapSpatialDataRegion</a>
+</span></span> <a href="e5028a82-02d1-4155-a9ab-78b7550dda05.html">MapPointLayer.MapSpatialDataRegion</a>
 </p>
 
-</li></ul><p>The <b>MapPointLayer.MapShapefile</b> element is of type <a href="1974bea2-bd30-4ed4-8c98-06fd8ec7c9ee.htm">MapShapefile</a>.</p>
+</li></ul><p>The <b>MapPointLayer.MapShapefile</b> element is of type <a href="1974bea2-bd30-4ed4-8c98-06fd8ec7c9ee.html">MapShapefile</a>.</p>
 
 <p>Following is the parent element of the <b>MapPointLayer.MapShapefile</b>
 element.</p>
@@ -56,7 +56,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="aa1875f4-9842-4672-86d6-306ba5a075aa.htm">MapPointLayer</a></p>
+  <p><a href="aa1875f4-9842-4672-86d6-306ba5a075aa.html">MapPointLayer</a></p>
   </td>
  </tr>
 </table>

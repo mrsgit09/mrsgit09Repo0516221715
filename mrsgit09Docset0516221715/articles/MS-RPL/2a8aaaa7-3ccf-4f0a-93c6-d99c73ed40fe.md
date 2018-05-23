@@ -24,14 +24,14 @@
                     
 
 <p>The <b>ImageData</b> property specifies a structure that
-defines the content for an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.htm#gt_d6b55d1e-aea6-4b7e-a23d-c0de845e0b50">image</a>.
+defines the content for an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_d6b55d1e-aea6-4b7e-a23d-c0de845e0b50">image</a>.
 If this property is specified, it MUST be part of one of the following records:</p>
 
 <ul><li><p><span><span> 
-</span></span><a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.htm">ImageDataProperties.InlineSharedImageDataProperties</a></p>
+</span></span><a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.html">ImageDataProperties.InlineSharedImageDataProperties</a></p>
 
 </li><li><p><span><span> 
-</span></span><a href="cd824380-615e-4259-9193-320c0992eb47.htm">ImageDataProperties.NonSharedImageDataProperties</a>          
+</span></span><a href="cd824380-615e-4259-9193-320c0992eb47.html">ImageDataProperties.NonSharedImageDataProperties</a>          
 </p>
 
 <div><pre> ImageData = imageDataStart count imageDataContent

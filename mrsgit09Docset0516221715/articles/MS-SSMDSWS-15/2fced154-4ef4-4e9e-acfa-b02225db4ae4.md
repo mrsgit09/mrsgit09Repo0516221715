@@ -24,7 +24,7 @@
                     
 
 <p>The <b>ArrayOfCollection</b> complex type specifies a
-collection of <a href="f1e9258d-12a4-4421-93ca-a3aa86921272.htm">Collection</a>
+collection of <a href="f1e9258d-12a4-4421-93ca-a3aa86921272.html">Collection</a>
 complex types.</p>
 
 <p>The following is the XML schema definition of the <b>ArrayOfCollection</b>

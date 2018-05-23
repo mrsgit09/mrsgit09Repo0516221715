@@ -23,15 +23,15 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.htm"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
 
-<p>The <b>LabelData.Key</b> element specifies the name of the <a href="a14782b0-2e2f-4305-83a3-3de3fd750b6a.htm">DataSet</a> Field to be
-matched with a band (<a href="e42fb86e-799a-4202-8845-ac38831efccb.htm">Tablix</a>)
-<a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_75bd4c80-aee7-4a88-bfb7-2228acc3ffe6">group expression</a> value.
+<p>The <b>LabelData.Key</b> element specifies the name of the <a href="a14782b0-2e2f-4305-83a3-3de3fd750b6a.html">DataSet</a> Field to be
+matched with a band (<a href="e42fb86e-799a-4202-8845-ac38831efccb.html">Tablix</a>)
+<a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_75bd4c80-aee7-4a88-bfb7-2228acc3ffe6">group expression</a> value.
 The <b>LabelData.Key</b> element is optional. If this element is specified, its
-value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a>
+value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a>
 (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a>
-section 3.2.1) that is one of the <a href="6da34dff-0fdf-4ae2-92dc-2af0ece382bc.htm">Field.Name</a> attribute
+section 3.2.1) that is one of the <a href="6da34dff-0fdf-4ae2-92dc-2af0ece382bc.html">Field.Name</a> attribute
 values of the <b>DataSet</b> for slider metadata.</p>
 
 <p>The following is the parent element of the <b>LabelData.Key</b>
@@ -47,7 +47,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="7303c2e5-ce21-4b95-a9ee-a25edc46c34a.htm">LabelData</a></p>
+  <p><a href="7303c2e5-ce21-4b95-a9ee-a25edc46c34a.html">LabelData</a></p>
   </td>
  </tr>
 </table>

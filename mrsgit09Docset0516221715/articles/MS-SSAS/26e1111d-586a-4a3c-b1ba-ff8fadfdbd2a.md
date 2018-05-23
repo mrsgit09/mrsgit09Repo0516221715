@@ -24,7 +24,7 @@
                     
 
 <p>This schema rowset returns statistics on the dimension that
-is associated with a <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.htm#gt_2f24f458-7d39-47a2-93f7-de433ea85c75">partition</a>.</p>
+is associated with a <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.html#gt_2f24f458-7d39-47a2-93f7-de433ea85c75">partition</a>.</p>
 
 
                 </div>

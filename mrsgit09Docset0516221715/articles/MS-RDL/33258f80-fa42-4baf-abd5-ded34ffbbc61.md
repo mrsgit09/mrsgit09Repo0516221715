@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>TablixCell</b> parent element defines the content of
-a cell in the <a href="3a4ea889-ce18-43be-940c-2dede59ea640.htm">TablixBody</a>.</p>
+a cell in the <a href="3a4ea889-ce18-43be-940c-2dede59ea640.html">TablixBody</a>.</p>
 
 <p>The following are the parent and child elements of the <b>TablixCell</b>
 element.</p>
@@ -43,7 +43,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="68806b2c-5001-42ea-9159-3204fb6a12dc.htm">TablixCells</a></p>
+  <p><a href="68806b2c-5001-42ea-9159-3204fb6a12dc.html">TablixCells</a></p>
   </td>
  </tr>
 </table>
@@ -60,22 +60,22 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="a6564f5d-b478-42a7-9217-1a799e5ecd28.htm">TablixCell.CellContents</a></p>
+  <p><a href="a6564f5d-b478-42a7-9217-1a799e5ecd28.html">TablixCell.CellContents</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="93dad2c3-4c7f-490a-b2bd-6ac06eef05a5.htm">TablixCell.DataElementName</a></p>
+  <p><a href="93dad2c3-4c7f-490a-b2bd-6ac06eef05a5.html">TablixCell.DataElementName</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="54084c35-d31c-477d-b773-f3c9029e2a18.htm">TablixCell.DataElementOutput</a></p>
+  <p><a href="54084c35-d31c-477d-b773-f3c9029e2a18.html">TablixCell.DataElementOutput</a></p>
   </td>
  </tr>
 </table>
 
-<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.htm"><b><i>RDL 2011/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="bf2bab1a-b608-4bcc-b718-1cc1baa9579c.html"><b><i>RDL 2011/01</i></b></a></p>
 
 <table>
  <thead>
@@ -87,12 +87,12 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="cd0d895a-ff2e-4046-b1c2-1ba5e167e0ae.htm">TablixCell.DataSetName</a></p>
+  <p><a href="cd0d895a-ff2e-4046-b1c2-1ba5e167e0ae.html">TablixCell.DataSetName</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="94110e1c-36fa-4704-a9fc-8283e8dc8a03.htm">TablixCell.Relationships</a></p>
+  <p><a href="94110e1c-36fa-4704-a9fc-8283e8dc8a03.html">TablixCell.Relationships</a></p>
   </td>
  </tr>
 </table>
@@ -130,9 +130,9 @@ element in RDL 2010/01and RDL 2016/01.</p>
 The following XSD represents RDL macro-versioned schemas only. Possible
 additions, identified earlier in this section, to base schema RDL 2010/01 from
 micro-versioned schemas RDL 2011/01, RDL 2012/01, and RDL 2013/01 are provided
-in sections 5.5, <a href="f165fb82-3c5a-4369-961c-128de233638c.htm">5.6</a>,
-and <a href="c5c219b8-4b13-4c49-9c86-6a07aab39823.htm">5.7</a>, respectively.
-For more information about macro- and micro-versioned schemas, see section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.htm">2.1</a>.</p>
+in sections 5.5, <a href="f165fb82-3c5a-4369-961c-128de233638c.html">5.6</a>,
+and <a href="c5c219b8-4b13-4c49-9c86-6a07aab39823.html">5.7</a>, respectively.
+For more information about macro- and micro-versioned schemas, see section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.html">2.1</a>.</p>
 
 <dl>
 <dd>

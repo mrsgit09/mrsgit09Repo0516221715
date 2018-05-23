@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>As described in section <a href="923d81b0-f7c6-448b-adcb-45e373e8251e.htm">2.2.3</a>, this event is part
+<p>As described in section <a href="923d81b0-f7c6-448b-adcb-45e373e8251e.html">2.2.3</a>, this event is part
 of the login sequence. It MUST be preceded by an Authenticate request. Note
 that this event requires several client/server round trips.</p>
 

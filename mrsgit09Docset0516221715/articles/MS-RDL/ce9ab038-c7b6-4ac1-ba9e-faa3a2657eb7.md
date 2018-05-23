@@ -26,12 +26,12 @@
 <p>The <b>GroupExpressions.GroupExpression</b> element
 specifies an expression by which to group data. This element MUST be specified
 at least once and can be specified more than once. The value of this element
-MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
-3.2.1) or an expression that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>. </p>
+MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+3.2.1) or an expression that evaluates to a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_a3af3eaf-64b7-499b-a95f-193cd4c27812">Variant</a>. </p>
 
 <p>The value of the <b>GroupExpressions.GroupExpression</b>
-element MUST NOT include any <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_1d75df79-dbed-4ab5-8650-588c4e94ba3b">aggregate
-functions</a> other than the <a href="5246ac2c-9de7-42a2-9b5a-73484f9fe73b.htm">RowNumber</a>
+element MUST NOT include any <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_1d75df79-dbed-4ab5-8650-588c4e94ba3b">aggregate
+functions</a> other than the <a href="5246ac2c-9de7-42a2-9b5a-73484f9fe73b.html">RowNumber</a>
 aggregate function. If the RowNumber aggregate function is used, it MUST
 reference the immediately containing scope.</p>
 
@@ -48,7 +48,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="81754d26-7dbd-4449-ac41-629f9a8d0feb.htm">GroupExpressions</a></p>
+  <p><a href="81754d26-7dbd-4449-ac41-629f9a8d0feb.html">GroupExpressions</a></p>
   </td>
  </tr>
 </table>

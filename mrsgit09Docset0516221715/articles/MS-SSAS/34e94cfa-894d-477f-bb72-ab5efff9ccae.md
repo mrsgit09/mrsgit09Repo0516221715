@@ -61,7 +61,7 @@ Synchronization command.</p>
   <td>
   <p>An <b>ObjectReference</b> to the database that is the
   source of the synchronization. The <b>ObjectReference</b> type is defined in
-  section <a href="26834101-a86b-4365-8e58-d6e4a6ad377d.htm">3.1.4.3.2.1.1.1</a>.</p>
+  section <a href="26834101-a86b-4365-8e58-d6e4a6ad377d.html">3.1.4.3.2.1.1.1</a>.</p>
   </td>
  </tr>
  <tr>

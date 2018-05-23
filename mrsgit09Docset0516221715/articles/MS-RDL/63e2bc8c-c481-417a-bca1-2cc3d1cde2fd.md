@@ -23,9 +23,9 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>StateIndicators</b> element is ignored in any schema
 version prior to RDL 2010/01.</p>
@@ -43,7 +43,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="f01744d3-79fa-4f30-94bf-a1ffa6bde2ac.htm">GaugePanel</a></p>
+  <p><a href="f01744d3-79fa-4f30-94bf-a1ffa6bde2ac.html">GaugePanel</a></p>
   </td>
  </tr>
 </table>
@@ -60,7 +60,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="c7ef52b9-bf7e-4062-a953-4ff59e42d267.htm">StateIndicators.StateIndicator</a></p>
+  <p><a href="c7ef52b9-bf7e-4062-a953-4ff59e42d267.html">StateIndicators.StateIndicator</a></p>
   </td>
  </tr>
 </table>
@@ -81,7 +81,7 @@ element in RDL 2008/01.</p>
 </dd></dl>
 
 <p>The following is the XML Schema definition of the <b>StateIndicators</b>
-element in RDL 2010/01 and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm">RDL 2016/01</a>.</p>
+element in RDL 2010/01 and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html">RDL 2016/01</a>.</p>
 
 <dl>
 <dd>

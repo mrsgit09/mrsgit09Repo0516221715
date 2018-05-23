@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>In the following example, the client sends a <a href="2f146644-4be3-4ea7-8362-42128f434e85.htm">BusinessRulesCreate</a>
+<p>In the following example, the client sends a <a href="2f146644-4be3-4ea7-8362-42128f434e85.html">BusinessRulesCreate</a>
 request to create a new business rule with the MDS system.</p>
 
 

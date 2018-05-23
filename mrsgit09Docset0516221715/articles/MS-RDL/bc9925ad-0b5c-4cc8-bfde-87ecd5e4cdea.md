@@ -23,18 +23,18 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>TickMarkStyle.DistanceFromScale</b> element specifies
-the distance from the tick mark that is associated with a <a href="519139e8-6188-4286-b148-dfd76a0a6be4.htm">CustomLabel</a> instance to a
-containing <a href="86468d9f-c561-4b50-a689-5dfccfde8495.htm">RadialScale</a>
-or <a href="744f8b40-7ad5-4652-94a1-76ae5df59389.htm">LinearScale</a>. The <b>TickMarkStyle.DistanceFromScale</b>
+the distance from the tick mark that is associated with a <a href="519139e8-6188-4286-b148-dfd76a0a6be4.html">CustomLabel</a> instance to a
+containing <a href="86468d9f-c561-4b50-a689-5dfccfde8495.html">RadialScale</a>
+or <a href="744f8b40-7ad5-4652-94a1-76ae5df59389.html">LinearScale</a>. The <b>TickMarkStyle.DistanceFromScale</b>
 element is optional. </p>
 
-<p>If this element is present, its value MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.htm">Float</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
-3.2.4) or an expression that evaluates to a <b>Float</b>.<a id="Appendix_A_Target_35"></a><a href="1fe5fd87-2de5-4b2c-b762-5a4fd1373621.htm#Appendix_A_35" aria-label="Product behavior note 35">&lt;35&gt;</a> If this element is not present,
+<p>If this element is present, its value MUST be a <a href="c7d0946f-992e-4abc-a304-09b53e030692.html">Float</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+3.2.4) or an expression that evaluates to a <b>Float</b>.<a id="Appendix_A_Target_35"></a><a href="1fe5fd87-2de5-4b2c-b762-5a4fd1373621.html#Appendix_A_35" aria-label="Product behavior note 35">&lt;35&gt;</a> If this element is not present,
 its value is interpreted as 0.</p>
 
 <p>The following is the parent element of the <b>TickMarkStyle.DistanceFromScale</b>
@@ -50,7 +50,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="a7d999ec-edb5-40b9-a4f2-201ea0115806.htm">TickMarkStyle</a></p>
+  <p><a href="a7d999ec-edb5-40b9-a4f2-201ea0115806.html">TickMarkStyle</a></p>
   </td>
  </tr>
 </table>

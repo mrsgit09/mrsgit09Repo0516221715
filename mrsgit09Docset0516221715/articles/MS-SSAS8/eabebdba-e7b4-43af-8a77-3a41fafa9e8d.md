@@ -116,7 +116,7 @@
   </td>
   <td>
   <p>This value indicates Slicers (number of levels in the
-  cube + 1 (<a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_70548cb6-ef0e-4f2a-8e34-7293a9df8998">measure</a>)).</p>
+  cube + 1 (<a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_70548cb6-ef0e-4f2a-8e34-7293a9df8998">measure</a>)).</p>
   </td>
  </tr>
  <tr>
@@ -139,7 +139,7 @@
   <p>String(511)</p>
   </td>
   <td>
-  <p>This value is <a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_9b631ff5-dc89-45f0-a1c2-db6981e4804f">MDX</a> that represents the
+  <p>This value is <a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_9b631ff5-dc89-45f0-a1c2-db6981e4804f">MDX</a> that represents the
   CONDITON part of the expression.</p>
   </td>
  </tr>
@@ -157,7 +157,7 @@
   <p>Int32(513)</p>
   </td>
   <td>
-  <p>This value indicates a <a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_a611caab-b948-463e-ac07-e9a2f30222a9">calculation pass</a>.</p>
+  <p>This value indicates a <a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_a611caab-b948-463e-ac07-e9a2f30222a9">calculation pass</a>.</p>
   </td>
  </tr>
  <tr>
@@ -174,7 +174,7 @@
   <p>Int32(515)</p>
   </td>
   <td>
-  <p>This value indicates a <a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_7faee801-7705-424a-8e64-1cd18ab0dfab">solve order</a>.</p>
+  <p>This value indicates a <a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_7faee801-7705-424a-8e64-1cd18ab0dfab">solve order</a>.</p>
   </td>
  </tr>
  <tr>
@@ -185,7 +185,7 @@
   <p>This value indicates a Protocol State Mask</p>
   <p>defined on server: 0x00000001</p>
   <p>Disabled; client will ignore: 0x00000002</p>
-  <p>HIDDEN in schema <a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_43e5a26f-e51f-4f1e-9818-e70bcb25de35">rowsets</a>: 0x00000004</p>
+  <p>HIDDEN in schema <a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_43e5a26f-e51f-4f1e-9818-e70bcb25de35">rowsets</a>: 0x00000004</p>
   </td>
  </tr>
  <tr>

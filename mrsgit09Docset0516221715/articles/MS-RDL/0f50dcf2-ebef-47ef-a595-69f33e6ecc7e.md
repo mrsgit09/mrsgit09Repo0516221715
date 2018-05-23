@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Report.PageHeader</b> element specifies a header that
-is rendered at the top of each rendered <a href="b5e525d5-00d6-4e1a-8813-55f327da6b4c.htm">Page</a> of a <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.htm">Report</a>. The <b>Report.PageHeader</b>
-element is optional. This element is of type <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.htm">PageHeaderFooter</a>.</p>
+is rendered at the top of each rendered <a href="b5e525d5-00d6-4e1a-8813-55f327da6b4c.html">Page</a> of a <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>. The <b>Report.PageHeader</b>
+element is optional. This element is of type <a href="ddc35223-1cb6-4136-823b-e72a3d12e1f9.html">PageHeaderFooter</a>.</p>
 
 <p>Following is the parent element of the <b>Report.PageHeader</b>
 element.</p>

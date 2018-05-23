@@ -23,9 +23,9 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>Height</b> property specifies the height of an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.htm#gt_d6b55d1e-aea6-4b7e-a23d-c0de845e0b50">image</a> in pixels. If this
-property is specified, it MUST be part of an <a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.htm">ImageDataProperties.InlineSharedImageDataProperties</a>
-or <a href="cd824380-615e-4259-9193-320c0992eb47.htm">ImageDataProperties.NonSharedImageDataProperties</a>
+<p>The <b>Height</b> property specifies the height of an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_d6b55d1e-aea6-4b7e-a23d-c0de845e0b50">image</a> in pixels. If this
+property is specified, it MUST be part of an <a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.html">ImageDataProperties.InlineSharedImageDataProperties</a>
+or <a href="cd824380-615e-4259-9193-320c0992eb47.html">ImageDataProperties.NonSharedImageDataProperties</a>
 record.           </p>
 
 <dl>
@@ -87,7 +87,7 @@ record.           </p>
 </table>
 
 <p><b>heightStart (1 byte): </b>A byte that specifies
-the start of the <b>Height</b> property.<a id="Appendix_A_Target_32"></a><a href="1d022514-2a2f-41df-b2f8-36f19e474fa5.htm#Appendix_A_32" aria-label="Product behavior note 32">&lt;32&gt;</a> The value
+the start of the <b>Height</b> property.<a id="Appendix_A_Target_32"></a><a href="1d022514-2a2f-41df-b2f8-36f19e474fa5.html#Appendix_A_32" aria-label="Product behavior note 32">&lt;32&gt;</a> The value
 of the <b>heightStart</b> field MUST be the following value.</p>
 
 <dl>
@@ -116,9 +116,9 @@ of the <b>heightStart</b> field MUST be the following value.</p>
 </dd></dl>
 
 <p><b>heightValue (4 bytes): </b>A signed integer that
-specifies the height of an image in pixels. If this property is present, the <a href="c8b60e59-5d3a-4f95-9e2e-fd26420a95e0.htm">Width</a>, <a href="22e8bc7e-11b3-45d7-9a06-fe19d35b73f2.htm">HorizontalResolution</a>, <a href="352ea4d4-5cf3-418b-9211-51ff3f3c0d62.htm">VerticalResolution</a>, and <a href="2430b5fb-8784-4723-b508-cf5996da7c9f.htm">RawFormat</a> properties MUST
-be present in the same <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.htm#gt_8502cabb-8fac-401a-93da-3ca2ad4ddf75">parent
-record</a>.<a id="Appendix_A_Target_33"></a><a href="1d022514-2a2f-41df-b2f8-36f19e474fa5.htm#Appendix_A_33" aria-label="Product behavior note 33">&lt;33&gt;</a></p>
+specifies the height of an image in pixels. If this property is present, the <a href="c8b60e59-5d3a-4f95-9e2e-fd26420a95e0.html">Width</a>, <a href="22e8bc7e-11b3-45d7-9a06-fe19d35b73f2.html">HorizontalResolution</a>, <a href="352ea4d4-5cf3-418b-9211-51ff3f3c0d62.html">VerticalResolution</a>, and <a href="2430b5fb-8784-4723-b508-cf5996da7c9f.html">RawFormat</a> properties MUST
+be present in the same <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_8502cabb-8fac-401a-93da-3ca2ad4ddf75">parent
+record</a>.<a id="Appendix_A_Target_33"></a><a href="1d022514-2a2f-41df-b2f8-36f19e474fa5.html#Appendix_A_33" aria-label="Product behavior note 33">&lt;33&gt;</a></p>
 
 
                 </div>

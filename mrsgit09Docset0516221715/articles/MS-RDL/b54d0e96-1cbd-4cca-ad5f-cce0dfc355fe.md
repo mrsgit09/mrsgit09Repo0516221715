@@ -24,7 +24,7 @@
                     
 
 <p>The <b>LocIDStringWithDataTypeAttribute</b> type specifies a
-<a href="5164cbae-8db1-4dff-8ef1-2026f55b100a.htm">StringWithDataTypeAttribute</a>
+<a href="5164cbae-8db1-4dff-8ef1-2026f55b100a.html">StringWithDataTypeAttribute</a>
 with an <b>EvaluationMode</b> attribute. The <b>EvaluationMode</b> attribute
 specifies whether the value of the <b>LocIDStringWithDataTypeAttribute</b> type
 is treated as an expression or constant. The <b>EvaluationMode</b> attribute is
@@ -52,13 +52,13 @@ referenced by the following elements.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="99982bda-2dd1-4626-b8ef-da888d95f4ff.htm">TextRun.Value</a></p>
+  <p><a href="99982bda-2dd1-4626-b8ef-da888d95f4ff.html">TextRun.Value</a></p>
   </td>
  </tr>
 </table>
 
 <p>The following is the XML Schema definition of the <b>LocIDStringWithDataTypeAttribute</b>
-type in <a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm">RDL 2008/01</a>.</p>
+type in <a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html">RDL 2008/01</a>.</p>
 
 <dl>
 <dd>
@@ -80,8 +80,8 @@ type in <a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm">RDL 2008/01</a>.</p>
 </dd></dl>
 
 <p>The following is the XML Schema definition of the <b>LocIDStringWithDataTypeAttribute</b>
-type in <a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm">RDL 2010/01</a>
-and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm">RDL 2016/01</a>.</p>
+type in <a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html">RDL 2010/01</a>
+and <a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html">RDL 2016/01</a>.</p>
 
 <dl>
 <dd>

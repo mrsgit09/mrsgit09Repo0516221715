@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>MatrixColumn</b> element specifies a column in the
-detail section of a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.htm">Matrix</a>.</p>
+detail section of a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a>.</p>
 
 <p>The following are the parent and child elements of the <b>MatrixColumn</b>
 element.</p>
@@ -42,7 +42,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="f7861a0c-2518-4980-aa18-15abb3116c8c.htm">MatrixColumns</a></p>
+  <p><a href="f7861a0c-2518-4980-aa18-15abb3116c8c.html">MatrixColumns</a></p>
   </td>
  </tr>
 </table>
@@ -59,7 +59,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="ae12ba24-9134-49b0-9f44-a1c0476a4894.htm">MatrixColumn.Width</a>
+  <p><a href="ae12ba24-9134-49b0-9f44-a1c0476a4894.html">MatrixColumn.Width</a>
   </p>
   </td>
  </tr>

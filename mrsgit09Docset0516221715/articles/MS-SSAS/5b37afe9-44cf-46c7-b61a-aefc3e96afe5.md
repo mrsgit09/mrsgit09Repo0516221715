@@ -23,10 +23,10 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>ComAssembly</b> complex type represents a <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.htm#gt_ef2ebebc-1760-407a-9ace-af48f9050e02">Component Object Model (COM)</a>
+<p>The <b>ComAssembly</b> complex type represents a <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.html#gt_ef2ebebc-1760-407a-9ace-af48f9050e02">Component Object Model (COM)</a>
 library.</p>
 
-<p><b>ComAssembly</b> is derived from <a href="8b1309de-224c-4d8c-b5b1-66dd1e85dbe0.htm">Assembly</a>.</p>
+<p><b>ComAssembly</b> is derived from <a href="8b1309de-224c-4d8c-b5b1-66dd1e85dbe0.html">Assembly</a>.</p>
 
 <p>COM assemblies treat ImpersonationMode=Default as
 ImpersonateCurrentUser. COM assemblies do not support impersonation modes other
@@ -48,7 +48,7 @@ than ImpersonateCurrentUser.</p>
 
 <p>The following table describes the elements that are included
 in the XSD schema for <b>ComAssembly</b>. Those elements common to all major
-objects are described in section <a href="b38dcecd-e3a9-4c61-bd35-a7a426ca794e.htm">2.2.4.2.2.1</a>. Also included
+objects are described in section <a href="b38dcecd-e3a9-4c61-bd35-a7a426ca794e.html">2.2.4.2.2.1</a>. Also included
 in <b>ComAssembly</b> are all the elements from <b>Assembly</b> as described in
 section 2.2.4.2.2.3.</p>
 

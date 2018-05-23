@@ -37,11 +37,11 @@ identity to subsequent communications.</a></p>
 access type supported by HTTP as defined by </a><a href="https://go.microsoft.com/fwlink/?LinkId=90373">[RFC2617]</a>.</p>
 
 <p><a id="gt_7a0f4b71-23ba-434f-b781-28053ed64879" /><b>certificate</b>: A
-certificate is a collection of </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_108a1419-49a9-4d19-b6ca-7206aa726b3f">attributes</a> and extensions
+certificate is a collection of </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_108a1419-49a9-4d19-b6ca-7206aa726b3f">attributes</a> and extensions
 that can be stored persistently. The set of attributes in a certificate can
 vary depending on the intended usage of the certificate. A certificate securely
 binds a public key to the entity that holds the corresponding private key. A
-certificate is commonly used for <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a> and secure
+certificate is commonly used for <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a> and secure
 exchange of information on open networks, such as the Internet, extranets, and
 intranets. Certificates are digitally signed by the issuing certification
 authority (CA) and can be issued for a user, a computer, or a service. The most
@@ -61,7 +61,7 @@ making a request. For more information, see [RFC2617].</a></p>
 of these terms does not imply or require a specific algorithm or mechanism to
 generate the value. Specifically, the use of this term does not imply or
 require that the algorithms described in </a><a href="https://go.microsoft.com/fwlink/?LinkId=90460">[RFC4122]</a> or <a href="https://go.microsoft.com/fwlink/?LinkId=89824">[C706]</a> must be used
-for generating the <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a>.
+for generating the <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a>.
 See also universally unique identifier (UUID).</p>
 
 <p><a id="gt_d6a282ce-b1da-41e1-b05a-22f777a5c1fe" /><b>Kerberos</b>: An
@@ -72,7 +72,7 @@ authentication access type supported by HTTP as defined by </a><a href="https://
 
 <p><a id="gt_fff710f9-e3d1-4991-99a2-009768d57585" /><b>NT LAN Manager (NTLM)
 Authentication Protocol</b>: A protocol using a challenge-response mechanism
-for </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a>
+for </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a>
 in which clients are able to verify their identities without sending a password
 to the server. It consists of three messages, commonly referred to as Type 1
 (negotiation), Type 2 (challenge) and Type 3 (authentication). For more
@@ -84,39 +84,39 @@ sqlbatch request.</a></p>
 
 <p><a id="gt_c1c313af-2310-4380-a6ea-c2cedc115958" /><b>SOAP</b>: A lightweight
 protocol for exchanging structured information in a decentralized, distributed
-environment. </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_c1c313af-2310-4380-a6ea-c2cedc115958">SOAP</a>
-uses <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> technologies to
+environment. </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_c1c313af-2310-4380-a6ea-c2cedc115958">SOAP</a>
+uses <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> technologies to
 define an extensible messaging framework, which provides a message construct
 that can be exchanged over a variety of underlying protocols. The framework has
 been designed to be independent of any particular programming model and other
 implementation-specific semantics. SOAP 1.2 supersedes SOAP 1.1. See <a href="https://go.microsoft.com/fwlink/?LinkId=90521">[SOAP1.2-1/2003]</a>.</p>
 
 <p><a id="gt_c1358651-96c1-4ce0-8e1f-b0b7a94145e3" /><b>SOAP action</b>: The HTTP
-request header field used to indicate the intent of the </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_c1c313af-2310-4380-a6ea-c2cedc115958">SOAP</a> request, using a URI
+request header field used to indicate the intent of the </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_c1c313af-2310-4380-a6ea-c2cedc115958">SOAP</a> request, using a URI
 value. See <a href="https://go.microsoft.com/fwlink/?LinkId=90520">[SOAP1.1]</a>
 section 6.1.1 for more information.</p>
 
 <p><a id="gt_57cdf8ab-8d79-462d-a446-5d85632a7a04" /><b>SOAP body</b>: A container
-for the payload data being delivered by a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a> to its
+for the payload data being delivered by a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a> to its
 recipient. See <a href="https://go.microsoft.com/fwlink/?LinkId=94664">[SOAP1.2-1/2007]</a>
 section 5.3 for more information.</p>
 
 <p><a id="gt_ec8728a8-1a75-426f-8767-aa1932c7c19f" /><b>SOAP fault</b>: A container
-for error and status information within a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a>. See
+for error and status information within a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a>. See
 [SOAP1.2-1/2007] section 5.4 for more information.</p>
 
 <p><a id="gt_093a0af2-e71c-40fc-a484-d2f802da0277" /><b>SOAP header</b>: A mechanism
-for implementing extensions to a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a> in a
+for implementing extensions to a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_96185df3-4677-478c-b239-f72fcf514c59">SOAP message</a> in a
 decentralized manner without prior agreement between the communicating parties.
 See [SOAP1.2-1/2007] section 5.2 for more information.</p>
 
-<p><a id="gt_96185df3-4677-478c-b239-f72fcf514c59" /><b>SOAP message</b>: An </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> document consisting of
-a mandatory SOAP envelope, an optional <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_093a0af2-e71c-40fc-a484-d2f802da0277">SOAP header</a>, and a
-mandatory <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_57cdf8ab-8d79-462d-a446-5d85632a7a04">SOAP body</a>. See
+<p><a id="gt_96185df3-4677-478c-b239-f72fcf514c59" /><b>SOAP message</b>: An </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> document consisting of
+a mandatory SOAP envelope, an optional <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_093a0af2-e71c-40fc-a484-d2f802da0277">SOAP header</a>, and a
+mandatory <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_57cdf8ab-8d79-462d-a446-5d85632a7a04">SOAP body</a>. See
 [SOAP1.2-1/2007] section 5 for more information.</p>
 
 <p><a id="gt_1c1cb476-8f78-4ebd-9781-6965b3838102" /><b>SOAP mustUnderstand attribute</b>:
-A global, Boolean </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_108a1419-49a9-4d19-b6ca-7206aa726b3f">attribute</a>
+A global, Boolean </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_108a1419-49a9-4d19-b6ca-7206aa726b3f">attribute</a>
 that is used to indicate whether a header entry is mandatory or optional for
 the recipient to process. See [SOAP1.2-1/2007] section 5.2.3 for more
 information.</p>
@@ -147,7 +147,7 @@ allows the description of endpoints and their messages regardless of the message
 formats or network protocols that are used.</a></p>
 
 <p><a id="gt_d5ccdf11-3f53-4118-a845-dfaca61838fb" /><b>WSDL message</b>: An
-abstract, typed definition of the data that is communicated during a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_3f81265d-5456-4bfe-b795-ac5bf522b299">WSDL operation</a> <a href="https://go.microsoft.com/fwlink/?LinkId=90577">[WSDL]</a>. Also, an
+abstract, typed definition of the data that is communicated during a </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_3f81265d-5456-4bfe-b795-ac5bf522b299">WSDL operation</a> <a href="https://go.microsoft.com/fwlink/?LinkId=90577">[WSDL]</a>. Also, an
 element that describes the data being exchanged between web service providers
 and clients.</p>
 
@@ -157,7 +157,7 @@ typically requires the exchange of messages between the service requestor and
 the service provider.</a></p>
 
 <p><a id="gt_61056d88-e7ee-4cea-8dcd-80a9ef5db083" /><b>WSDL port type</b>: A named
-set of logically-related, abstract </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_5a824664-0858-4b09-b852-83baf4584efa">Web Services Description
+set of logically-related, abstract </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_5a824664-0858-4b09-b852-83baf4584efa">Web Services Description
 Language (WSDL)</a> operations and messages.</p>
 
 <p><a id="gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85" /><b>XML</b>: The Extensible
@@ -173,7 +173,7 @@ different sources. For more information, see <a href="https://go.microsoft.com/f
 <p><a id="gt_bd0ce6f9-c350-4900-827e-951265294067" /><b>XML schema</b>: A description
 of a type of XML document that is typically expressed in terms of constraints
 on the structure and content of documents of that type, in addition to the
-basic syntax constraints that are imposed by </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.htm#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> itself. An XML schema
+basic syntax constraints that are imposed by </a><a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_982b7f8e-d516-4fd5-8d5e-1a836081ed85">XML</a> itself. An XML schema
 provides a view of a document type at a relatively high level of abstraction.</p>
 
 <p><b>MAY,

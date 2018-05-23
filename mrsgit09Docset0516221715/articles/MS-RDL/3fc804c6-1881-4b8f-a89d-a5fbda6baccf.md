@@ -23,13 +23,13 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>DynamicColumns.Visibility</b> element specifies the
-presentational presence of the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_d8aee082-104c-4091-9a95-acfb945b489b">dynamic columns</a> for a
-grouping in a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.htm">Matrix</a>.
-This element is optional and is of type <a href="9505fbda-7f65-4874-a54a-1944059812e0.htm">Visibility</a>.</p>
+presentational presence of the <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_d8aee082-104c-4091-9a95-acfb945b489b">dynamic columns</a> for a
+grouping in a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a>.
+This element is optional and is of type <a href="9505fbda-7f65-4874-a54a-1944059812e0.html">Visibility</a>.</p>
 
 <p>Following is the parent element of the <b>DynamicColumns.Visibility</b>
 element.</p>
@@ -44,7 +44,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="5a98a72e-ea10-4743-83fb-0cf6740c6635.htm">DynamicColumns</a>
+  <p><a href="5a98a72e-ea10-4743-83fb-0cf6740c6635.html">DynamicColumns</a>
   </p>
   </td>
  </tr>

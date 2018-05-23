@@ -24,8 +24,8 @@
                     
 
 <p>The <b>EmbeddedImage</b> element specifies an image that is
-embedded within a <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.htm">Report</a>.
-The <b>EmbeddedImage</b> element MUST be specified at least once within an <a href="d3bd24c7-cf82-4f98-bf94-a6716af81492.htm">EmbeddedImages</a> collection.</p>
+embedded within a <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>.
+The <b>EmbeddedImage</b> element MUST be specified at least once within an <a href="d3bd24c7-cf82-4f98-bf94-a6716af81492.html">EmbeddedImages</a> collection.</p>
 
 <p>The following are the parent elements, attributes, and child
 elements of the <b>EmbeddedImage</b> element.</p>
@@ -57,7 +57,7 @@ elements of the <b>EmbeddedImage</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="29fb5117-7c56-40df-a83c-0c6a09cc6947.htm">EmbeddedImage.Name</a></p>
+  <p><a href="29fb5117-7c56-40df-a83c-0c6a09cc6947.html">EmbeddedImage.Name</a></p>
   </td>
  </tr>
 </table>
@@ -74,12 +74,12 @@ elements of the <b>EmbeddedImage</b> element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="39f1bb55-eee9-4eb8-870d-e8b83487b6f4.htm">EmbeddedImage.ImageData</a></p>
+  <p><a href="39f1bb55-eee9-4eb8-870d-e8b83487b6f4.html">EmbeddedImage.ImageData</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="83a812fd-0959-410e-ba65-7929435ca6d7.htm">EmbeddedImage.MIMEType</a></p>
+  <p><a href="83a812fd-0959-410e-ba65-7929435ca6d7.html">EmbeddedImage.MIMEType</a></p>
   </td>
  </tr>
 </table>

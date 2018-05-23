@@ -23,11 +23,11 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>StaticColumn</b> element specifies a fixed column
-header region in a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.htm">Matrix</a>.</p>
+header region in a <a href="25419c0a-c7c6-43d7-8ca5-1af842666dcb.html">Matrix</a>.</p>
 
 <p>The following are the parent and child elements of the <b>StaticColumn</b>
 element.</p>
@@ -42,7 +42,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="9aa555d4-c620-490b-8d47-cd3df4117cd8.htm">StaticColumns</a></p>
+  <p><a href="9aa555d4-c620-490b-8d47-cd3df4117cd8.html">StaticColumns</a></p>
   </td>
  </tr>
 </table>
@@ -59,7 +59,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="1076eec4-d49b-4ff8-af87-e7df17c7ca32.htm">StaticColumn.ReportItems</a></p>
+  <p><a href="1076eec4-d49b-4ff8-af87-e7df17c7ca32.html">StaticColumn.ReportItems</a></p>
   </td>
  </tr>
 </table>

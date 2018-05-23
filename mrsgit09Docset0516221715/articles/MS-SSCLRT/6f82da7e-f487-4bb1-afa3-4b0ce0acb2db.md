@@ -21,7 +21,7 @@
             <div id="mainBody">
                 <div id="allHistory" class="saveHistory"></div>
                 <div id="sectionSection0" class="section" name="collapseableSection">
-                    <p>This topic contains a number of related sections. The list below provides links to each section.<br /></p><ul><li><span><a href="6afd369e-6023-45df-96bc-32d684c8a478.htm">2.2.1 Logical Definition</a></span></li><li><span><a href="b975a433-e4d7-49a6-a510-7ae7558c31f3.htm">2.2.2 Physical Representation</a></span></li></ul><p><br /></p>
+                    <p>This topic contains a number of related sections. The list below provides links to each section.<br /></p><ul><li><span><a href="6afd369e-6023-45df-96bc-32d684c8a478.html">2.2.1 Logical Definition</a></span></li><li><span><a href="b975a433-e4d7-49a6-a510-7ae7558c31f3.html">2.2.2 Physical Representation</a></span></li></ul><p><br /></p>
 
 
                 </div>

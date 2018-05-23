@@ -24,9 +24,9 @@
                     
 
 <p><b>Note:</b> RDL 2011/01 is not a complete schema. It is a
-micro-versioned schema and uses <a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm">RDL 2010/01</a> as its base
+micro-versioned schema and uses <a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html">RDL 2010/01</a> as its base
 schema. For more information about macro- and micro-versioned RDL schemas, see
-section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.htm">2.1</a>.</p>
+section <a href="ae14822f-9553-45f1-bacc-c0a1cbb484fb.html">2.1</a>.</p>
 
 <dl>
 <dd>

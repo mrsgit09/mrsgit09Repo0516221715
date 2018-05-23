@@ -23,17 +23,17 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>RadialPointer.NeedleStyle</b> element specifies the
-style of a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_41325275-2cae-4dba-9fde-53833f547fce">radial pointer</a>
-needle. This element is optional. This element is ignored if peer element <a href="f85928f8-9c6c-4d7f-876c-db08e412c09c.htm">RadialPointer.Type</a> is not
+style of a <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_41325275-2cae-4dba-9fde-53833f547fce">radial pointer</a>
+needle. This element is optional. This element is ignored if peer element <a href="f85928f8-9c6c-4d7f-876c-db08e412c09c.html">RadialPointer.Type</a> is not
 set to &quot;Needle&quot;. </p>
 
 <p>If the <b>RadialPointer.NeedleStyle</b> element is present,
-its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a>
+its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a>
 (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a>
 section 3.2.1) or an expression that evaluates to a <b>String</b>. The value of
 this element MUST be one of the following or an expression that evaluates to
@@ -88,7 +88,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="1446314e-813e-42f0-9a28-f1b96fd3a0da.htm">RadialPointer</a></p>
+  <p><a href="1446314e-813e-42f0-9a28-f1b96fd3a0da.html">RadialPointer</a></p>
   </td>
  </tr>
 </table>

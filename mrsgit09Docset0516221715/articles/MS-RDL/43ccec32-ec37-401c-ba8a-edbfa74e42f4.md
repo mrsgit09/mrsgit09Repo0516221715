@@ -23,12 +23,12 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>CellContents</b> element defines the contents of
-cells of a <a href="e42fb86e-799a-4202-8845-ac38831efccb.htm">Tablix</a>. The <b>CellContents</b>
+cells of a <a href="e42fb86e-799a-4202-8845-ac38831efccb.html">Tablix</a>. The <b>CellContents</b>
 element can contain 0 or 1 report item elements. If the <b>Top</b>, <b>Left</b>,
 <b>Height</b>, and <b>Width</b> grandchild elements exist, they are ignored,
 and their values are interpreted as follows:</p>
@@ -56,17 +56,17 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="33258f80-fa42-4baf-abd5-ded34ffbbc61.htm">TablixCell</a></p>
+  <p><a href="33258f80-fa42-4baf-abd5-ded34ffbbc61.html">TablixCell</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="6cdfb648-977b-4e6a-9316-19e8d45b6c10.htm">TablixCornerCell</a></p>
+  <p><a href="6cdfb648-977b-4e6a-9316-19e8d45b6c10.html">TablixCornerCell</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="ac71f119-59be-471b-9316-e95b931402cb.htm">TablixHeader</a></p>
+  <p><a href="ac71f119-59be-471b-9316-e95b931402cb.html">TablixHeader</a></p>
   </td>
  </tr>
 </table>
@@ -83,62 +83,62 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="90926a0d-f021-4dd5-8d20-0bba6c7a1991.htm">CellContents.Chart</a></p>
+  <p><a href="90926a0d-f021-4dd5-8d20-0bba6c7a1991.html">CellContents.Chart</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="3ffb0387-2dd7-4b21-b36d-6df8fd0a0887.htm">CellContents.ColSpan</a></p>
+  <p><a href="3ffb0387-2dd7-4b21-b36d-6df8fd0a0887.html">CellContents.ColSpan</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="e09f0734-9dfe-48bb-8a01-83fd55737d5c.htm">CellContents.CustomReportItem</a></p>
+  <p><a href="e09f0734-9dfe-48bb-8a01-83fd55737d5c.html">CellContents.CustomReportItem</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="8286c536-2fa9-4ff0-93b8-6982faa2c305.htm">CellContents.GaugePanel</a></p>
+  <p><a href="8286c536-2fa9-4ff0-93b8-6982faa2c305.html">CellContents.GaugePanel</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="09dceeb9-3f84-499f-b37a-2f6138eed780.htm">CellContents.Image</a></p>
+  <p><a href="09dceeb9-3f84-499f-b37a-2f6138eed780.html">CellContents.Image</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="a6e4edf9-5630-4255-b212-276b4e5c62a6.htm">CellContents.Line</a></p>
+  <p><a href="a6e4edf9-5630-4255-b212-276b4e5c62a6.html">CellContents.Line</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="bd1cf9f2-0bc1-46df-82b2-d23b3ca45dc1.htm">CellContents.Map</a></p>
+  <p><a href="bd1cf9f2-0bc1-46df-82b2-d23b3ca45dc1.html">CellContents.Map</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="c5a5fbb0-c109-462a-ad16-ea1600b51ae0.htm">CellContents.Rectangle</a></p>
+  <p><a href="c5a5fbb0-c109-462a-ad16-ea1600b51ae0.html">CellContents.Rectangle</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="86a03c35-d5eb-4e30-be28-f8219e73fa30.htm">CellContents.RowSpan</a></p>
+  <p><a href="86a03c35-d5eb-4e30-be28-f8219e73fa30.html">CellContents.RowSpan</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="8055db6b-3215-46db-b1bf-b5a4ec874e36.htm">CellContents.Subreport</a></p>
+  <p><a href="8055db6b-3215-46db-b1bf-b5a4ec874e36.html">CellContents.Subreport</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="cb7cc349-acc7-4ecb-bb8c-a451d7ae1dfb.htm">CellContents.Tablix</a></p>
+  <p><a href="cb7cc349-acc7-4ecb-bb8c-a451d7ae1dfb.html">CellContents.Tablix</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="231b670f-37d0-4fa6-a874-cc9c52229fdd.htm">CellContents.Textbox</a></p>
+  <p><a href="231b670f-37d0-4fa6-a874-cc9c52229fdd.html">CellContents.Textbox</a></p>
   </td>
  </tr>
 </table>

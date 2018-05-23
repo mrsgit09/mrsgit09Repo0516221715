@@ -54,7 +54,7 @@ following columns.</p>
   <p> </p>
   </td>
   <td>
-  <p>The server-specific data type name.<a id="Appendix_A_Target_179"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_179" aria-label="Product behavior note 179">&lt;179&gt;</a></p>
+  <p>The server-specific data type name.<a id="Appendix_A_Target_179"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_179" aria-label="Product behavior note 179">&lt;179&gt;</a></p>
   </td>
  </tr>
  <tr>
@@ -69,7 +69,7 @@ following columns.</p>
   </td>
   <td>
   <p>This enumeration is the same as <b>LEVEL_DBTYPE</b>
-  for <b>MDSCHEMA_LEVELS</b>. (See section <a href="bf5b4bd4-b5db-406b-b830-b3720e890b4a.htm">3.1.4.2.2.1.3.8</a>)</p>
+  for <b>MDSCHEMA_LEVELS</b>. (See section <a href="bf5b4bd4-b5db-406b-b830-b3720e890b4a.html">3.1.4.2.2.1.3.8</a>)</p>
   </td>
  </tr>
  <tr>
@@ -177,7 +177,7 @@ following columns.</p>
   type is not nullable.</span></p>
   </li></ul><p><span>§<span>  
   </span></span>NULL indicates that it is not known whether the data type is
-  nullable.<a id="Appendix_A_Target_180"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_180" aria-label="Product behavior note 180">&lt;180&gt;</a></p>
+  nullable.<a id="Appendix_A_Target_180"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_180" aria-label="Product behavior note 180">&lt;180&gt;</a></p>
   </td>
  </tr>
  <tr>
@@ -233,7 +233,7 @@ following columns.</p>
   </li><li><p><span><span>  
   </span></span><span>DB_SEARCHABLE (0x04) - indicates
   that the data type can be used in a WHERE clause with any comparison
-  operator.<a id="Appendix_A_Target_181"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_181" aria-label="Product behavior note 181">&lt;181&gt;</a></span></p>
+  operator.<a id="Appendix_A_Target_181"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_181" aria-label="Product behavior note 181">&lt;181&gt;</a></span></p>
   </li></ul></td>
  </tr>
  <tr>
@@ -278,7 +278,7 @@ following columns.</p>
   has a fixed precision and scale.</span></p>
   </li><li><p><span><span>  
   </span></span><span>False indicates that the data
-  type does not have a fixed precision and scale.<a id="Appendix_A_Target_182"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_182" aria-label="Product behavior note 182">&lt;182&gt;</a></span></p>
+  type does not have a fixed precision and scale.<a id="Appendix_A_Target_182"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_182" aria-label="Product behavior note 182">&lt;182&gt;</a></span></p>
   </li></ul></td>
  </tr>
  <tr>
@@ -307,7 +307,7 @@ following columns.</p>
   property is read/write, the setting of the DBPROP_COL_AUTOINCREMENT property
   determines whether a column of this type is autoincrementing. If
   DBPROP_COL_AUTOINCREMENT is a read-only property, either all or none of the
-  columns of this type are autoincrementing.<a id="Appendix_A_Target_183"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_183" aria-label="Product behavior note 183">&lt;183&gt;</a></span></p>
+  columns of this type are autoincrementing.<a id="Appendix_A_Target_183"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_183" aria-label="Product behavior note 183">&lt;183&gt;</a></span></p>
   </li></ul></td>
  </tr>
  <tr>
@@ -421,7 +421,7 @@ following columns.</p>
   <ul><li><p><span><span>  
   </span></span><span>True indicates that the data type
   is a BLOB that contains very long data; the definition of very long data is
-  server-specific.<a id="Appendix_A_Target_184"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_184" aria-label="Product behavior note 184">&lt;184&gt;</a></span></p>
+  server-specific.<a id="Appendix_A_Target_184"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_184" aria-label="Product behavior note 184">&lt;184&gt;</a></span></p>
   </li><li><p><span><span>  
   </span></span><span>False indicates that the data
   type is a BLOB that does not contain very long data or that is not a BLOB.</span></p>
@@ -439,7 +439,7 @@ following columns.</p>
   <p>xsd:boolean</p>
   </td>
   <td>
-  <p>Yes<a id="Appendix_A_Target_185"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_185" aria-label="Product behavior note 185">&lt;185&gt;</a> </p>
+  <p>Yes<a id="Appendix_A_Target_185"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_185" aria-label="Product behavior note 185">&lt;185&gt;</a> </p>
   </td>
   <td>
   <p>A Boolean that indicates whether the data type is the
@@ -452,7 +452,7 @@ following columns.</p>
   the best match.</p>
   <p>For each set of rows in which the value of the
   DATA_TYPE column is the same, the BEST_MATCH column is set to true in only
-  one row.<a id="Appendix_A_Target_186"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.htm#Appendix_A_186" aria-label="Product behavior note 186">&lt;186&gt;</a></p>
+  one row.<a id="Appendix_A_Target_186"></a><a href="b9ac4859-2662-44ca-b131-9addd8b953dc.html#Appendix_A_186" aria-label="Product behavior note 186">&lt;186&gt;</a></p>
   </td>
  </tr>
  <tr>
@@ -469,7 +469,7 @@ following columns.</p>
   <p>A Boolean that indicates whether the column is fixed
   in length.</p>
   <p>A value of true indicates that columns of this type
-  that are created by the <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.htm#gt_e015fbff-3760-4e33-8898-dc55fbf815d5">DDL</a>
+  that are created by the <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.html#gt_e015fbff-3760-4e33-8898-dc55fbf815d5">DDL</a>
   will be of fixed length.</p>
   <p>A value of false indicates that columns of this type
   that are created by the DDL will be of variable length.</p>

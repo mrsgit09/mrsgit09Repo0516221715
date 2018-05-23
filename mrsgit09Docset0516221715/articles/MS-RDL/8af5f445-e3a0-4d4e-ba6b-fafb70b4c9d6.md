@@ -25,7 +25,7 @@
 
 <p>The <b>Action.Hyperlink</b> element specifies a hyperlink
 that is viewed by clicking the containing report item for this action. This
-element is optional. The value of this element MUST be an <a href="6977536e-dae7-44f3-a737-a249567cf172.htm">RdlURL</a>.</p>
+element is optional. The value of this element MUST be an <a href="6977536e-dae7-44f3-a737-a249567cf172.html">RdlURL</a>.</p>
 
 <p>Following is the parent element of the <b>Action.Hyperlink</b>
 element.</p>
@@ -40,7 +40,7 @@ element.</p>
  </thead>
  <tr>
   <td>
-  <p><a href="0c9b8d37-de61-420e-a652-26d3db8bc586.htm">Action</a></p>
+  <p><a href="0c9b8d37-de61-420e-a652-26d3db8bc586.html">Action</a></p>
   </td>
  </tr>
 </table>

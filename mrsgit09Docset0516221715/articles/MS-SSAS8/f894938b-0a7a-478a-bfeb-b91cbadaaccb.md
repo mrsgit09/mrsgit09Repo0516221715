@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>This value defines default safety options of the <a href="c527450b-f5bd-424b-8c98-ba6365288f35.htm#gt_a0c8d97b-322c-4117-8525-37e5f26751e7">cube</a>.</p>
+<p>This value defines default safety options of the <a href="c527450b-f5bd-424b-8c98-ba6365288f35.html#gt_a0c8d97b-322c-4117-8525-37e5f26751e7">cube</a>.</p>
 
 <p><b>Note</b>   For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=864709">[MSDN-SafetyOptions]</a>.</p>
 

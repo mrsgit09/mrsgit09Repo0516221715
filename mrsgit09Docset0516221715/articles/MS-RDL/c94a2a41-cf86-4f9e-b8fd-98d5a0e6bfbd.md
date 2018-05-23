@@ -23,18 +23,18 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.htm"><b><i>RDL 2008/01</i></b></a><b><i>,
-</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>,
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="1e855f94-4617-47e4-b89e-0856c6cb420f.html"><b><i>RDL 2008/01</i></b></a><b><i>,
+</i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>,
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>RadialScale.TickMarksOnTop</b> element specifies
-whether instances of <a href="85bb1716-e94b-4d9a-97b3-3c681e0c53d5.htm">GaugeTickMarks</a>
-within a <a href="86468d9f-c561-4b50-a689-5dfccfde8495.htm">RadialScale</a>
-are drawn on top of <a href="1446314e-813e-42f0-9a28-f1b96fd3a0da.htm">RadialPointer</a>
+whether instances of <a href="85bb1716-e94b-4d9a-97b3-3c681e0c53d5.html">GaugeTickMarks</a>
+within a <a href="86468d9f-c561-4b50-a689-5dfccfde8495.html">RadialScale</a>
+are drawn on top of <a href="1446314e-813e-42f0-9a28-f1b96fd3a0da.html">RadialPointer</a>
 instances within RadialScale.GaugePointers. </p>
 
 <p>The <b>RadialScale.TickMarksOnTop</b> element is optional.
-If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.htm">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+If this element is present, its value MUST be a <a href="4802fa14-3619-43fa-9898-3acab160a24c.html">Boolean</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.2) or an expression that evaluates to a <b>Boolean</b>. If this element is
 not present, its value is interpreted as false.</p>
 

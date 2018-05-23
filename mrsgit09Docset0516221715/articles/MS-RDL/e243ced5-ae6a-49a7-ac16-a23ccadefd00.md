@@ -23,14 +23,14 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.htm"><b><i>RDL 2010/01</i></b></a><b><i>
-and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.htm"><b><i>RDL 2016/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="3428e690-a348-4ec7-8a6a-8efb42d2cdee.html"><b><i>RDL 2010/01</i></b></a><b><i>
+and </i></b><a href="52ce3983-2bfc-4e72-9359-42aaf5fe4509.html"><b><i>RDL 2016/01</i></b></a></p>
 
 <p>The <b>MapTileLayer.VisibilityMode</b> element specifies the
-visibility mode for a <a href="32cf17dc-a986-43fd-b7ce-8cb2429e565f.htm">MapTileLayer</a>.
+visibility mode for a <a href="32cf17dc-a986-43fd-b7ce-8cb2429e565f.html">MapTileLayer</a>.
 This element is optional. </p>
 
-<p>If this element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+<p>If this element is present, its value MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1) or an expression that evaluates to a <b>String</b>. The value of this
 element MUST be one of the following or an expression that evaluates to one of
 the following:</p>
@@ -40,8 +40,8 @@ the following:</p>
 <p><b>Hidden</b>: The layer is always hidden.</p>
 
 <p><b>ZoomBased</b>: The layer is shown in a zoom level
-range that is defined by the <a href="4f387c09-ea9b-42c3-910c-02214c611d11.htm">MapTileLayer.MaximumZoom</a>
-and <a href="79ab4e34-0f4a-44a7-975b-f6d6795ce411.htm">MapTileLayer.MinimumZoom</a>
+range that is defined by the <a href="4f387c09-ea9b-42c3-910c-02214c611d11.html">MapTileLayer.MaximumZoom</a>
+and <a href="79ab4e34-0f4a-44a7-975b-f6d6795ce411.html">MapTileLayer.MinimumZoom</a>
 elements. </p>
 
 <p>If the <b>MapTileLayer.VisibilityMode</b> element is not

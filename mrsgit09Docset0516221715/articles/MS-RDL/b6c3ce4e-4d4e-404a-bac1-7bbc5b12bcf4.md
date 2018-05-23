@@ -23,17 +23,17 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.htm"><b><i>RDL 2003/10</i></b></a><b>
-<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.htm"><b><i>RDL 2005/01</i></b></a></p>
+<p><b><i>Applies to </i></b><a href="a7e2ad00-07c8-4f6d-80ab-3ad55df7b233.html"><b><i>RDL 2003/10</i></b></a><b>
+<i>and </i></b><a href="3ebe2912-4958-4832-b391-cad1f5e13338.html"><b><i>RDL 2005/01</i></b></a></p>
 
 <p>The <b>Table.DataSetName</b> element specifies the name of
-the <a href="a14782b0-2e2f-4305-83a3-3de3fd750b6a.htm">DataSet</a> to use to
-bind data to a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.htm">Table</a>.
+the <a href="a14782b0-2e2f-4305-83a3-3de3fd750b6a.html">DataSet</a> to use to
+bind data to a <a href="660db744-699e-4ca3-a2d6-a5cab4bcf9b0.html">Table</a>.
 This element is optional. If this element is present, its value MUST be a
-case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.htm#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
+case-sensitive <a href="b2482b3f-74ab-4ca8-a9e5-c07955011743.html#gt_cb2ad790-a668-429f-84fa-f3dd67517e9b">CLS-compliant
 identifier</a> <a href="https://go.microsoft.com/fwlink/?LinkId=147989">[UTR15]</a>
 that is the value of the <b>Name</b> attribute of a <b>DataSet</b> element
-contained within the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.htm">Report</a>.</p>
+contained within the <a href="6bbaafec-020b-406c-b4e7-5e4318b616cb.html">Report</a>.</p>
 
 <p>This element MUST be specified if both of the following
 statements are true:</p>

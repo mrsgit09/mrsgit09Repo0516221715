@@ -16,3 +16,17 @@
           href: articles/MS-RGDI/
         - name: MS-RPL
           href: articles/MS-RPL/
+        - name: MS-RSWSRMSM2006
+          href: articles/MS-RSWSRMSM2006/
+		- name: MS-RSWSSFA
+          href: articles/MS-RSWSSFA/
+		- name: MS-SSAS
+          href: articles/MS-SSAS/
+		- name: MS-SSAS8
+          href: articles/MS-SSAS8/
+		- name: MS-SSCLRT
+          href: articles/MS-SSCLRT/
+		- name: MS-SSMDSWS-15
+          href: articles/MS-SSMDSWS-15/
+		- name: MS-SSNWS
+          href: articles/MS-SSNWS/

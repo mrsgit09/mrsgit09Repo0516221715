@@ -24,9 +24,9 @@
                     
 
 <p>The <b>Filter.Operator</b> element specifies an operator to
-use to compare the values of <a href="6cfe60b1-d7e0-4e1e-807e-0ca41147cc29.htm">Filter.FilterExpression</a>
-and <a href="6bd82e79-e154-4159-94ef-b950fbba402d.htm">FilterValues</a>. The <b>Filter.Operator</b>
-element MUST be specified. The value of this element MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.htm">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
+use to compare the values of <a href="6cfe60b1-d7e0-4e1e-807e-0ca41147cc29.html">Filter.FilterExpression</a>
+and <a href="6bd82e79-e154-4159-94ef-b950fbba402d.html">FilterValues</a>. The <b>Filter.Operator</b>
+element MUST be specified. The value of this element MUST be a <a href="1ed81ef3-a683-45e3-aaad-bd2bbe71bc3d.html">String</a> (<a href="https://go.microsoft.com/fwlink/?LinkId=90610">[XMLSCHEMA2]</a> section
 3.2.1) that is one of the following:</p>
 
 <p><b>Equal</b>: Specifies an equality comparison.</p>
@@ -53,7 +53,7 @@ determine whether the <b>Filter.FilterExpression</b> value is less than or
 equal to the <b>FilterValues</b> values.</p>
 
 <p><b>TopN</b>: Specifies whether the <b>Filter.FilterExpression</b>
-value is within the top <i>N</i> data values, where <i>N</i> is specified by <a href="b51efba3-fe3e-4d6c-a95b-c047cca07efb.htm">FilterValues.FilterValue</a>. </p>
+value is within the top <i>N</i> data values, where <i>N</i> is specified by <a href="b51efba3-fe3e-4d6c-a95b-c047cca07efb.html">FilterValues.FilterValue</a>. </p>
 
 <p><b>BottomN</b>: Specifies whether the <b>Filter.FilterExpression</b>
 value is within the bottom <i>N</i> data values, where <i>N</i> is specified by
@@ -81,12 +81,12 @@ filters SHOULD be locale-dependent. The NULL constant is equal to itself. </p>
 SHOULD round up and down, respectively, if the percentage that is specified
 would result in a partial item being included (for example, if the Top 25% of
 13 items is four items and the Bottom 75% is nine items). If the value of the <b>Filter.Operator</b>
-element is &quot;In&quot;, multi-value report parameters that have the <a href="c21237a1-8237-4538-a105-1f760242de1d.htm">ReportParameter.MultiValue</a>
+element is &quot;In&quot;, multi-value report parameters that have the <a href="c21237a1-8237-4538-a105-1f760242de1d.html">ReportParameter.MultiValue</a>
 element specified with a value of true MUST be supported and treated as
 multiple <b>FilterValue</b> instances. </p>
 
 <p>In the following example, if &quot;Cities&quot; is a
-multi-value parameter for a <a href="c0f6a66a-1055-4f4d-b1e7-4fc47b588ed2.htm">Filter</a>
+multi-value parameter for a <a href="c0f6a66a-1055-4f4d-b1e7-4fc47b588ed2.html">Filter</a>
 that references &quot;Cities&quot; within any <b>FilterValues.FilterValue</b>
 elements, the following RDL:</p>
 
