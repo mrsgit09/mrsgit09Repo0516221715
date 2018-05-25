@@ -5,8 +5,9 @@
     - name: Office Docs
       href: articles/officeindex.md
       items:
-        - name: MS-PST
+        - name: "[MS-PST]: Outlook Personal Folders (.pst) File Format"
           href: articles/MS-PST/toc.yml
+          homepage: articles/141923d5-15ab-4ef1-a524-6dce75aae546.md
     - name: "SQL Server Protocols"
       href: articles/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md
       items:
