@@ -8,19 +8,19 @@
         - name: MS-PST
           href: articles/MS-PST/
     - name: "SQL Server Protocols"
-      href: articles/SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md
+      href: articles/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md
       items:
         - name: "What's New and Changed"
-          href: articles/SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
+          href: articles/MS-SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
         - name: "Preview Documents"
-          href: articles/SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
+          href: articles/MS-SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
         - name: "Overview Document"
-          href: articles/SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
+          href: articles/MS-SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
           items:
             - name: "MS-SSSO"
               href: articles/MS-SSSO/
         - name: "Technical Documents"
-          href: articles/SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
+          href: articles/MS-SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
           items:
             - name: "MS-RDL"
               href: articles/MS-RDL/
