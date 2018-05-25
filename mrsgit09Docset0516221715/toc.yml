@@ -6,7 +6,7 @@
       href: articles/officeindex.md
       items:
         - name: MS-PST
-          href: articles/MS-PST/
+          href: articles/MS-PST/toc.yml
     - name: "SQL Server Protocols"
       href: articles/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md
       items:
