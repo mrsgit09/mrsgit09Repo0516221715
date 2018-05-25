@@ -6,6 +6,10 @@
           "**/*.md",
           "**/*.yml"
         ],
+        "template": [
+          "default",
+          "/templates/custom-styles/"
+        ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -45,7 +49,7 @@
     "markdownEngineName": "markdig",
     "template": [
       "default",
-      "/mrsgit09Docset0516221715/template"
+      "/templates/custom-styles/"
     ]
   }
 }
