@@ -45,3 +45,6 @@
               href: articles/MS-SSMDSWS-15/toc.yml
             - name: "MS-SSNWS"
               href: articles/MS-SSNWS/toc.yml
+    - name: "Windows Protocols"
+      href: "Windows Protocol/toc.yml"
+      homepage: "Windows Protocols/92b33e19-6fff-496b-86c3-d168206f9845.md"
