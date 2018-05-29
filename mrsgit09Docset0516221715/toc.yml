@@ -1,13 +1,22 @@
-- name: HTML Test Docs
-  href: index.md
-  homepage: index.md
+- name: Open Specifications
+  href: openspeclp.md
+  homepage: openspeclp.md
   items:
-    - name: Office Protocols
-      href: "Office Protocols/toc.yml"
-      homepage: "Office Protocols/officeindex.md"
-    - name: "SQL Server Protocols"
-      href: "SQL Server Protocols/toc.yml"
-      homepage: "SQL Server Protocols/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md"
-    - name: "Windows Protocols"
-      href: "Windows Protocols/toc.yml"
-      homepage: "Windows Protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845.md"
+    - name: Forums and Blogs
+    - name: Document Programs
+    - name: Archive
+    - name: Protocols
+      href: protocolslp.md
+      items:
+        - name: "Windows Protocols"
+          href: "Windows Protocols/toc.yml"
+          homepage: "Windows Protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845.md"
+        - name: "Office Protocols"
+          href: "Office Protocols/toc.yml"
+          homepage: "Office Protocols/officeindex.md"
+        - name: "SQL Server Protocols"
+          href: "SQL Server Protocols/toc.yml"
+          homepage: "SQL Server Protocols/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md"
+    - name: Computer Languages
+    - name: Standards Support
+    - name: Data Portability

@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to Open Specifications
 
 This is a test of a method that "converts" documents from MSDN to docs.microsoft.com without creating official markdown. Instead, it uses the HTML created by the GenDox build as inline HTML in markdown files.
 
@@ -10,4 +10,4 @@ The document TOCs were generated from the HxT files produced by the build.
 * Table formatting - easily fixed with custom CSS
 * Generated links go to .htm instead of .html
 * Extra HTML tags at the bottom of all pages
-* Code boxes don't wrap - but do we want them to?
+* Code boxes don't wrap - easily fixed with custom CSS
