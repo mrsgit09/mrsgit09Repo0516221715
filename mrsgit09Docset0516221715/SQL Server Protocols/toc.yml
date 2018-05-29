@@ -1,0 +1,34 @@
+- name: "What's New and Changed"
+  href: MS-SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
+- name: "Preview Documents"
+  href: MS-SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
+- name: "Overview Document"
+  href: MS-SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
+  items:
+    - name: "MS-SSSO"
+      href: MS-SSSO/toc.yml
+- name: "Technical Documents"
+  href: MS-SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
+  items:
+    - name: "MS-RDL"
+      href: MS-RDL/toc.yml
+    - name: "MS-RGDI"
+      href: MS-RGDI/toc.yml
+    - name: "MS-RPL"
+      href: MS-RPL/toc.yml
+    - name: "MS-RSWSRMSM2006"
+      href: MS-RSWSRMSM2006/toc.yml
+    - name: "MS-RSWSSFA"
+      href: MS-RSWSSFA/toc.yml
+    - name: "MS-SSCLRT"
+      href: MS-SSCLRT/toc.yml
+    - name: "MS-SSAS"
+      href: MS-SSAS/toc.yml
+    - name: "MS-SSAS8"
+      href: MS-SSAS8/toc.yml
+    - name: "MS-SSCLRT"
+      href: MS-SSCLRT/toc.yml
+    - name: "MS-SSMDSWS-15"
+      href: MS-SSMDSWS-15/toc.yml
+    - name: "MS-SSNWS"
+      href: MS-SSNWS/toc.yml

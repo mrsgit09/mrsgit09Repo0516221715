@@ -2,49 +2,12 @@
   href: index.md
   homepage: index.md
   items:
-    - name: Office Docs
-      href: articles/officeindex.md
-      items:
-        - name: "[MS-PST]: Outlook Personal Folders (.pst) File Format"
-          href: articles/MS-PST/toc.yml
-          homepage: articles/141923d5-15ab-4ef1-a524-6dce75aae546.md
+    - name: Office Protocols
+      href: "Office Protocols/toc.yml"
+      homepage: "Office Protocols/officeindex.md"
     - name: "SQL Server Protocols"
-      href: articles/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md
-      items:
-        - name: "What's New and Changed"
-          href: articles/MS-SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
-        - name: "Preview Documents"
-          href: articles/MS-SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
-        - name: "Overview Document"
-          href: articles/MS-SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
-          items:
-            - name: "MS-SSSO"
-              href: articles/MS-SSSO/toc.yml
-        - name: "Technical Documents"
-          href: articles/MS-SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
-          items:
-            - name: "MS-RDL"
-              href: articles/MS-RDL/toc.yml
-            - name: "MS-RGDI"
-              href: articles/MS-RGDI/toc.yml
-            - name: "MS-RPL"
-              href: articles/MS-RPL/toc.yml
-            - name: "MS-RSWSRMSM2006"
-              href: articles/MS-RSWSRMSM2006/toc.yml
-            - name: "MS-RSWSSFA"
-              href: articles/MS-RSWSSFA/toc.yml
-            - name: "MS-SSCLRT"
-              href: articles/MS-SSCLRT/toc.yml
-            - name: "MS-SSAS"
-              href: articles/MS-SSAS/toc.yml
-            - name: "MS-SSAS8"
-              href: articles/MS-SSAS8/toc.yml
-            - name: "MS-SSCLRT"
-              href: articles/MS-SSCLRT/toc.yml
-            - name: "MS-SSMDSWS-15"
-              href: articles/MS-SSMDSWS-15/toc.yml
-            - name: "MS-SSNWS"
-              href: articles/MS-SSNWS/toc.yml
+      href: "SQL Server Protocols/toc.yml"
+      homepage: "SQL Server Protocols/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md"
     - name: "Windows Protocols"
       href: "Windows Protocols/toc.yml"
-      homepage: "Windows Protocols/92b33e19-6fff-496b-86c3-d168206f9845.md"
+      homepage: "Windows Protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845.md"
