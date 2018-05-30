@@ -6,10 +6,6 @@
           "**/*.md",
           "**/*.yml"
         ],
-        "template": [
-          "default",
-          "/templates/custom-styles/"
-        ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -36,6 +32,10 @@
         ]
       }
     ],
+    "template": [
+      "default",
+      "/templates/custom-styles/"
+    ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
@@ -46,10 +46,6 @@
     },
     "fileMetadata": {},
     "dest": "/mrsgit09Docset0516221715",
-    "markdownEngineName": "markdig",
-    "template": [
-      "default",
-      "/templates/custom-styles/"
-    ]
+    "markdownEngineName": "markdig"
   }
 }
