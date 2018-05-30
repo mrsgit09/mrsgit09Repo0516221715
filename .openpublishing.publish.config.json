@@ -3,7 +3,7 @@
     {
       "docset_name": "mrsgit09Docset0516221715",
       "customized_template_paths":[
-        "mrsgit09Docset0516221715/templates/custom-styles"
+        "/mrsgit09Docset0516221715/templates/"
       ],
       "build_source_folder": "mrsgit09Docset0516221715",
       "build_output_subfolder": "mrsgit09Docset0516221715",
