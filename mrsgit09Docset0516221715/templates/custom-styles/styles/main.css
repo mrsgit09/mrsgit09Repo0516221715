@@ -1,4 +1,4 @@
-main th
+article main th
 {
     background-color: #ededed;
     border-color: #bbb;
@@ -10,7 +10,7 @@ main th
     line-height: 1.1;
 }
 
-main td, main th
+article main td, main th
 {
     padding-left: 8px;
     padding-right: 8px;
