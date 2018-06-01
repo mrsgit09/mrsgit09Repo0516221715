@@ -27,10 +27,10 @@
 server and established a network transport connection for use with NWS.</p>
 
 <p>No security association is assumed to have been established
-at the lower layer before NWS begins functioning. For <a href="https://go.microsoft.com/fwlink/?LinkId=90461">[RFC4178]</a> or <a href="https://go.microsoft.com/fwlink/?LinkId=90373">[RFC2617]</a> <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a> to be used,
+at the lower layer before NWS begins functioning. For <a href="https://go.microsoft.com/fwlink/?LinkId=90461">[RFC4178]</a> or <a href="https://go.microsoft.com/fwlink/?LinkId=90373">[RFC2617]</a> <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.md#gt_8e961bf0-95ba-4f58-9034-b67ccb27f317">authentication</a> to be used,
 [RFC4178] or [RFC2617] support needs to be available on both the client and
 server machines. If channel encryption is to be used, <a href="https://go.microsoft.com/fwlink/?LinkId=90383">[RFC2818]</a> support
-needs to be present on both the client and server machines, and a <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.html#gt_7a0f4b71-23ba-434f-b781-28053ed64879">certificate</a> that is
+needs to be present on both the client and server machines, and a <a href="4baedaec-b5a7-4176-be88-e1cec659ab8c.md#gt_7a0f4b71-23ba-434f-b781-28053ed64879">certificate</a> that is
 suitable for encryption needs to be deployed on the server machine.</p>
 
 

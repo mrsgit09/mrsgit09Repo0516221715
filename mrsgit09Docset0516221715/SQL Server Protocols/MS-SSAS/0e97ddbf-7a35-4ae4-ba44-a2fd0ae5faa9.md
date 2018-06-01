@@ -57,8 +57,8 @@
   presentation. The <b>Schema</b> element within the <b>rs:root</b> element can
   be used to obtain a dictionary of elements that will appear within each row,
   and the types of the elements. Additional rows can be nested within a row
-  result, to a single <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.html#gt_35243297-04e4-4bb0-be03-defaf24c4246">level</a>.
-  See section <a href="4b951396-fdb9-4434-a68a-83cff27cb7f4.html">2.2.4.1.3.1.1</a>
+  result, to a single <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.md#gt_35243297-04e4-4bb0-be03-defaf24c4246">level</a>.
+  See section <a href="4b951396-fdb9-4434-a68a-83cff27cb7f4.md">2.2.4.1.3.1.1</a>
   for information on nested rows.</p>
   </td>
  </tr>

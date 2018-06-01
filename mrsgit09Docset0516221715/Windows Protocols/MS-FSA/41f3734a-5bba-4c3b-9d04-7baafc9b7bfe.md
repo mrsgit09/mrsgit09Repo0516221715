@@ -44,13 +44,13 @@ STATUS_REPARSE and <b>ReparsePointData</b> set to <b>File.ReparsePointData</b>.<
 is FILE_OPEN or FILE_OPEN_IF then:</p>
 
 <ul><li><p><span><span> 
-</span></span>Perform access checks as described in section <a href="82b364ce-6d7b-422f-8d88-4db32eea809a.html">2.1.5.1.2.1</a>. If this fails
+</span></span>Perform access checks as described in section <a href="82b364ce-6d7b-422f-8d88-4db32eea809a.md">2.1.5.1.2.1</a>. If this fails
 with STATUS_SHARING_VIOLATION:</p>
 
 <ul><li><p><span><span> 
 </span></span>If <b>Open.Stream.Oplock</b> is not empty and <b>Open.Stream.Oplock.State</b>
 contains HANDLE_CACHING, the object store MUST check for an oplock break
-according to the algorithm in section <a href="306239fb-cb60-49fe-b293-df4d1a5f757a.html">2.1.4.12</a>, with input
+according to the algorithm in section <a href="306239fb-cb60-49fe-b293-df4d1a5f757a.md">2.1.4.12</a>, with input
 values as follows:</p>
 
 <ul><li><p><span><span> 
@@ -76,7 +76,7 @@ this fails, the request MUST be failed with the same status.</p>
 </span></span>EndIf</p>
 
 </li><li><p><span><span> 
-</span></span>Perform sharing access checks as described in section <a href="8c0e3f4f-0729-49f4-a14d-7f7add593819.html">2.1.5.1.2.2</a>. If this fails
+</span></span>Perform sharing access checks as described in section <a href="8c0e3f4f-0729-49f4-a14d-7f7add593819.md">2.1.5.1.2.2</a>. If this fails
 with STATUS_SHARING_VIOLATION:</p>
 
 <ul><li><p><span><span> 
@@ -109,7 +109,7 @@ does not contain FILE_SHARE_READ, and <b><i>AccessCheck</i></b>(<b>SecurityConte
 File.SecurityDescriptor, FILE_GENERIC_WRITE) returns FALSE:</p>
 
 <ul><li><p><span><span> 
-</span></span>If <b>CreateOptions.FILE_DISALLOW_EXCLUSIVE</b> is TRUE:<a id="Appendix_A_Target_51"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_51" aria-label="Product behavior note 51">&lt;51&gt;</a></p>
+</span></span>If <b>CreateOptions.FILE_DISALLOW_EXCLUSIVE</b> is TRUE:<a id="Appendix_A_Target_51"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_51" aria-label="Product behavior note 51">&lt;51&gt;</a></p>
 
 <ul><li><p><span><span> 
 </span></span>The operation MUST be failed with STATUS_ACCESS_DENIED.</p>
@@ -406,7 +406,7 @@ according to the algorithm in section 2.1.4.12, with input values as follows:</p
 </span></span>EndIf</p>
 
 </li><li><p><span><span> 
-</span></span>Note that the file has been modified as specified in section <a href="75cdaba1-4401-4c53-b09c-69ba6cd50ce6.html">2.1.4.17</a> with <b>Open</b>
+</span></span>Note that the file has been modified as specified in section <a href="75cdaba1-4401-4c53-b09c-69ba6cd50ce6.md">2.1.4.17</a> with <b>Open</b>
 equal to <b>Open</b>.</p>
 
 </li><li><p><span><span> 
@@ -584,7 +584,7 @@ modifications to the existing file's persistent attributes performed during the
 Open operation.</p>
 
 </li><li><p><span><span>  </span></span>Send
-directory change notification as specified in section <a href="7f757efa-ba81-4c0e-a4c7-d11d7beed109.html">2.1.4.1</a>, with <b>Volume</b>
+directory change notification as specified in section <a href="7f757efa-ba81-4c0e-a4c7-d11d7beed109.md">2.1.4.1</a>, with <b>Volume</b>
 equal to <b>File.Volume</b>, <b>Action</b> equal to FILE_ACTION_MODIFIED, <b>FilterMatch</b>
 equal to <i>FilterMatch</i>, and <b>FileName</b> equal to <b>Open.FileName</b>.</p>
 
@@ -632,7 +632,7 @@ equal to <b>Open.FileName</b> + &quot;:&quot; + <b>Stream.Name</b>.</p>
 
 </li><li><p><span><span> 
 </span></span>The object store SHOULD update the duplicated information as
-specified in section <a href="7e375703-5641-48f3-b844-c2ef1ee70461.html">2.1.4.18</a>
+specified in section <a href="7e375703-5641-48f3-b844-c2ef1ee70461.md">2.1.4.18</a>
 with <b>Link</b> equal to <b>Open.Link</b>.</p>
 
 </li><li><p><span><span> 

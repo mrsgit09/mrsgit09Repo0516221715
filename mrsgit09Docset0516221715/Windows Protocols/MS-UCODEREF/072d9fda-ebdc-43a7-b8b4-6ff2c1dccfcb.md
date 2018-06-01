@@ -24,9 +24,9 @@
                     
 
 <p>To do a case-sensitive ordinal comparison of strings, a
-binary comparison of the <a href="484e8ed3-152b-4300-9527-7efade6d6491.html#gt_4c9eef52-69d4-43e7-ac04-ff1fe43a94fb">UTF-16</a>
+binary comparison of the <a href="484e8ed3-152b-4300-9527-7efade6d6491.md#gt_4c9eef52-69d4-43e7-ac04-ff1fe43a94fb">UTF-16</a>
 code points of the strings is done. To do a case-insensitive ordinal string
-comparison, <a href="3c5ba385-29c2-4cc5-b525-b29e36884ae0.html">ToUpperCase</a>
+comparison, <a href="3c5ba385-29c2-4cc5-b525-b29e36884ae0.md">ToUpperCase</a>
 (section 3.1.5.3.1) is done on each string before doing the ordinal comparison.</p>
 
 

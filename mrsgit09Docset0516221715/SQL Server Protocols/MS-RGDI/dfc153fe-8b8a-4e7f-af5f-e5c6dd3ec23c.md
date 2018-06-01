@@ -24,7 +24,7 @@
                     
 
 <p>The <b>NonSharedObject</b> structure specifies an object
-that can be passed as an argument to GDI+ functions. The objects are the <a href="ebbd0c06-4c68-4335-897e-577737d21387.html">Font</a>, <a href="e00f31f3-41c5-47e7-a902-d2e533892727.html">Format</a>, and <a href="b56dd4fa-9cc1-4355-9d13-cbd52f9f3b83.html">Image</a> objects; these are
+that can be passed as an argument to GDI+ functions. The objects are the <a href="ebbd0c06-4c68-4335-897e-577737d21387.md">Font</a>, <a href="e00f31f3-41c5-47e7-a902-d2e533892727.md">Format</a>, and <a href="b56dd4fa-9cc1-4355-9d13-cbd52f9f3b83.md">Image</a> objects; these are
 specified in the <b>sharedObjectContents</b> field.</p>
 
 <dl>
@@ -85,12 +85,12 @@ specified in the <b>sharedObjectContents</b> field.</p>
 </table>
 
 <p><b>notShared (1 byte): </b>A byte field that
-specifies that the type of the <a href="55aa3259-66cd-4c39-9102-e056659e5a9a.html">ShareableObject</a> structure
+specifies that the type of the <a href="55aa3259-66cd-4c39-9102-e056659e5a9a.md">ShareableObject</a> structure
 is a <b>NonSharedObject</b> structure. The value of this field MUST be
 &quot;0x00&quot;.</p>
 
 <p><b>sharedObjectContents (variable): </b>A structure
-of type <a href="aa86e07c-a153-4aea-a411-c69b4179b1ce.html">SharedObjectContents</a>
+of type <a href="aa86e07c-a153-4aea-a411-c69b4179b1ce.md">SharedObjectContents</a>
 that specifies a <b>Font</b>, <b>Format</b>, or <b>Image</b> object.</p>
 
 

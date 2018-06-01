@@ -105,7 +105,7 @@ corrupted.</p>
 <p><b>IsFullDefinition</b>: Specifies whether the business rule
 contains a full definition of a business rule.</p>
 
-<p><b>NotificationGroup</b>: Specifies the <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.html#gt_2bd35dd1-142e-4a80-9ac8-cd7ea05de566">MUID</a> of the group to be
+<p><b>NotificationGroup</b>: Specifies the <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.md#gt_2bd35dd1-142e-4a80-9ac8-cd7ea05de566">MUID</a> of the group to be
 notified about the rule. Either <b>NotificationGroup</b> or <b>NotificationUser</b>
 can be specified, but not both.</p>
 
@@ -120,7 +120,7 @@ priority of the business rule.</p>
 representation of business rule actions that are included in the business rule.</p>
 
 <p><b>RuleConditionText</b>: Specifies a text-based
-representation of business rule <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.html#gt_9a1c3bd3-d971-482a-adfe-6f41e427b95f">conditions</a> that are
+representation of business rule <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.md#gt_9a1c3bd3-d971-482a-adfe-6f41e427b95f">conditions</a> that are
 included in the business rule.</p>
 
 <p><b>Status</b>: Specifies the status of the current

@@ -24,7 +24,7 @@
                     
 
 <p>This section specifies the properties that can be used in an
-RPL <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_f3529cd8-50da-4f36-aa0b-66af455edbb6">stream</a>.</p>
+RPL <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.md#gt_f3529cd8-50da-4f36-aa0b-66af455edbb6">stream</a>.</p>
 
 
                 </div>

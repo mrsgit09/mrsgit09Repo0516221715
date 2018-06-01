@@ -31,7 +31,7 @@ can cause an oplock to break.</p>
 
 </li><li><p><span><span> 
 </span></span><b>OplockOpen:</b> The <b>Open</b> originally used to request the
-oplock, as specified in section <a href="64fd4383-f48a-488c-a28f-1ef92c64e878.html">2.1.5.17</a>.</p>
+oplock, as specified in section <a href="64fd4383-f48a-488c-a28f-1ef92c64e878.md">2.1.5.17</a>.</p>
 
 </li><li><p><span><span> 
 </span></span><b>Flags:</b> If unspecified it is considered to contain 0. Valid

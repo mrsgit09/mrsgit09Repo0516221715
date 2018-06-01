@@ -24,18 +24,18 @@
                     
 
 <p>The <b>ImageDataProperties</b> record specifies a collection
-of properties applicable to the <a href="b6e7b187-4160-4ce2-940e-6198a7416863.html">Image</a> record and the <a href="8ac13f18-6374-424f-a690-eb9030fb3083.html">BackgroundImage</a> style
-property. The <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_8502cabb-8fac-401a-93da-3ca2ad4ddf75">parent record</a>
+of properties applicable to the <a href="b6e7b187-4160-4ce2-940e-6198a7416863.md">Image</a> record and the <a href="8ac13f18-6374-424f-a690-eb9030fb3083.md">BackgroundImage</a> style
+property. The <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.md#gt_8502cabb-8fac-401a-93da-3ca2ad4ddf75">parent record</a>
 for the <b>ImageDataProperties</b> record MUST be one of the following:</p>
 
 <ul><li><p><span><span> 
-</span></span><a href="1b1b7882-84bb-47d4-a3d2-b020b8d23d7a.html">Image.ElementProperties.NonSharedElementProperties</a></p>
+</span></span><a href="1b1b7882-84bb-47d4-a3d2-b020b8d23d7a.md">Image.ElementProperties.NonSharedElementProperties</a></p>
 
 </li><li><p><span><span> 
-</span></span><a href="8e7ad65c-8fc2-4a04-a02f-be9fe5b91d1e.html">Style.SharedStyleProperties</a></p>
+</span></span><a href="8e7ad65c-8fc2-4a04-a02f-be9fe5b91d1e.md">Style.SharedStyleProperties</a></p>
 
 </li><li><p><span><span> 
-</span></span><a href="19ef92ab-7c9f-454f-874d-b6b04b92b117.html">Style.NonSharedStyleProperties</a>           
+</span></span><a href="19ef92ab-7c9f-454f-874d-b6b04b92b117.md">Style.NonSharedStyleProperties</a>           
 </p>
 
 <div><pre> ImageDataProperties = imageStart (UseSharedImageDataProperties / InlineSharedImageDataProperties / NonSharedImageDataProperties)
@@ -96,9 +96,9 @@ for the <b>ImageDataProperties</b> record MUST be one of the following:</p>
 start of the <b>ImageDataProperties</b> record. The value of the <b>imageStart</b>
 field MUST be 0x2A.</p>
 
-<p><b>imageDataProperties (variable): </b>A <a href="04bb34a6-c963-40c3-9a3f-39bf2413c125.html">UseSharedImageDataProperties</a>,
-<a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.html">InlineSharedImageDataProperties</a>,
-or <a href="cd824380-615e-4259-9193-320c0992eb47.html">NonSharedImageDataProperties</a>
+<p><b>imageDataProperties (variable): </b>A <a href="04bb34a6-c963-40c3-9a3f-39bf2413c125.md">UseSharedImageDataProperties</a>,
+<a href="1b93acb6-ccb8-494f-abe9-797e9d3ab199.md">InlineSharedImageDataProperties</a>,
+or <a href="cd824380-615e-4259-9193-320c0992eb47.md">NonSharedImageDataProperties</a>
 record. When the parent record is <b>Style.SharedStyleProperties</b>, the <b>imageDataProperties</b>
 MUST be <b>UseSharedImageDataProperties</b> or <b>InlineSharedImageDataProperties</b>.
 The <b>imageDataProperties</b> MUST be <b>NonSharedImageDataProperties</b> when

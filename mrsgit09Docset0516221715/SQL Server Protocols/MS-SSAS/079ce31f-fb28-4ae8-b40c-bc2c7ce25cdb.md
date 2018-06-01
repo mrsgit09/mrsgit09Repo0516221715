@@ -24,7 +24,7 @@
                     
 
 <p>The <b>CubeDimensionPermission</b> complex type represents
-permissions for a <a href="7b4ec273-230d-4558-801f-3e7dff015ddc.html">CubeDimension</a>.</p>
+permissions for a <a href="7b4ec273-230d-4558-801f-3e7dff015ddc.md">CubeDimension</a>.</p>
 
 <dl>
 <dd>
@@ -156,7 +156,7 @@ permissions for a <a href="7b4ec273-230d-4558-801f-3e7dff015ddc.html">CubeDimens
   <p>Empty</p>
   </td>
   <td>
-  <p>A collection of <a href="c7e44b38-ff08-40a5-85ee-20944c827556.html">AttributePermission</a>
+  <p>A collection of <a href="c7e44b38-ff08-40a5-85ee-20944c827556.md">AttributePermission</a>
   objects.</p>
   </td>
  </tr>
@@ -171,7 +171,7 @@ permissions for a <a href="7b4ec273-230d-4558-801f-3e7dff015ddc.html">CubeDimens
   <p>Empty</p>
   </td>
   <td>
-  <p>A collection of <a href="f660115e-7c55-4ee3-af55-75939f9a9b3b.html">Annotation</a> objects.</p>
+  <p>A collection of <a href="f660115e-7c55-4ee3-af55-75939f9a9b3b.md">Annotation</a> objects.</p>
   </td>
  </tr>
 </table>

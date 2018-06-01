@@ -24,7 +24,7 @@
                     
 
 <p>This schema rowset enables the client application to browse
-the content of a trained data <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.html#gt_4fbc48d0-67e2-4689-8c1e-8f7cfd8b1adf">mining
+the content of a trained data <a href="8676f5ce-62d4-4244-a326-634bfed4aba4.md#gt_4fbc48d0-67e2-4689-8c1e-8f7cfd8b1adf">mining
 model</a>.</p>
 
 

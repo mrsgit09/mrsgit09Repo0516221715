@@ -29,7 +29,7 @@
 </span></span><b>RootOpen:</b> An <b>Open</b> to the root of the share.</p>
 
 </li><li><p><span><span> 
-</span></span><b>PathName:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_c305d0ab-8b94-461a-bd76-13b40cb8c4d8">Unicode</a> path relative to <b>RootOpen</b>
+</span></span><b>PathName:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_c305d0ab-8b94-461a-bd76-13b40cb8c4d8">Unicode</a> path relative to <b>RootOpen</b>
 for the file to be opened in the format specified in <mshelp:link keywords="efbfe127-73ad-4140-9967-ec6500e66d5e" tabindex="0">[MS-FSCC]</mshelp:link>
 section <mshelp:link keywords="ffb795f3-027d-4a3c-997d-3085f2332f6f" tabindex="0">2.1.5</mshelp:link>.</p>
 
@@ -64,7 +64,7 @@ string comparisons performed in the context of this Open are case-insensitive;
 otherwise, they are case-sensitive.</p>
 
 </li><li><p><span><span> 
-</span></span><b>TargetOplockKey:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a> value. This value
+</span></span><b>TargetOplockKey:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a> value. This value
 could be empty.</p>
 
 </li><li><p><span><span> 
@@ -92,7 +92,7 @@ for the <b>CreateAction</b> field.</p>
 return:</p>
 
 <ul><li><p><span><span> 
-</span></span><b>ReparseData:</b> The <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_4fed0b53-5fc8-4818-886f-93d87f3035e1">reparse point</a> data
+</span></span><b>ReparseData:</b> The <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_4fed0b53-5fc8-4818-886f-93d87f3035e1">reparse point</a> data
 associated with an existing file, in the format described in [MS-FSCC] section <mshelp:link keywords="e57148b1-300b-4d1e-8f67-091de2de815e" tabindex="0">2.1.2</mshelp:link>.
 The application MAY retry the open operation with a different <b>PathName</b>
 parameter constructed using <b>ReparseData</b>.</p>
@@ -235,7 +235,7 @@ set to -1.</p>
 other fields set to zero.</p>
 
 </li></ul></li><li><p><span><span> 
-</span></span>Phase 4 -- Check for <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_f0ec1e1a-3f20-40f1-8b67-b892ff3e4b72">backup</a>/<a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_43eabdaa-8fc0-48ac-a23e-2cd92a2fa481">restore</a> intent</p>
+</span></span>Phase 4 -- Check for <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_f0ec1e1a-3f20-40f1-8b67-b892ff3e4b72">backup</a>/<a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_43eabdaa-8fc0-48ac-a23e-2cd92a2fa481">restore</a> intent</p>
 
 </li><li><p><span><span> 
 </span></span>If <b>CreateOptions.FILE_OPEN_FOR_BACKUP_INTENT</b> is set and (<b>CreateDisposition</b>
@@ -344,7 +344,7 @@ i = 1 to n-1: // n is the number of pathname components, from Phase 5.</p>
 
 </li><li><p><span><span> 
 </span></span>If <i>ComplexNameSuffix</i> is non-empty and <i>ComplexNameSuffix</i>
-is not equal to one of the complex name suffixes recognized by the object store<a id="Appendix_A_Target_42"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_42" aria-label="Product behavior note 42">&lt;42&gt;</a> (using case-insensitive string
+is not equal to one of the complex name suffixes recognized by the object store<a id="Appendix_A_Target_42"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_42" aria-label="Product behavior note 42">&lt;42&gt;</a> (using case-insensitive string
 comparisons), the operation MUST be failed with STATUS_OBJECT_NAME_INVALID.</p>
 
 </li><li><p><span><span> 
@@ -385,7 +385,7 @@ to <i>StreamName</i><sub>n</sub>, and <i>StreamTypeNameToOpen</i> to <i>StreamTy
 
 </li><li><p><span><span>  </span></span>If <i>StreamTypeNameToOpen</i>
 is non-empty and <i>StreamTypeNameToOpen</i> is not equal to one of the stream
-type names recognized by the object store<a id="Appendix_A_Target_43"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_43" aria-label="Product behavior note 43">&lt;43&gt;</a> (using
+type names recognized by the object store<a id="Appendix_A_Target_43"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_43" aria-label="Product behavior note 43">&lt;43&gt;</a> (using
 case-insensitive string comparisons), the operation MUST be failed with
 STATUS_OBJECT_NAME_INVALID.</p>
 
@@ -468,7 +468,7 @@ file always exists in the object store and </p>
 
 <ul><li><p><span><span>  </span></span>If <i>StreamTypeNameToOpen</i>
 is &quot;$INDEX_ALLOCATION&quot; and <i>StreamNameToOpen</i> has a value other
-than an empty stream or &quot;$I30&quot;, the operation SHOULD<a id="Appendix_A_Target_44"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_44" aria-label="Product behavior note 44">&lt;44&gt;</a> be failed with
+than an empty stream or &quot;$I30&quot;, the operation SHOULD<a id="Appendix_A_Target_44"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_44" aria-label="Product behavior note 44">&lt;44&gt;</a> be failed with
 STATUS_INVALID_PARAMETER.</p>
 
 </li><li><p><span><span>  </span></span>If <b>CreateOptions.FILE_DIRECTORY_FILE</b>
@@ -522,8 +522,8 @@ DirectoryFile, the operation MUST be failed with STATUS_FILE_IS_A_DIRECTORY.</p>
 
 </li><li><p><span><span> 
 </span></span>If <b>Open.File</b> is NULL, the object store MUST create a new
-file as described in section <a href="498a5eeb-afc9-445f-99ed-a7e4b73c648b.html">2.1.5.1.1</a>;
-otherwise the object store MUST open the existing file as described in section <a href="41f3734a-5bba-4c3b-9d04-7baafc9b7bfe.html">2.1.5.1.2</a>.</p>
+file as described in section <a href="498a5eeb-afc9-445f-99ed-a7e4b73c648b.md">2.1.5.1.1</a>;
+otherwise the object store MUST open the existing file as described in section <a href="41f3734a-5bba-4c3b-9d04-7baafc9b7bfe.md">2.1.5.1.2</a>.</p>
 
 </li></ul>
                 </div>

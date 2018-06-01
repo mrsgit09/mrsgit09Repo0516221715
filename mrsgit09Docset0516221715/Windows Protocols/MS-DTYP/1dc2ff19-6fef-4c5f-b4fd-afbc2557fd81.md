@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p><b>SIZE_T</b> is a <a href="21eec394-630d-49ed-8b4a-ab74a1614611.html">ULONG_PTR</a> representing the
+<p><b>SIZE_T</b> is a <a href="21eec394-630d-49ed-8b4a-ab74a1614611.md">ULONG_PTR</a> representing the
 maximum number of bytes to which a pointer can point.</p>
 
 <p>This type is declared as follows:</p>

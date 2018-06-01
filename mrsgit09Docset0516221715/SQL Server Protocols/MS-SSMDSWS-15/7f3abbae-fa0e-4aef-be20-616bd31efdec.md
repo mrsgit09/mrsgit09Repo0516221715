@@ -24,7 +24,7 @@
                     
 
 <p>The <b>BRActionGroup</b> complex type specifies a grouping
-of related <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.html#gt_b677f217-1682-44fc-9507-ca91e09123ef">business rule</a>
+of related <a href="ad350219-f30b-4bac-99e5-6477986f9a7a.md#gt_b677f217-1682-44fc-9507-ca91e09123ef">business rule</a>
 action components that are currently available for use in MDS.</p>
 
 <p>The following is the XML schema definition of the <b>BRActionGroup</b>

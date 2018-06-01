@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The MULTI_SZ structure defines an implementation-specific<a id="Appendix_A_Target_2"></a><a href="11e1608c-6169-4fbc-9c33-373fc9b224f4.html#Appendix_A_2" aria-label="Product behavior note 2">&lt;2&gt;</a> type that contains a sequence of
+<p>The MULTI_SZ structure defines an implementation-specific<a id="Appendix_A_Target_2"></a><a href="11e1608c-6169-4fbc-9c33-373fc9b224f4.md#Appendix_A_2" aria-label="Product behavior note 2">&lt;2&gt;</a> type that contains a sequence of
 null-terminated strings, terminated by an empty string (\0) so that the last
 two characters are both null terminators.</p>
 

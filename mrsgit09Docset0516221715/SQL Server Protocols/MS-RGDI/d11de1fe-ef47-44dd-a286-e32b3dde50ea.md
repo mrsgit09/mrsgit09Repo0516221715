@@ -24,8 +24,8 @@
                     
 
 <p>The <b>RecordContents</b> structure specifies a nested
-structure, a GDI+ function call with arguments, or a <a href="557e6223-9107-4be3-9f7c-b83beb5d16fc.html#gt_dd28a39f-3fcb-41fc-810a-f64a77573327">shared object</a>. This is a <a href="557e6223-9107-4be3-9f7c-b83beb5d16fc.html#gt_50923bd8-78ce-4160-8990-ebc8d77a7031">virtual structure</a> that does
-not appear in the stream. Instead, a <a href="79fc79d5-9898-4d45-a6e6-fe32941b0b21.html">Structure</a>, <a href="f9e8e623-fd12-490d-8812-df029ad8fbda.html">Function</a>, or <a href="781c2b12-8756-4734-93f4-f966b1fd9f69.html">SharedObject</a> structure
+structure, a GDI+ function call with arguments, or a <a href="557e6223-9107-4be3-9f7c-b83beb5d16fc.md#gt_dd28a39f-3fcb-41fc-810a-f64a77573327">shared object</a>. This is a <a href="557e6223-9107-4be3-9f7c-b83beb5d16fc.md#gt_50923bd8-78ce-4160-8990-ebc8d77a7031">virtual structure</a> that does
+not appear in the stream. Instead, a <a href="79fc79d5-9898-4d45-a6e6-fe32941b0b21.md">Structure</a>, <a href="f9e8e623-fd12-490d-8812-df029ad8fbda.md">Function</a>, or <a href="781c2b12-8756-4734-93f4-f966b1fd9f69.md">SharedObject</a> structure
 appears in its place.</p>
 
 <dl>

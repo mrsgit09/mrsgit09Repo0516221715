@@ -25,7 +25,7 @@
 
 <p>The ACCESS_DENIED_CALLBACK_ACE structure defines an ACE for
 the DACL that controls access to an object. An access-denied ACE denies access
-to an object for a specific trustee identified by a <a href="78eb9013-1c3a-4970-ad1f-2b1dad588a25.html">SID</a>.</p>
+to an object for a specific trustee identified by a <a href="78eb9013-1c3a-4970-ad1f-2b1dad588a25.md">SID</a>.</p>
 
 <table>
  <tr>
@@ -96,11 +96,11 @@ to an object for a specific trustee identified by a <a href="78eb9013-1c3a-4970-
  </tr>
 </table>
 
-<p><b>Header (4 bytes): </b>An <a href="628ebb1d-c509-4ea0-a10f-77ef97ca4586.html">ACE_HEADER</a> structure that
+<p><b>Header (4 bytes): </b>An <a href="628ebb1d-c509-4ea0-a10f-77ef97ca4586.md">ACE_HEADER</a> structure that
 specifies the size and type of ACE. It also contains flags that control
 inheritance of the ACE by child objects.</p>
 
-<p><b>Mask (4 bytes): </b>An <a href="7a53f60e-e730-4dfe-bbe9-b21b62eb790b.html">ACCESS_MASK</a> that specifies
+<p><b>Mask (4 bytes): </b>An <a href="7a53f60e-e730-4dfe-bbe9-b21b62eb790b.md">ACCESS_MASK</a> that specifies
 the user rights denied by this ACE.</p>
 
 <p><b>Sid (variable): </b>The SID of a trustee. The

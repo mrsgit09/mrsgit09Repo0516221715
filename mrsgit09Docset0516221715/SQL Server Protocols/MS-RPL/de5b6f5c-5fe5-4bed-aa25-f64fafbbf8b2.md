@@ -24,7 +24,7 @@
                     
 
 <p>This example specifies the records that are required to
-produce a <a href="4be143af-2e99-41c5-894d-01902ed98673.html">Report</a> by
+produce a <a href="4be143af-2e99-41c5-894d-01902ed98673.md">Report</a> by
 using RPL 10.3.</p>
 
 <table>
@@ -3492,7 +3492,7 @@ of the report.</p>
 <p><b>RPLStamp:</b> The &quot;RPLIF&quot; value
 specifies the value for the stamp.</p>
 
-<p><b>Version:</b> A <a href="1478a189-40e0-412a-baf0-caa8b934ca72.html"><span>Version</span></a> structure specifies the RPL version.</p>
+<p><b>Version:</b> A <a href="1478a189-40e0-412a-baf0-caa8b934ca72.md"><span>Version</span></a> structure specifies the RPL version.</p>
 
 <p><b>majorVersion:</b> 0x0A specifies that the major
 version is 10.</p>
@@ -3506,7 +3506,7 @@ version is 3.</p>
 <p><b>reportStart:</b> 0x00 specifies the start token of
 the Report record.</p>
 
-<p><b>ReportProperties:</b> A <a href="a9b28610-5438-470d-84bb-0608d07ddc46.html"><span>ReportProperties</span></a> record specifies properties of the report.</p>
+<p><b>ReportProperties:</b> A <a href="a9b28610-5438-470d-84bb-0608d07ddc46.md"><span>ReportProperties</span></a> record specifies properties of the report.</p>
 
 <p><b>reportPropertiesStart:</b> 0x02 specifies the
 start token of the ReportProperties record.</p>
@@ -3515,13 +3515,13 @@ start token of the ReportProperties record.</p>
 for the Report record.</p>
 
 <p><b>reportNameStart:</b> 0x0F specifies the start
-token of the <a href="04f243a8-affa-43cc-9232-ca7254222200.html"><span>ReportName</span></a> property.</p>
+token of the <a href="04f243a8-affa-43cc-9232-ca7254222200.md"><span>ReportName</span></a> property.</p>
 
 <p><b>reportNameValue:</b> Report1 specifies the name of
 the report.</p>
 
 <p><b>autoRefreshStart:</b> 0x0E specifies the start
-token of the <a href="d82719c4-59d8-43fd-9de8-89e91e6cf2a0.html"><span>AutoRefresh</span></a> property.</p>
+token of the <a href="d82719c4-59d8-43fd-9de8-89e91e6cf2a0.md"><span>AutoRefresh</span></a> property.</p>
 
 <p><b>autoRefreshValue:</b> 0x0000001E specifies that
 the automatic refresh interval is 30 seconds.</p>
@@ -3529,32 +3529,32 @@ the automatic refresh interval is 30 seconds.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the
 ReportProperties record.</p>
 
-<p><b>PageContent:</b> A <a href="031cb41d-d136-43e5-8d0c-bf1fe123f806.html">PageContent</a>
+<p><b>PageContent:</b> A <a href="031cb41d-d136-43e5-8d0c-bf1fe123f806.md">PageContent</a>
 (RPL 10.3) record specifies the pages of a report.</p>
 
 <p><b>pageContentStart:</b> 0x13 specifies the start
 token of the <b>PageContent</b> structure.</p>
 
-<p><b>BodyAreaElement:</b> A <a href="8528a8c1-b350-43a8-b924-28e8113b63c9.html">BodyAreaElement</a>
+<p><b>BodyAreaElement:</b> A <a href="8528a8c1-b350-43a8-b924-28e8113b63c9.md">BodyAreaElement</a>
 (RPL 10.3) record specifies an area of the body of <b>PageContent</b>.</p>
 
 <p><b>Columns:</b> 0x14 specifies the start token of the
 <b>BodyAreaElement</b> record.</p>
 
-<p><b>BodyArea:</b> A <a href="fd0b6a17-7759-4674-aa84-bec51908f314.html">BodyElement</a> record
+<p><b>BodyArea:</b> A <a href="fd0b6a17-7759-4674-aa84-bec51908f314.md">BodyElement</a> record
 specifies the content of the main area of <b>BodyAreaElement</b>.</p>
 
 <p><b>body:</b> 0x06 specifies the start token of the <b>BodyArea</b>
 record.</p>
 
-<p><b>ElementProperties:</b> An <a href="d7f6cef2-01c6-4562-a4a0-5f205d79963e.html">ElementProperties</a> record
+<p><b>ElementProperties:</b> An <a href="d7f6cef2-01c6-4562-a4a0-5f205d79963e.md">ElementProperties</a> record
 that specifies the properties for the <b>BodyArea</b> record.</p>
 
 <p><b>elementPropertiesStart:</b> 0x0F specifies the
 start token of the <b>ElementProperties</b> record.</p>
 
-<p><b>SharedElementProperties:</b> A <a href="9496b6e7-b12b-4fbe-ad27-2cc5e9d61fcd.html">SharedElementProperties</a>
-record that specifies the <a href="23d76278-cee5-45ee-a361-a9d94d6d3300.html">InlineSharedElementProperties</a>
+<p><b>SharedElementProperties:</b> A <a href="9496b6e7-b12b-4fbe-ad27-2cc5e9d61fcd.md">SharedElementProperties</a>
+record that specifies the <a href="23d76278-cee5-45ee-a361-a9d94d6d3300.md">InlineSharedElementProperties</a>
 record of the <b>BodyArea</b> record.</p>
 
 <p><b>shared:</b> 0x00 specifies the start token of the <b>SharedElementProperties</b>
@@ -3564,7 +3564,7 @@ record.</p>
 <b>BodyAreaElement</b> record.</p>
 
 <p><b>idStart:</b> 0x01 specifies the start token of the
-<a href="cefdcebd-7703-4ba3-a8f1-ba3681283bf7.html">ID</a> property.</p>
+<a href="cefdcebd-7703-4ba3-a8f1-ba3681283bf7.md">ID</a> property.</p>
 
 <p><b>idValue:</b> <i>BodyArea</i> specifies <b>ID</b>
 for the <b>BodyArea</b> record.</p>
@@ -3575,15 +3575,15 @@ record.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the <b>ElementProperties</b>
 record.</p>
 
-<p><b>ReportItems:</b> A <a href="422387f7-880f-4d86-9e88-2a5d2e8f191e.html">ReportItem</a> record
+<p><b>ReportItems:</b> A <a href="422387f7-880f-4d86-9e88-2a5d2e8f191e.md">ReportItem</a> record
 specifies items in the report.</p>
 
-<p><b>Image:</b> An <a href="b6e7b187-4160-4ce2-940e-6198a7416863.html">Image</a> record specifies an <b>Image</b>
+<p><b>Image:</b> An <a href="b6e7b187-4160-4ce2-940e-6198a7416863.md">Image</a> record specifies an <b>Image</b>
 report item in the <b>BodyArea</b> record. See the <b>Image</b> example
-(section <a href="d9153136-89b4-4071-8d0c-613e860be560.html">3.2</a>) for
+(section <a href="d9153136-89b4-4071-8d0c-613e860be560.md">3.2</a>) for
 additional details.</p>
 
-<p><b>Measurements:</b> A <a href="5c5210d9-a82b-4040-8e79-800e2ee51b52.html">Measurements</a> record
+<p><b>Measurements:</b> A <a href="5c5210d9-a82b-4040-8e79-800e2ee51b52.md">Measurements</a> record
 specifies the measurements of an <b>Image</b> report item.</p>
 
 <p><b>measurementsStart:</b> 0x10 specifies the start
@@ -3613,7 +3613,7 @@ placed 0 millimeters below the parent. </p>
 <p><b>zIndex:</b> 0x00000000 specifies that the image is
 drawn first.</p>
 
-<p><b>State:</b> A <a href="3025d1fb-b89c-42ce-b786-7256e321a9e2.html">State</a> property specifies
+<p><b>State:</b> A <a href="3025d1fb-b89c-42ce-b786-7256e321a9e2.md">State</a> property specifies
 the state information for the <b>Measurement</b> record of the report item.</p>
 
 <p><b>A:</b> 0x0 specifies that the top border is not
@@ -3644,7 +3644,7 @@ set to 0.</p>
 specifies the position of the <b>ReportElementEnd</b> record for the <b>Image</b>
 report item structure in the RPL stream.</p>
 
-<p><b>ReportElementEnd:</b> A <a href="75f1a870-2f17-4806-b286-e67c7239e103.html">ReportElementEnd</a> record
+<p><b>ReportElementEnd:</b> A <a href="75f1a870-2f17-4806-b286-e67c7239e103.md">ReportElementEnd</a> record
 specifies the end of the <b>BodyArea</b> record.</p>
 
 <p><b>elementEnd:</b> 0xFE specifies the start token of
@@ -3688,7 +3688,7 @@ area is 178 millimeters tall.</p>
 area is drawn first.</p>
 
 <p><b>State:</b> A <b>State</b> property specifies the
-state information for the <a href="793e2994-8d9c-4c17-b9a6-7baca8d2d035.html">Measurement</a>
+state information for the <a href="793e2994-8d9c-4c17-b9a6-7baca8d2d035.md">Measurement</a>
 record of the report item.</p>
 
 <p><b>reportElementEndOffset:</b> 0x000000000000007E
@@ -3708,13 +3708,13 @@ record in the RPL stream.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the <b>ReportElementEnd</b>
 record.</p>
 
-<p><b>Page:</b> A <a href="7675024f-e8f7-4bc1-a889-5ca00ffd8782.html">Page</a> record specifies a <b>Page</b>
-record in <a href="aa2a61ad-6000-40f6-8872-d79f21601b5b.html">PageContent</a>.</p>
+<p><b>Page:</b> A <a href="7675024f-e8f7-4bc1-a889-5ca00ffd8782.md">Page</a> record specifies a <b>Page</b>
+record in <a href="aa2a61ad-6000-40f6-8872-d79f21601b5b.md">PageContent</a>.</p>
 
 <p><b>pageStart:</b> 0x01 specifies the start token of
 the <b>Page</b> record.</p>
 
-<p><b>PageProperties:</b> A <a href="0b56e16b-0d77-4cad-83a4-1ba0c046a35c.html">PageProperties</a> record
+<p><b>PageProperties:</b> A <a href="0b56e16b-0d77-4cad-83a4-1ba0c046a35c.md">PageProperties</a> record
 specifies the properties of a page.</p>
 
 <p><b>pagePropertiesStart:</b> 0x03 specifies the start
@@ -3738,7 +3738,7 @@ is one column in this page.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the <b>PageProperties</b>
 record.</p>
 
-<p><b>PageHeaderElement:</b> A <a href="42322dd8-21a8-4c45-9567-393dfa424736.html">PageHeaderElement</a> record
+<p><b>PageHeaderElement:</b> A <a href="42322dd8-21a8-4c45-9567-393dfa424736.md">PageHeaderElement</a> record
 specifies the header of a page.</p>
 
 <p><b>pageHeader:</b> 0x04 specifies the start token of
@@ -3774,9 +3774,9 @@ record.</p>
 <p><b>ReportItems:</b> A ReportItem record that
 specifies the items in the report.</p>
 
-<p><b>Line: </b>A <a href="d3902de8-408b-496c-b3a5-554bf393a225.html">Line</a> record specifies a <b>Line</b>
+<p><b>Line: </b>A <a href="d3902de8-408b-496c-b3a5-554bf393a225.md">Line</a> record specifies a <b>Line</b>
 report item in the <b>PageHeader</b> record. See the <b>Line</b> example
-(section <a href="e64e09d2-e36e-45ac-90e9-e9b5b406ec65.html">3.1</a>) for
+(section <a href="e64e09d2-e36e-45ac-90e9-e9b5b406ec65.md">3.1</a>) for
 additional details.</p>
 
 <p><b>Measurements:</b> A <b>Measurements</b> record
@@ -3829,7 +3829,7 @@ record in the RPL stream.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the <b>ReportElementEnd</b>
 record.</p>
 
-<p><b>PageFooterElement:</b> A <a href="c6b17d7f-d30f-475d-9839-ff97d9d7d69a.html">PageFooterElement</a> record
+<p><b>PageFooterElement:</b> A <a href="c6b17d7f-d30f-475d-9839-ff97d9d7d69a.md">PageFooterElement</a> record
 specifies the footer of a page.</p>
 
 <p><b>pageFooter:</b> 0x05 specifies the start token of
@@ -4013,7 +4013,7 @@ record in the RPL stream.</p>
 <p><b>delimiter:</b> 0xFF specifies the end of the <b>ReportElementEnd</b>
 record.</p>
 
-<p><b>OffsetsArrayElement:</b> An <a href="c79d94ee-588b-4c7a-b3ba-4dc5dc820ae7.html">OffsetsArrayElement</a> record
+<p><b>OffsetsArrayElement:</b> An <a href="c79d94ee-588b-4c7a-b3ba-4dc5dc820ae7.md">OffsetsArrayElement</a> record
 specifies the <b>offset</b> for each page.</p>
 
 <p><b>offsetsArrayElementStart:</b> 0x12 specifies the

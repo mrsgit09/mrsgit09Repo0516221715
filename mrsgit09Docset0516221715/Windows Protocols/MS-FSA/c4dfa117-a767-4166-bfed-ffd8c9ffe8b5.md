@@ -44,7 +44,7 @@ section <mshelp:link keywords="bf78ff7e-b0a4-4ba9-8825-4af43682eb0d" tabindex="0
 </li></ul><p>Support for this operation is optional. If the object store
 does not implement this functionality or the target media is not a software
 defect-managed media, the operation MUST be failed with
-STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_100"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_100" aria-label="Product behavior note 100">&lt;100&gt;</a></p>
+STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_100"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_100" aria-label="Product behavior note 100">&lt;100&gt;</a></p>
 
 <p>Pseudocode for the operation is as follows:</p>
 

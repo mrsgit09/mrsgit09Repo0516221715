@@ -28,7 +28,7 @@ connection, without sending a request to the server. The server will then
 detect that the TCP connection has been dropped and will clean the state
 associated with this connection.</p>
 
-<p>If the client discovers any network errors, it SHOULD<a id="Appendix_A_Target_29"></a><a href="05c9e5c4-4566-418c-a56e-69fca8d73f4b.html#Appendix_A_29" aria-label="Product behavior note 29">&lt;29&gt;</a> propagate the error to the
+<p>If the client discovers any network errors, it SHOULD<a id="Appendix_A_Target_29"></a><a href="05c9e5c4-4566-418c-a56e-69fca8d73f4b.md#Appendix_A_29" aria-label="Product behavior note 29">&lt;29&gt;</a> propagate the error to the
 higher level application and close the network connection. If time remains for
 the high-level operation the client MAY try reconnecting and retrying the
 failed operation. </p>

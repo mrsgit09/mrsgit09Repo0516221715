@@ -94,7 +94,7 @@ Reporting Services <a href="https://go.microsoft.com/fwlink/?LinkId=152499">[MSD
   </td>
   <td>
   <p>This protocol is used for managing objects and settings
-  on all <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.html#gt_cbdd3a12-e9ec-43e2-ac97-9c47f171f96a">report servers</a>,
+  on all <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.md#gt_cbdd3a12-e9ec-43e2-ac97-9c47f171f96a">report servers</a>,
   starting with Microsoft SQL Server 2008 R2.</p>
   </td>
   <td>

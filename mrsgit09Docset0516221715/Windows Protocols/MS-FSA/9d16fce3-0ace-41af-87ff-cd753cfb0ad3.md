@@ -52,7 +52,7 @@ of entries could be returned, not to exceed <b>OutputBufferSize</b> bytes.</p>
 enumeration if the object store supports it (optional).</p>
 
 </li><li><p><span><span> 
-</span></span><b>FileNamePattern:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_c305d0ab-8b94-461a-bd76-13b40cb8c4d8">Unicode</a> string containing
+</span></span><b>FileNamePattern:</b> A <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_c305d0ab-8b94-461a-bd76-13b40cb8c4d8">Unicode</a> string containing
 the file name pattern to match. The object store MUST treat any asterisk
 (&quot;*&quot;) and question mark (&quot;?&quot;) characters in <b>FileNamePattern</b>
 as wildcards. <b>FileNamePattern</b> could be empty. The object store MUST

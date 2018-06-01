@@ -45,7 +45,7 @@ respectively.</p>
 
 </li></ul><p>Support for this operation is optional. If the object store
 does not implement this functionality, the operation MUST be failed with
-STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_109"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_109" aria-label="Product behavior note 109">&lt;109&gt;</a></p>
+STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_109"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_109" aria-label="Product behavior note 109">&lt;109&gt;</a></p>
 
 <p>Pseudocode for the operation is as follows:</p>
 
@@ -105,7 +105,7 @@ operation MUST be failed with STATUS_EAS_NOT_SUPPORTED.</p>
 </span></span>Phase 2 -- Update the File</p>
 
 </li><li><p><span><span> 
-</span></span>If <b>Open.File.ReparseTag</b> is not empty (indicating that a <a href="682f0f59-385c-4351-b81a-3b234f53db03.html#gt_4fed0b53-5fc8-4818-886f-93d87f3035e1">reparse point</a> is already
+</span></span>If <b>Open.File.ReparseTag</b> is not empty (indicating that a <a href="682f0f59-385c-4351-b81a-3b234f53db03.md#gt_4fed0b53-5fc8-4818-886f-93d87f3035e1">reparse point</a> is already
 assigned):</p>
 
 <ul><li><p><span><span>  </span></span>If <b>Open.File.ReparseTag</b>
@@ -143,7 +143,7 @@ to TRUE.</p>
 
 </li><li><p><span><span> 
 </span></span>Update <b>Open.File.LastChangeTime</b> to the current system
-time.<a id="Appendix_A_Target_110"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_110" aria-label="Product behavior note 110">&lt;110&gt;</a></p>
+time.<a id="Appendix_A_Target_110"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_110" aria-label="Product behavior note 110">&lt;110&gt;</a></p>
 
 </li></ul><p>Upon successful completion of the operation, the object
 store MUST return:</p>

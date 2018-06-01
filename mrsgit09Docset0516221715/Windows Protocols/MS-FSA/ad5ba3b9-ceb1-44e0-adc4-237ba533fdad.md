@@ -49,7 +49,7 @@ section <mshelp:link keywords="bf78ff7e-b0a4-4ba9-8825-4af43682eb0d" tabindex="0
 
 </li></ul><p>Support for this operation is optional. If the object store
 does not implement this functionality, the operation MUST be failed with
-STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_101"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.html#Appendix_A_101" aria-label="Product behavior note 101">&lt;101&gt;</a></p>
+STATUS_INVALID_DEVICE_REQUEST.<a id="Appendix_A_Target_101"></a><a href="4e3695bd-7574-4f24-a223-b4679c065b63.md#Appendix_A_101" aria-label="Product behavior note 101">&lt;101&gt;</a></p>
 
 <p>Pseudocode for the operation is as follows:</p>
 
@@ -174,7 +174,7 @@ to TRUE.</p>
 
 </li><li><p><span><span> 
 </span></span>The object store MUST update the duplicated information as
-specified in section <a href="7e375703-5641-48f3-b844-c2ef1ee70461.html">2.1.4.18</a>
+specified in section <a href="7e375703-5641-48f3-b844-c2ef1ee70461.md">2.1.4.18</a>
 with <b>Link</b> equal to <b>Open.Link</b>.</p>
 
 </li><li><p><span><span> 
@@ -184,7 +184,7 @@ with <b>Link</b> equal to <b>Open.Link</b>.</p>
 <i>FilterMatch</i> = (<b>Open.File.PendingNotifications</b> | <b>Open.Link.PendingNotifications</b>).</p>
 
 </li><li><p><span><span>  </span></span>Send
-directory change notification as specified in section <a href="7f757efa-ba81-4c0e-a4c7-d11d7beed109.html">2.1.4.1</a>, with <b>Volume</b>
+directory change notification as specified in section <a href="7f757efa-ba81-4c0e-a4c7-d11d7beed109.md">2.1.4.1</a>, with <b>Volume</b>
 equal to <b>Open.File.Volume</b>, <b>Action</b> equal to FILE_ACTION_MODIFIED, <b>FilterMatch</b>
 equal to <i>FilterMatch</i>, and <b>FileName</b> equal to <b>Open.FileName</b>.</p>
 
@@ -215,7 +215,7 @@ each <i>ExistingLink</i> in <b>Open.Link.ParentFile.DirectoryList</b>:</p>
 </span></span>If the <b>Oplock</b> member of the <b>DirectoryStream</b> in <b>Open.Link.ParentFile.StreamList</b>
 (hereinafter referred to as <i>ParentOplock</i>) is not empty, the object store
 MUST check for an oplock break on the parent according to the algorithm in
-section <a href="306239fb-cb60-49fe-b293-df4d1a5f757a.html">2.1.4.12</a>, with
+section <a href="306239fb-cb60-49fe-b293-df4d1a5f757a.md">2.1.4.12</a>, with
 input values as follows:</p>
 
 <ul><li><p><span><span>  </span></span><b>Open</b>
@@ -235,7 +235,7 @@ containing a member <b>ControlCode</b> containing
 equal to &quot;PARENT_OBJECT&quot;</p>
 
 </li></ul></li><li><p><span><span> 
-</span></span>The object store MUST post a USN change as specified in section <a href="2c897c5e-b29e-464d-825f-565ff587f7f1.html">2.1.4.11</a> with <b>File</b>
+</span></span>The object store MUST post a USN change as specified in section <a href="2c897c5e-b29e-464d-825f-565ff587f7f1.md">2.1.4.11</a> with <b>File</b>
 equal to <b>File</b>, <b>Reason</b> equal to USN_REASON_ENCRYPTION_CHANGE, and <b>FileName</b>
 equal to <b>Open.Link.Name</b>.</p>
 

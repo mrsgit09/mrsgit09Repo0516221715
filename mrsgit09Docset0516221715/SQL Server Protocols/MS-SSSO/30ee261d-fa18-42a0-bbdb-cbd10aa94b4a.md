@@ -31,7 +31,7 @@ format, as specified in <mshelp:link keywords="53287204-7cd0-4bc9-a5cd-d42a5925d
 </p>
 
 </li><li><p><span>    </span>The authoring
-tool publishes the saved report to a <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.html#gt_cbdd3a12-e9ec-43e2-ac97-9c47f171f96a">report server</a> via methods
+tool publishes the saved report to a <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.md#gt_cbdd3a12-e9ec-43e2-ac97-9c47f171f96a">report server</a> via methods
 of the ReportService2010 API, as specified in <mshelp:link keywords="0c9864cf-afe9-4789-ae9e-a55df1ff9111" tabindex="0">[MS-RSWSRM2010]</mshelp:link>.</p>
 
 </li><li><p><span>    </span>Within the

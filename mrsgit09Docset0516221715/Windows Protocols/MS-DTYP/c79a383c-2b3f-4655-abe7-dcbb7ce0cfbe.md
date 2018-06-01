@@ -25,8 +25,8 @@
 
 <p>The ACCESS_ALLOWED_OBJECT_ACE structure defines an ACE that
 controls allowed access to an object, a property set, or property. The ACE
-contains a set of access rights, a <a href="a66edeb1-52a0-4d64-a93b-2f5c833d7d92.html#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a> that identifies the
-type of object, and a <a href="78eb9013-1c3a-4970-ad1f-2b1dad588a25.html">SID</a>
+contains a set of access rights, a <a href="a66edeb1-52a0-4d64-a93b-2f5c833d7d92.md#gt_f49694cc-c350-462d-ab8e-816f0103c6c1">GUID</a> that identifies the
+type of object, and a <a href="78eb9013-1c3a-4970-ad1f-2b1dad588a25.md">SID</a>
 that identifies the trustee to whom the system will grant access. The ACE also
 contains a GUID and a set of flags that control inheritance of the ACE by child
 objects.</p>
@@ -126,11 +126,11 @@ objects.</p>
  </tr>
 </table>
 
-<p><b>Header (4 bytes): </b>An <a href="628ebb1d-c509-4ea0-a10f-77ef97ca4586.html">ACE_HEADER</a> structure that
+<p><b>Header (4 bytes): </b>An <a href="628ebb1d-c509-4ea0-a10f-77ef97ca4586.md">ACE_HEADER</a> structure that
 specifies the size and type of ACE. It also contains flags that control
 inheritance of the ACE by child objects.</p>
 
-<p><b>Mask (4 bytes): </b>An <a href="7a53f60e-e730-4dfe-bbe9-b21b62eb790b.html">ACCESS_MASK</a> that specifies
+<p><b>Mask (4 bytes): </b>An <a href="7a53f60e-e730-4dfe-bbe9-b21b62eb790b.md">ACCESS_MASK</a> that specifies
 the user rights allowed by this ACE.</p>
 
 <dl>
@@ -273,7 +273,7 @@ sections <mshelp:link keywords="990fb975-ab31-4bc1-8b75-5da132cd4584" tabindex="
 and <mshelp:link keywords="1522b774-6464-41a3-87a5-1e5633c3fbbb" tabindex="0">5.1.3.2.1</mshelp:link>.</p>
 
 <p>ACCESS_MASK bits are not mutually exclusive. Therefore, the <b>ObjectType</b>
-field can be set in an <a href="d06e5a81-176e-46c6-9cf7-9137aad4455e.html">ACE</a>
+field can be set in an <a href="d06e5a81-176e-46c6-9cf7-9137aad4455e.md">ACE</a>
 with any ACCESS_MASK. If the AccessCheck algorithm calls this ACE and does not
 find an appropriate GUID, then that ACE will be ignored. For more information
 on access checks and object access, see [MS-ADTS] section <mshelp:link keywords="3da5080d-de25-4ac8-9f2b-982709253dfb" tabindex="0">5.1.3.3.3</mshelp:link>.</p>

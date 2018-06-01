@@ -24,8 +24,8 @@
                     
 
 <p>The <b>LayoutDirection</b> property specifies the direction
-of the layout of <a href="f8ea94d9-d2b6-4d7f-8dc4-59faa3a98b93.html">Tablix</a>
-columns. If this property is specified, it MUST be part of the <a href="2a40ce87-0857-4776-ac72-ba5668c8340a.html">TablixMeasurements</a> record.
+of the layout of <a href="f8ea94d9-d2b6-4d7f-8dc4-59faa3a98b93.md">Tablix</a>
+columns. If this property is specified, it MUST be part of the <a href="2a40ce87-0857-4776-ac72-ba5668c8340a.md">TablixMeasurements</a> record.
 If this property is not specified, the default value is used.</p>
 
 <dl>
@@ -109,8 +109,8 @@ field MUST be the following value.</p>
 </dd></dl>
 
 <p><b>layoutDirectionValue (1 byte): </b>A byte that
-specifies the layout direction of <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_f9f5d4be-2a9e-4556-90f6-d4ed1678f0b4">tablix</a> columns. The value
-of the <b>layoutDirectionValue</b> field MUST be defined by the <a href="35c3d4dd-dc15-4e61-a4d9-7b45896a7ab6.html">Directions</a> <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_846463b5-421c-4d6b-8d82-79d44db666fa">enumeration</a>. The default
+specifies the layout direction of <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.md#gt_f9f5d4be-2a9e-4556-90f6-d4ed1678f0b4">tablix</a> columns. The value
+of the <b>layoutDirectionValue</b> field MUST be defined by the <a href="35c3d4dd-dc15-4e61-a4d9-7b45896a7ab6.md">Directions</a> <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.md#gt_846463b5-421c-4d6b-8d82-79d44db666fa">enumeration</a>. The default
 value is 0x00.</p>
 
 

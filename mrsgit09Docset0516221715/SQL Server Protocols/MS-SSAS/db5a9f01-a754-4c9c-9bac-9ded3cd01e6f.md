@@ -113,7 +113,7 @@ complex type. </p>
   <td>
   <p>Provides a hint to client applications to suggest the
   position that this attribute might hold among the other elements that share
-  the same display folder (<a href="bc64ec5e-f9c8-4666-9d31-fdb755d87ad2.html">AttributeTranslation</a>).</p>
+  the same display folder (<a href="bc64ec5e-f9c8-4666-9d31-fdb755d87ad2.md">AttributeTranslation</a>).</p>
   </td>
  </tr>
  <tr>
@@ -278,8 +278,8 @@ complex type. </p>
   </td>
   <td>
   <p>Provides the ability to place this attribute in the
-  Default Details collection of the <a href="ed122253-df54-42a8-8905-0faa6e696b8b.html">Dimension</a>. This
-  collection is an ordered set of <a href="2865fe4f-5fbb-4ae6-b0cf-811b32b4a139.html">DimensionAttribute</a>
+  Default Details collection of the <a href="ed122253-df54-42a8-8905-0faa6e696b8b.md">Dimension</a>. This
+  collection is an ordered set of <a href="2865fe4f-5fbb-4ae6-b0cf-811b32b4a139.md">DimensionAttribute</a>
   types, <b>CalculationProperty</b> types, and <b>RelationshipEnd</b> elements.
   A positive value specifies participation in the collection. The collection is
   sorted in ascending order of this element.</p>

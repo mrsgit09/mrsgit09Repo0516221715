@@ -24,7 +24,7 @@
                     
 
 <p>The <b>Columns</b> property specifies the number of columns
-a page contains. If this property is specified, it MUST be part of a <a href="0b56e16b-0d77-4cad-83a4-1ba0c046a35c.html">PageProperties</a> record. If
+a page contains. If this property is specified, it MUST be part of a <a href="0b56e16b-0d77-4cad-83a4-1ba0c046a35c.md">PageProperties</a> record. If
 the <b>Columns</b> property is not specified, the default value is
 used.           </p>
 

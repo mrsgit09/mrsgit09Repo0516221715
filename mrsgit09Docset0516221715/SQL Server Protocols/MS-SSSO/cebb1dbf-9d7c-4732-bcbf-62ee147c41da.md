@@ -36,8 +36,8 @@ SQL Server Management Studio can be used to manage the database objects, and
 SQL Server Profiler can be used for capturing server events.</p>
 
 <p>The Database Engine communicates with its client access
-libraries (such as <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.html#gt_7883fa02-8dc0-4154-894f-fe3a7bff153e">Open
-Database Connectivity (ODBC)</a>, <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.html#gt_333f4fb1-4882-48df-bce6-f9961b408f31">OLE DB</a>, or ADO.NET) via the
+libraries (such as <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.md#gt_7883fa02-8dc0-4154-894f-fe3a7bff153e">Open
+Database Connectivity (ODBC)</a>, <a href="20049766-3c6e-4f20-a20e-64785e88f6f2.md#gt_333f4fb1-4882-48df-bce6-f9961b408f31">OLE DB</a>, or ADO.NET) via the
 Tabular Data Stream (TDS) protocol <mshelp:link keywords="b46a581a-39de-4745-b076-ec4dbb7d13ec" tabindex="0">[MS-TDS]</mshelp:link>,
 which transports binary XML <mshelp:link keywords="11ab6e8d-2472-44d1-a9e6-bddf000e12f6" tabindex="0">[MS-BINXML]</mshelp:link>
 and the system-provided and user-defined SQL Server CLR types, as specified in <mshelp:link keywords="77460aa9-8c2f-4449-a65e-1d649ebd77fa" tabindex="0">[MS-SSCLRT]</mshelp:link>.

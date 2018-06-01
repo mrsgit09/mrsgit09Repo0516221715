@@ -26,7 +26,7 @@
 <p>Two types of data structures are specified in this document:
 data structures that are specified in terms of the wire format and data
 structures that are RPC-marshaled as specified in <mshelp:link keywords="290c38b1-92fe-4229-91e6-4fc376610c15" tabindex="0">[MS-RPCE]</mshelp:link>.
-The latter are specified by using the <a href="a66edeb1-52a0-4d64-a93b-2f5c833d7d92.html#gt_73177eec-4092-420f-92c5-60b2478df824">Interface Definition Language
+The latter are specified by using the <a href="a66edeb1-52a0-4d64-a93b-2f5c833d7d92.md#gt_73177eec-4092-420f-92c5-60b2478df824">Interface Definition Language
 (IDL)</a> that is defined in [MS-RPCE] section <mshelp:link keywords="5e8b6109-5122-450c-8c00-4b98f3cdb435" tabindex="0">2.2.4</mshelp:link>.</p>
 
 <p>For some types of data, both formats are shown. For example,

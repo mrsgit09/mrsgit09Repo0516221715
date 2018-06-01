@@ -23,7 +23,7 @@
                 <div id="sectionSection0" class="section" name="collapseableSection">
                     
 
-<p>The <b>Action</b> record specifies the properties of an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.html#gt_b178b6c0-7df9-4107-95ca-12c7f0b9900b">action</a>.           </p>
+<p>The <b>Action</b> record specifies the properties of an <a href="75ae48f7-746b-4b41-919c-6699fa28b3ef.md#gt_b178b6c0-7df9-4107-95ca-12c7f0b9900b">action</a>.           </p>
 
 <dl>
 <dd>
@@ -110,27 +110,27 @@ collection MUST be one of the following:</p>
  </thead>
  <tr>
   <td>
-  <p><a href="07e6d2f5-45d1-415f-b4d0-ed2de8bd7801.html">Label</a></p>
+  <p><a href="07e6d2f5-45d1-415f-b4d0-ed2de8bd7801.md">Label</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="1514971f-28f3-48f8-988d-944eb12799b1.html">HyperLink</a></p>
+  <p><a href="1514971f-28f3-48f8-988d-944eb12799b1.md">HyperLink</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="b7ec7c0d-784a-4a59-bc88-7df07f172b49.html">BookmarkLink</a></p>
+  <p><a href="b7ec7c0d-784a-4a59-bc88-7df07f172b49.md">BookmarkLink</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="b0715db2-0dab-436c-9e30-196ca4e0ccd2.html">DrillthroughId</a></p>
+  <p><a href="b0715db2-0dab-436c-9e30-196ca4e0ccd2.md">DrillthroughId</a></p>
   </td>
  </tr>
  <tr>
   <td>
-  <p><a href="b1e1d7c4-3704-4c13-ab66-a781fb598961.html">DrillthroughUrl</a></p>
+  <p><a href="b1e1d7c4-3704-4c13-ab66-a781fb598961.md">DrillthroughUrl</a></p>
   </td>
  </tr>
 </table>
