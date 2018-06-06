@@ -9,6 +9,9 @@ Developers who are working with and implementing Microsoft Open Specifications c
 For more information about support options, email the [Interop Documentation Support Team]("mailto:dochelp@microsoft.com"). To see the latest interoperability news posts, visit the [News]("https://msdn.microsoft.com/openspecifications/dn889925") page.
 
 ## Ask a Question in the Forums
+
+---
+
 |||
 |---|---|
 |[Office XML, ODF, and Binary File Formats]("http://social.msdn.microsoft.com/forums/en-us/home?forum=os_binaryfile")|Discuss the technical content and implementation of the Office binary file formats (.doc, .xls, .ppt, .pst, etc.), the Open XML file formats (ISO/IEC 29500) (.docx, .xlsx, .pptx, etc.), the ODF 1.1 standard, and the Open Packaging Conventions APIs (ISO/IEC 29500-2). For questions about the Open XML format itself, visit the forums on OpenXMLDeveloper.org.|
@@ -22,12 +25,15 @@ For more information about support options, email the [Interop Documentation Sup
 
 ## Search the Microsoft Knowledge Base
 
-Enter your error code or search term in the box below to search for Knowledge Base articles only
+---
 
-SEARCH BOX HERE
+>Enter your error code or search term in the box below to search for Knowledge Base articles only
+> 
+> SEARCH BOX HERE
 
 ## Additional Support Options
 
+---
 * [Microsoft Support]("http://support.microsoft.com/")
 * [Ask the community]("http://answers.microsoft.com/en-us/?auth=1")
 * [Chat or call]("http://support.microsoft.com/contactus/?ws=support&SegNo=2&wa=wsignin1.0")
