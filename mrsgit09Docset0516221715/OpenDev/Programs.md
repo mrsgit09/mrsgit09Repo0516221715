@@ -14,4 +14,4 @@ In addition, Microsoft makes available a warranty on certain technical specifica
 
 |||||
 |---|---|---|---|
-|[![Microsoft Interoperability Program (MIP)](./images/MIP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646762")|[![Workgroup Server Protocol Program (WSPP)](./images/WSPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646763")|[![Interoperability Principles Program](./images/IntPrinc.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646764")|[![MCPP Pattent Program](./images/MCPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn865017")|
+|[![Microsoft Interoperability Program (MIP)](./images/MIP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646762")|[![Workgroup Server Protocol Program (WSPP)](./images/WSPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646763")|[![Interoperability Principles Program](./images/interopprinciples.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646764")|[![MCPP Pattent Program](./images/MCPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn865017")|
