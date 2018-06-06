@@ -35,4 +35,6 @@ Follow these instructions for using the Patent Map:
 
 Note To print the list of selected items in the Patent Map, click Print below the Map, and to clear the list of selected items that appear below the Patent Map, click Reset.
 
+> [!IMPORTANT]
+> **TO BE DONE**
 > Interactive Patent Map Control

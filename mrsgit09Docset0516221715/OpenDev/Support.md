@@ -27,8 +27,10 @@ For more information about support options, email the [Interop Documentation Sup
 
 ---
 
->Enter your error code or search term in the box below to search for Knowledge Base articles only
-> 
+Enter your error code or search term in the box below to search for Knowledge Base articles only
+
+> [!IMPORTANT]
+> **TO BE DONE**
 > SEARCH BOX HERE
 
 ## Additional Support Options
