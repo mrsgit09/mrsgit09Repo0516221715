@@ -12,6 +12,6 @@ In addition, Microsoft makes available a warranty on certain technical specifica
 
 **NOTE:** The **Microsoft Communications Protocol Program (MCPP)** has been superseded by other programs and is no longer available. But the Microsoft patent pledges for implementation of the MCPP technical specifications remain.
 
-||||
+|||||
 |---|---|---|---|
-|[![MIP]("images/MIP.png")]("https://msdn.microsoft.com/en-us/openspecifications/dn646762")|[![WSPP]("images/WSPP.png")]("https://msdn.microsoft.com/en-us/openspecifications/dn646763")|[![Interoperability Principles]("images/IntPrinc.png")]("https://msdn.microsoft.com/en-us/openspecifications/dn646764")|[![MCPP]("images/MCPP.png")]("https://msdn.microsoft.com/en-us/openspecifications/dn865017")|
+|[![Microsoft Interoperability Program (MIP)](./images/MIP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646762")|[![Workgroup Server Protocol Program (WSPP)](./images/WSPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646763")|[![Interoperability Principles Program](./images/IntPrinc.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn646764")|[![MCPP Pattent Program](./images/MCPP.png)]("https://msdn.microsoft.com/en-us/openspecifications/dn865017")|
