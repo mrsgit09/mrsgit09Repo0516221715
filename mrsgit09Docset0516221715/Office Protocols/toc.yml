@@ -1,2 +1,10 @@
-- name: "[MS-PST]: Outlook Personal Folders (.pst) File Format"
+- name: "MS-PST/toc.yml"
   href: MS-PST/toc.yml
+- name: "MS-PST/toc.yml maintaincontext=true"
+  href: MS-PST/toc.yml
+  maintainContext: true
+- name: "MS-PST/"
+  href: MS-PST/
+- name: "MS-PST/ maintaincontext=true"
+  href: MS-PST/
+  maintainContext: true
