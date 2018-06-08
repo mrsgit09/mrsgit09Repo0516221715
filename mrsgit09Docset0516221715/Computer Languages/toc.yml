@@ -1,7 +1,4 @@
-﻿- name: "Computer Languages"
-  homepage: "MS-COMPLANLP/74862872-4b7f-4506-a04d-85dd84e10c97.md"
-  items:
-    - name: "Microsoft General Purpose Programming Languages"
-      homepage: "MS-PROGLANGLP/a0fa63f3-19ba-4525-a22f-f0ab65dc015d.md"
-    - name: "Microsoft Domain-Specific Languages"
+﻿- name: "Microsoft General Purpose Programming Languages"
+  homepage: "MS-PROGLANGLP/a0fa63f3-19ba-4525-a22f-f0ab65dc015d.md"
+- name: "Microsoft Domain-Specific Languages"
 #      homepage: 

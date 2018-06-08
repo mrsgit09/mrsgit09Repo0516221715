@@ -1,9 +1,8 @@
 - name: "Open Specifications"
-  href: "Open Specs/MS-OPENSPECLP/toc.yml"
   homepage: "Open Specs/MS-OPENSPECLP/02eda353-b4a6-4df9-bae8-024732808901.md"
   items:
     - name: "Forums and Blogs"
-      href: "Open Specs/MS-OPENSPECLP/c177b5de-ab4d-4d0f-8ee7-1528e5e83243.md"
+      homepage: "Open Specs/MS-OPENSPECLP/c177b5de-ab4d-4d0f-8ee7-1528e5e83243.md"
     - name: "Document Programs"
       href: "Doc Programs/MS-DOCPROGLP/toc.yml"
       homepage: "Doc Programs/MS-DOCPROGLP/dbcaeeb5-86dd-454b-a7a9-285e01fa3572.md"
