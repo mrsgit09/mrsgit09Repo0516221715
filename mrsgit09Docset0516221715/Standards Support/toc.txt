@@ -1,0 +1,45 @@
+- name: "Technical Documents"
+  href: "MS-OFFSTANDLP/d5784a8b-7070-466b-befa-b7bf3724c6f0.md"
+  items:
+     - name:  "[MS-CUSTOMUI]: Custom UI XML Markup Specification"
+       href: MS-CUSTOMUI/toc.yml
+       homepage: MS-CUSTOMUI/31f152d6-2a5d-4b50-a867-9dbc6d01aa43.md"
+     - name:  "[MS-ODRAWXML]: Office Drawing Extensions to Office Open XML Structure"
+       href: MS-ODRAWXML/toc.yml
+       homepage: MS-ODRAWXML/06cff208-c6e1-4db7-bb68-665135e5f0de.md"
+     - name:  "[MS-OWEXML]: Office Web Extensibility Extensions to Office Open XML Structure Specification"
+       href: MS-OWEXML/toc.yml
+       homepage: MS-OWEXML/a2cd741a-4cca-4b1a-ade4-b2c443972afa.md"
+- name: "Internet Explorer Standards Support Documentation Overview"
+  href: "MS-IESTANDLP/8aea05e3-8c1e-4a9a-9614-31f71e679458.md"
+  items:
+  - name: "Internet Explorer Standards Support Documentation"
+    href: "MS-IESTANDLP/8aea05e3-8c1e-4a9a-9614-31f71e679457.md"
+    items:
+       - name:  "[MS-IEDOCO]: Internet Explorer Standards Support Documentation Overview"
+         href: MS-IEDOCO/toc.yml
+         homepage: MS-IEDOCO/1c56f14c-603d-4028-8031-6a6f2600e800.md"
+  - name: "Internet Explorer Standards Support Documents"
+    href: "MS-IESTANDLP/8aea05e3-8c1e-4a9a-9614-31f71e679459.md"
+    items:
+       - name:  "[MS-ARIA]: Internet Explorer Accessible Rich Internet Applications (WAI-ARIA) 1.0 Standards Support Document"
+         href: MS-ARIA/toc.yml
+         homepage: MS-ARIA/67bd02b3-3cda-4648-9d19-03cddb7162d5.md"
+       - name:  "[MS-CSS21]: Internet Explorer Cascading Stylesheets (CSS) 2.1 Standards Support Document"
+         href: MS-CSS21/toc.yml
+         homepage: MS-CSS21/dbb3fd1b-4d0c-4899-9e87-587d4f232a9e.md"
+       - name:  "[MS-CSS21E]: Internet Explorer Extensions to Cascading Style Sheets (CSS) 2.1 and DOM Level 2 Style Specifications"
+         href: MS-CSS21E/toc.yml
+         homepage: MS-CSS21E/410044a1-86ab-4fad-ad89-f8a72e646ad9.md"
+       - name:  "[MS-CSS3NS]: Internet Explorer CSS3 Namespaces Module Standards Support"
+         href: MS-CSS3NS/toc.yml
+         homepage: MS-CSS3NS/8aea05e3-8c1e-4a9a-9614-31f71e679464.md"
+       - name:  "[MS-ES3]: Microsoft JScript ECMA-262-1999 ECMAScript Language Specification Standards Support Document"
+         href: MS-ES3/toc.yml
+         homepage: MS-ES3/8aea05e3-8c1e-4a9a-9614-31f71e679462.md"
+       - name:  "[MS-HTML401E]: Internet Explorer Extensions to HTML 4.01 and DOM Level 2 HTML Specifications"
+         href: MS-HTML401E/toc.yml
+         homepage: MS-HTML401E/6e91051f-1350-4dac-8429-fd5ef3e9193c.md"
+       - name:  "[MS-ISO8859]: Microsoft 8-bit Single-byte Coded Graphic Character Sets Standards Support Document"
+         href: MS-ISO8859/toc.yml
+         homepage: MS-ISO8859/4f36eca4-7ff5-4771-8dfd-e4014f974348.md"

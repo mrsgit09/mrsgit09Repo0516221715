@@ -5,23 +5,12 @@
     - name: "Forums and Blogs"
       href: "Open Specifications/MS-OPENSPECLP/c177b5de-ab4d-4d0f-8ee7-1528e5e83243.md"
     - name: "Document Programs"
+      href: "Doc Programs/MS-DOCPROGLP/toc.yml"
+      homepage: "Doc Programs/MS-DOCPROGLP/dbcaeeb5-86dd-454b-a7a9-285e01fa3572.md"
     - name: Archive
       href: Archive/MS-ARCHIVELP/toc.yml
       homepage: "Archive/MS-ARCHIVELP/2fe94c9b-0a0f-49cf-aa30-1d80c2aef590.md"
-# LOOKS LIKE OFFICE, EXCHANGE AND SHAREPOINT ARE IN ARCHIVELP AND THE SUBDOCS BELOW HAVE NEVER BEEN USED
       items:
-#        - name: Exchange Server Archive # 
-#         # href: "Archive/MS-OXARCHLP/toc.yml"
-#         # homepage: "Archive/MS-OXARCHLP/f56b904d-9048-455d-bcc9-279a9df64f60.md"
-#        - name: Office Archive # 
-#         # href: "Archive/MS-OFFARCHLP/toc.yml"
-#         # homepage: "Archive/MS-OFFARCHLP/f73663f4-4781-42d2-86d4-08981db30975.md"
-#        - name: SharePoint Products and Technologies Archive # 
-#         # href: "Archive/MS-SPARCHLP/toc.yml"
-#         # homepage: "Archive/MS-SPARCHLP/2f5a8f3f-376f-4d45-b9fd-865825dbaa2e.md"
-#          items:
-#            - name: SharePoint Products and Technologies Archive # MS-SPARCHLP
-#            - name: SharePoint Back-End Technical Specifications # MS-SPARCHLP
         - name: "SQL Server Archive" # NEW
          # href: "Archive/MS-SQLARCHLP/toc.yml"
          # homepage: "Archive/MS-SQLARCHLP/fbae8353-4aa9-44f5-acda-a7d5e3d1f37e.md"
@@ -32,27 +21,29 @@
          # href: "Archive/MS-WINSTECHLP/toc.yml"
          # homepage: "Archive/MS-WINSTECHLP/97610dd3-7a5b-4ebf-aede-2e1768c64cbe.md"
     - name: Protocols # NEW
-      href: protocolslp.md # REPLACE
-    #  href: "Protocols/toc.yml"
-    #  homepage: "Protocols/MS-PROTOCOLSLP/37d6d6fd-6f20-450f-bdb9-d7c1812a2021.md"
+      homepage: "Protocols/MS-PROTOCOLSLP/37d6d6fd-6f20-450f-bdb9-d7c1812a2021.md"
       items:
         - name: "Windows Protocols"
           href: "Windows Protocols/toc.yml"
           homepage: "Windows Protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845.md"
         - name: "Office Protocols"
           href: "Office Protocols/toc.yml"
-          homepage: "Office Protocols/officeindex.md"
+          homepage: "Office Protocols/5859f0f1-a929-475b-9b23-554994675456.md"
+        - name: "SharePoint Products and Technologies Protocols Overview"
+          href: "SharePoint Protocols/toc.yml"
+          homepage: "SharePoint Protocols/8a50af28-2b50-43d8-9c5a-3e520255ef7e.md"
+        - name: "Exchange Server Protocol Documents"
+#          href: "Exchange Protocols/toc.yml"
+#          homepage: "Exchange/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.md"
         - name: "SQL Server Protocols"
           href: "SQL Server Protocols/toc.yml"
           homepage: "SQL Server Protocols/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md"
     - name: "Computer Languages" # NEW
-    #  href: "Computer Languages/toc.yml"
-    #  homepage: "Computer Languages/MS-COMPLANLP/74862872-4b7f-4506-a04d-85dd84e10c97.md"
+      href: "Computer Languages/toc.yml"
+      homepage: "Computer Languages/MS-COMPLANLP/74862872-4b7f-4506-a04d-85dd84e10c97.md"
     - name: "Standards Support" # NEW
 #      href: "Standards Support/toc.yml"
       homepage: "Standards Support/MS-STDSUPLP/73f435dc-1369-4bc4-b56f-23642b24ac58.md"
     - name: "Data Portability" # NEW
     #  href: "Data Portability/toc.yml"
-    #  homepage: "Data Portability/MS-DATAPORTLP/1de30cc1-10af-4b98-820d-414400400c6d.md"
-
-
+      homepage: "Data Portability/MS-DATAPORTLP/1de30cc1-10af-4b98-820d-414400400c6d.md"

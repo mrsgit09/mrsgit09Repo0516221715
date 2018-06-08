@@ -7,9 +7,27 @@
 - name: "Technical Documents"
   href: "MS-WINPROTLP/e36c976a-6263-42a8-b119-7a3cc41ddd2a.md"
   items:
-    - name: "[MS-FSA]: File System Algorithms"
-      href: "MS-FSA/toc.yml"
-      homepage: "MS-FSA/860b1516-c452-47b4-bdbc-625d344e2041.md"
+   - name:  "[MS-ADTS]: Active Directory Technical Specification"
+     href: MS-ADTS/toc.yml
+     homepage: MS-ADTS/d2435927-0999-4c62-8c6d-13ba31a52e1a.md"
+   - name:  "[MS-CFB]: Compound File Binary File Format"
+     href: MS-CFB/toc.yml
+     homepage: MS-CFB/53989ce4-7b05-4f8d-829b-d08d6148375b.md"
+   - name:  "[MS-CPSP]: Connection Point Services: Phonebook Data Structure"
+     href: MS-CPSP/toc.yml
+     homepage: MS-CPSP/c1d5ce53-4b37-48d2-a13b-2713503384d7.md"
+   - name:  "[MS-FSA]: File System Algorithms"
+     href: MS-FSA/toc.yml
+     homepage: MS-FSA/860b1516-c452-47b4-bdbc-625d344e2041.md"
+   - name:  "[MS-HVRS]: Hyper-V Remote Storage Profile"
+     href: MS-HVRS/toc.yml
+     homepage: MS-HVRS/71761708-a421-4e32-8e0d-97e6539dc9eb.md"
+   - name:  "[MS-IPAMM2]: IP Address Management (IPAM) Management Protocol Version 2"
+     href: MS-IPAMM2/toc.yml
+     homepage: MS-IPAMM2/bd22c2c7-3080-470c-a409-7bcc4768ff6f.md"
+   - name:  "[MS-RDPEGFX]: Remote Desktop Protocol: Graphics Pipeline Extension"
+     href: MS-RDPEGFX/toc.yml
+     homepage: MS-RDPEGFX/da5c75f9-cd99-450c-98c4-014a496942b0.md"
 - name: "References"
   href: "MS-WINPROTLP/1593dc07-6116-4e9e-8aeb-85c7438fab0a.md"
   items:
