@@ -1,10 +1,3 @@
-- name: "MS-PST/toc.yml"
+- name: "[MS-PST]: Outlook Personal Folders (.pst) File Format"
   href: MS-PST/toc.yml
-- name: "MS-PST/toc.yml maintaincontext=true"
-  href: MS-PST/toc.yml
-  maintainContext: true
-- name: "MS-PST/"
-  href: MS-PST/
-- name: "MS-PST/ maintaincontext=true"
-  href: MS-PST/
-  maintainContext: true
+  homepage: MS-PST/141923d5-15ab-4ef1-a524-6dce75aae546.md

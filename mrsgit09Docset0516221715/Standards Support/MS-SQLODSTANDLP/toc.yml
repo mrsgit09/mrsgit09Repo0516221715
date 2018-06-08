@@ -1,0 +1,9 @@
+- name: "OData Standards Support Errata"
+  href: MS-ODATAERRATA/toc.yml
+  homepage: MS-ODATAERRATA/d4cf0692-0b61-4ac1-b3e7-d534f6c21672.md"
+- name: "OData Standards Support"
+  href: MS-SQLODSTANDLP/89584d21-315b-4ae7-8a4d-cf1e8dc6e8de.md
+  items:
+   - name:  [MS-ODATAJSON]: OData Protocol JSON Format Standards Support Document"
+     href: MS-ODATAJSON/toc.yml
+     homepage: MS-ODATAJSON/9c557a4a-f945-4d34-acb2-d07d2842f20a.md"

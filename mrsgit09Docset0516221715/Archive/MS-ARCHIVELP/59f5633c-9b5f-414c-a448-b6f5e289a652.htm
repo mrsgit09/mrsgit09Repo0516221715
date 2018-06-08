@@ -1,0 +1,1854 @@
+<html dir="LTR" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+        <meta name="save" content="history"></meta>
+        <title>SharePoint Back-End Technical Specifications</title>
+        <xml>
+            <mshelp:toctitle title="SharePoint Back-End Technical Specifications"></mshelp:toctitle>
+            <mshelp:rltitle title="SharePoint Back-End Technical Specifications"></mshelp:rltitle>
+            <mshelp:keyword index="A" term="59f5633c-9b5f-414c-a448-b6f5e289a652"></mshelp:keyword>
+            <mshelp:attr name="DCSext.ContentType" value="open specification"></mshelp:attr>
+            <mshelp:attr name="AssetID" value="59f5633c-9b5f-414c-a448-b6f5e289a652"></mshelp:attr>
+            <mshelp:attr name="TopicType" value="kbRef"></mshelp:attr>
+            <mshelp:attr name="DCSext.Title" value="SharePoint Back-End Technical Specifications" />
+        </xml>
+    </head>
+    <body>
+        <div id="header">
+            <h1 class="heading">SharePoint Back-End Technical Specifications</h1>
+        </div>
+        <div id="mainSection">
+            <div id="mainBody">
+                <div id="allHistory" class="saveHistory"></div>
+                <div id="sectionSection0" class="section" name="collapseableSection">
+                    
+
+<p>The following table describes and provides links to archived
+copies of documents that were previously published under the <a href="'https:/msdn.microsoft.com/en-us/library/cc339475.aspx">Protocol —
+SharePoint Products and Technologies</a> section of the Open Specifications
+Library. These documents are here for your convenience only. It is recommended
+that you not rely on these documents. To the extent that you incur additional
+development obligations or any other costs as a result of relying on these
+archived documents, you do so at your own risk.</p>
+
+<p><b>Overviews</b></p>
+
+<p> </p>
+
+<table>
+ <thead>
+  <tr>
+   <th>
+   <p>Specification</p>
+   </th>
+   <th>
+   <p>Description</p>
+   </th>
+  </tr>
+ </thead>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSO%5d.pdf"><span>[MS-FSO]: FAST Search System
+  Overview</span></a></p>
+  </td>
+  <td>
+  <p>Describes the
+  Microsoft FAST Search Server system, which is designed to crawl, process, and
+  index content, and to provide search results for that content in response to
+  requests from protocol clients. The system consists of a collection of
+  search-related components, services, protocols, structures, and supporting
+  protocol servers. This overview describes the intended functionality of the
+  FAST Search system and how components within this system interact. It also
+  provides examples of some common user scenarios.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPBEPO%5d.pdf"><span>[MS-SPBEPO]: SharePoint
+  Back-End Protocols Overview</span></a></p>
+  </td>
+  <td>
+  <p>Describes the
+  SharePoint Back-End Protocols, which are the protocols implemented by
+  SharePoint Products and Technologies for internal communication. Where
+  appropriate, this overview describes the relationships between protocols and
+  provides example scenarios to show how they are used.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPBEPO2%5d.pdf"><span>[MS-SPBEPO2]: SharePoint
+  Back-End Protocols Overview Version 2</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SharePoint Back-End Protocols Overview Version 2 Protocol, which provides
+  information about the intended functionality of the SharePoint Back-End
+  Protocols System and how the protocols in this system interact.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPFEPO%5d.pdf"><span>[MS-SPFEPO]: SharePoint
+  Front-End Protocols Overview</span></a></p>
+  </td>
+  <td>
+  <p>Describes the
+  SharePoint Front-End Protocols, which are the protocols implemented by
+  Microsoft SharePoint Products and Technologies to communicate with client and
+  server applications. Where appropriate, this overview describes the
+  relationships between protocols and provides example scenarios to show how
+  they are used.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPFEPO2%5d.pdf"><span>[MS-SPFEPO2]: SharePoint
+  Front-End Protocols Overview Version 2</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SharePoint Front-End Protocols Overview Version 2 Protocol, which provides
+  information about the intended functionality of the SharePoint Front-End
+  Protocols System and how the protocols in this system interact.</p>
+  </td>
+ </tr>
+</table>
+
+<p> </p>
+
+<p><b>Technical Specifications</b></p>
+
+<p> </p>
+
+<table>
+ <thead>
+  <tr>
+   <th>
+   <p>Specification</p>
+   </th>
+   <th>
+   <p>Description</p>
+   </th>
+  </tr>
+ </thead>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-APPMDP%5d.pdf"><span>[MS-APPMDP]: SharePoint App
+  Management Database Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  stored procedures to perform runtime operations to manage SharePoint Apps.
+  The protocol includes information to interact with application permissions
+  and application licenses databases.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-ASDSP%5d.pdf"><span>[MS-ASDSP]: Access Services
+  Database Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Access Services Database Stored Procedures Protocol. This protocol allows
+  clients to read and write information about the service and applications in
+  the service.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-BDCDPS%5d.pdf"><span>[MS-BDCDPS]: Business Data
+  Connectivity Database Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Business Data Connectivity Database Protocol, which enables protocol clients
+  to store and retrieve information about interfaces of line-of-business (LOB)
+  systems and annotations of these interfaces.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-BDCDPS2%5d.pdf"><span>[MS-BDCDPS2]: Business Data
+  Connectivity Database Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies Business Data Connectivity Database Protocol. This protocol enables
+  protocol clients to store and retrieve information about interfaces of
+  line-of-business systems (LOB) systems) and annotations of these interfaces.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-BDCSP%5d.pdf"><span>[MS-BDCSP]: Business Data
+  Catalog Database Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Business Data Catalog Database Protocol, which allows a metadata client to
+  create, read, update, and delete metadata objects in a metadata store. For
+  write operations, the protocol server will provide validation and diagnostic
+  errors such that protocol clients can maintain the set of stored metadata
+  objects in a state that satisfies certain semantic constraints for models.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-CIPROP%5d.pdf"><span>[MS-CIPROP]: Index
+  Propagation Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Index Propagation Protocol, which is used to replicate search index data
+  across multiple servers and to maintain consistency among those servers in
+  the event of changes to that data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-CIPROP2%5d.pdf"><span>[MS-CIPROP2]: Index
+  Propagation Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Index Propagation Version 2 Protocol, which is used to replicate search index
+  data across multiple servers and to maintain consistency among those servers
+  in the event of changes to that data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-EMMSTORE%5d.pdf"><span>[MS-EMMSTORE]: Enterprise
+  Metadata Service Database Schema</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Enterprise Metadata Service Database Schema, which enables protocol clients
+  to perform operations against a store containing metadata. Typical operations
+  include creating, deleting, merging, reusing, deprecating, describing, and
+  translating metadata items.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSADS%5d.pdf"><span>[MS-FSADS]: Administration
+  Database Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Administration Database Structure, used for persisting the information
+  associated with operations in the Administration Services Protocol.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSAS%5d.pdf"><span>[MS-FSAS]: Administration
+  Services Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Administration Services Protocol, which enables protocol clients to manage a
+  search system.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSBEPS%5d.pdf"><span>[MS-FSBEPS]: Browser Engine
+  Processing and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Browser Engine and Status Protocol, which specifies the communication between
+  a protocol client and a protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCADM%5d.pdf"><span>[MS-FSCADM]: Crawler
+  Administration and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Crawler Administration and Status Protocol, which operates between a protocol
+  client and a Web crawler server or server farm. This protocol enables the protocol
+  client to make requests of the Web crawler, and query it for status
+  information.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCCFG%5d.pdf"><span>[MS-FSCCFG]: Crawler Configuration
+  File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Crawler Configuration File Format, which is an XML-based configuration format
+  for a Web crawler process. This file format specifies configuration
+  parameters that control the gathering, processing, and storage of information
+  automatically retrieved by the Web crawler process from Web sites, and then
+  transmits it to a search engine index.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCDBS%5d.pdf"><span>[MS-FSCDBS]: Connector
+  Database Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Connector Database Structure, which is the database schema for applicable
+  indexing content connectors.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCDCFG%5d.pdf"><span>[MS-FSCDCFG]: Component
+  Distribution Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Component Distribution Configuration File Format, which specifies how a
+  search service application is distributed over multiple extended search
+  service application nodes.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCDFT%5d.pdf"><span>[MS-FSCDFT]: Content
+  Distributor Fault Tolerance Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  protocol that multiple content distributors use to determine which one is the
+  master content distributor, and which ones are backup content distributors.
+  The use of multiple content distributors increases performance and
+  robustness; if the master content distributor becomes unavailable, one of the
+  backup content distributors becomes the new master content distributor.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCF%5d.pdf"><span>[MS-FSCF]: Content Feeding
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Content Feeding Protocol (FSCF), which enables a protocol client to submit a
+  document to a protocol server for processing and indexing. This protocol also
+  enables a protocol client to remove a content collection from an index.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCHT%5d.pdf"><span>[MS-FSCHT]: Cheetah Data
+  Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Cheetah Data Format Protocol, which enables the serialization and
+  deserialization of data structures. This protocol specifies only the
+  serialization and deserialization of data structures; network transport
+  mechanisms and storage protocols are specified in other specifications.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCMT%5d.pdf"><span>[MS-FSCMT]: Crawler Multinode
+  Transport Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Crawler Multinode Transport Protocol, which defines the messages exchanged in
+  a multinode Web crawler environment.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCMW%5d.pdf"><span>[MS-FSCMW]: Configuration
+  Middleware Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Configuration Middleware Protocol, which enables a protocol client to obtain
+  configuration information.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSCX%5d.pdf"><span>[MS-FSCX]: Configuration
+  XML-RPC Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Configuration XML-RPC Protocol between a protocol server, which is the
+  Configuration Component, and protocol clients. A Configuration Component
+  stores configuration and system information, regularly contacts components in
+  the system to assure their availability, and allows protocol clients to
+  update or query this information. Protocol clients can register alerts and be
+  notified about relevant changes.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSDP%5d.pdf"><span>[MS-FSDP]: Document
+  Processing Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Document Processing Protocol, which enables certain components in a search
+  service application to submit searchable items to another component for
+  indexing.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSDPD%5d.pdf"><span>[MS-FSDPD]: Document
+  Processing Distribution Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Document Processing Distribution Protocol, which is used between components
+  in a search service application. This protocol enables one component to
+  dispatch searchable items to another component for the item processing that
+  occurs before item indexing.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSDQE%5d.pdf"><span>[MS-FSDQE]: Distributed Query
+  Execution Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Distributed Query Execution Protocol. This protocol enables a protocol client
+  to perform search queries against a protocol server that manages a search
+  engine in a distributed environment.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSFDMW%5d.pdf"><span>[MS-FSFDMW]: FAST Distributed
+  Make Worker Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  FAST Distributed Make Worker Protocol (FDMW), which provides for parallel distributed
+  computing, enabling participating computers to exchange data and control. The
+  participants using this protocol form a cluster, one as the master with a set
+  of workers. This protocol is not a traditional client/server protocol as all
+  participants play the role of clients and servers in different contexts.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSFIXML%5d.pdf"><span>[MS-FSFIXML]: FIXML Data
+  Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  FAST Index Markup Language (FIXML) data object format. This format is used
+  when an item is submitted for indexing after item processing. The data object
+  represents one item to be submitted for indexing.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSFQL%5d.pdf"><span>[MS-FSFQL]: Fast Query
+  Language Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  structure of the FAST Query Language (FQL), which the Query and Result
+  Protocol uses. FQL is a language for expressing search criteria.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIADM%5d.pdf"><span>[MS-FSIADM]: Indexer
+  Administration and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Indexer Administration and Status Protocol, which is used for administering
+  and retrieving information from an indexer for search terms.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSICFG%5d.pdf"><span>[MS-FSICFG]: Indexer
+  Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Indexer Configuration File Format, an XML-based configuration format for
+  configuring the indexing nodes in an enterprise search service. This format
+  describes configuration parameters both for changing general behavior and
+  timing intervals, as well as parameters for performance tuning.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSID%5d.pdf"><span>[MS-FSID]: Indexing
+  Distribution Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Indexing Distribution Protocol, which is used between two components in the
+  indexing service, the indexing dispatcher node, and the indexer node. This
+  protocol enables a session-based connection as part of an extended item
+  feeding chain, with asynchronous callback messages reporting status back to
+  the feeding client.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIDFT%5d.pdf"><span>[MS-FSIDFT]: Indexing
+  Dispatcher Fault Tolerance Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Indexing Dispatcher Fault Tolerance Protocol, which is used between multiple
+  indexing dispatchers to determine which one becomes the master indexing
+  dispatcher, and which ones become backup indexing dispatchers.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIFT%5d.pdf"><span>[MS-FSIFT]: Indexer Fault
+  Tolerance Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Indexer Fault Tolerance Protocol used for distributing and synchronizing data
+  structures between indexing nodes, through which functionality the index
+  column achieves fault-tolerant behavior.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIN%5d.pdf"><span>[MS-FSIN]: Input
+  Normalization Data Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Input Normalization Data Structure, corresponding equivalent characters for
+  characters used within a search application as well as the stemming form to
+  be added depending on the language of the item.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIPA%5d.pdf"><span>[MS-FSIPA]: Index Publication
+  and Activation Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Index Publication and Activation Protocol, which prepares and activates a new
+  index for search applications.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSIXDS%5d.pdf"><span>[MS-FSIXDS]: Index Data
+  Structures</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Index Data Structures as well as file format and hierarchy of the files that
+  represent the search index in an enterprise search service.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSL%5d.pdf"><span>[MS-FSL]: Logging Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Logging Protocol, which enables a protocol client to send log messages to a
+  protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSLRDS%5d.pdf"><span>[MS-FSLRDS]: Linguistic
+  Resource Data Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Linguistic Resource Data Structures, which are file formats used to represent
+  linguistic dictionaries as XML files.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSMW%5d.pdf"><span>[MS-FSMW]: Middleware
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Middleware Protocol Specification, which provides a mechanism that allows an
+  implementation to calls methods that are in a different network address
+  space.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSNC%5d.pdf"><span>[MS-FSNC]: Node Controller
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Node Controller Protocol that manages communication between a protocol client
+  and a node controller on a protocol server. A node controller monitors and
+  controls a system consisting of a set of processes and files on the same
+  computer as the protocol server. A protocol client is typically part of an
+  application that needs to contact the protocol server to request information
+  about the system or requests modifications to the system.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSPSCFG%5d.pdf"><span>[MS-FSPSCFG]: Processor
+  Server Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Processor Server Configuration File Format Specification, which discusses
+  file formats that are used to configure the behavior of the Document
+  Processing Service.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSQR%5d.pdf"><span>[MS-FSQR]: Query and Result
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Query and Result Protocol. A protocol client uses this protocol to submit
+  search queries to a protocol server for indexed content and to receive search
+  results from that protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSQRC%5d.pdf"><span>[MS-FSQRC]: Query and Result
+  Configuration Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Query and Result Configuration Protocol, which loads updated configuration
+  information for subsystems of a query processing component.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSQRCFG%5d.pdf"><span>[MS-FSQRCFG]: Query and
+  Result Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Query and Result Configuration File Format. This file format specifies file
+  names and formats for the configuration files that are used by a particular
+  implementation of the Query and Result Protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSRFC%5d.pdf"><span>[MS-FSRFC]: Remote File Copy
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Remote File Copy Protocol used to copy index related files from a file
+  sender, the protocol client, to a file receiver, the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSRFCO%5d.pdf"><span>[MS-FSRFCO]: Remote File Copy
+  Orchestration Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Remote File Copy Orchestration Protocol used to orchestrate copying of index
+  related directories and files from a file sender, the protocol client, to a
+  file receiver, the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSRS%5d.pdf"><span>[MS-FSRS]: Resource Store
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Resource Storage Protocol, which enables a protocol client to store
+  resources, typically files, on a protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSAC%5d.pdf"><span>[MS-FSSAC]: Search
+  Authorization Connector Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Authorization Connector Protocol used between a protocol client and
+  the protocol server, which is the FSA Manager Service. This protocol enables
+  a protocol client to make changes to the users, groups, and user-to-user
+  mappings stored on the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSACFG%5d.pdf"><span>[MS-FSSACFG]: Search
+  Authorization Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies two
+  file formats used by the search authorization manager service and the search
+  authorization worker component of the query processing service described in
+  [MS-FSO]. The file formats are used to provide secure search capability to
+  ensure that end entities view only the search results for which they are
+  authorized. The User Store Configuration File Format is used to configure the
+  search authorization worker component for each source of user objects and
+  group objects. The Principal Aliaser Configuration File Format is used to
+  configure the search authorization worker component for mapping user and
+  group objects to other user and group objects.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSADFF%5d.pdf"><span>[MS-FSSADFF]: Search
+  Authorization Data File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Authorization Data File Format, which consists of three file formats
+  used by the search authorization Manager and Worker Services. The Local Cache
+  Upload User File Format is used to upload changes for a local cache user
+  store to the search authorization Manager Service. The Local Cache User Store
+  File Format is used by the search authorization Worker Service to find user
+  objects and group objects for a local cache user store. The XML Aliaser
+  Mapping File Format is used both to upload changes for an XML principal
+  aliaser to the search authorization Manager Service and by the search
+  authorization Worker Service for mapping between user IDs of different user
+  stores.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSADM%5d.pdf"><span>[MS-FSSADM]: Search
+  Administration and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Administration and Status Protocol used by a protocol client to
+  retrieve information from the query matching component of a search service
+  application.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSAS%5d.pdf"><span>[MS-FSSAS]: Search
+  Authorization Synchronization Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Authorization Synchronization Protocol, which enables a client to
+  synchronize updated configuration information for multiple servers and to
+  request information from servers for troubleshooting.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSCFG%5d.pdf"><span>[MS-FSSCFG]: Search
+  Configuration File Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Configuration File Format, including file naming conventions and file
+  formats for the configuration files derived from the index schema for an
+  enterprise search service.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSPRADM%5d.pdf"><span>[MS-FSSPRADM]: SPRel
+  Administration and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SPRel Administration and Status Protocol for transmitting status and
+  configuration options between a protocol client and a protocol server. It
+  enables the protocol client to both control the protocol server, and query it
+  for status information.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSSPRDF%5d.pdf"><span>[MS-FSSPRDF]: SPRel Data File
+  Formats</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  file names and file formats that are used for client-click input analysis.
+  This type of analysis uses client feedback to improve search relevancy.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSST%5d.pdf"><span>[MS-FSST]: Spelltuning File
+  Format</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Spelltuning File Format that the item processing service uses to check the
+  spelling of text for an item.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWAADM%5d.pdf"><span>[MS-FSWAADM]: WebAnalyzer
+  Administration and Status Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  WebAnalyzer Administration and Status Protocol, which transmits status and
+  configuration options between a protocol client and a protocol server. This
+  protocol enables the protocol client to query the protocol server for status
+  information.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWADF%5d.pdf"><span>[MS-FSWADF]: WebAnalyzer Data
+  File Formats</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the WebAnalyzer Data File Formats, which is used to store data in
+  files during anchor analysis.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWASDR%5d.pdf"><span>[MS-FSWASDR]:
+  WebAnalyzer/SPRel Data Receiving Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  WebAnalyzer/SPRel Data Receiving Protocol, which is used for sending data
+  from a client to a server and for the server&amp;apos;s response to the
+  client.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWASDS%5d.pdf"><span>[MS-FSWASDS]:
+  WebAnalyzer/SPRel Data Serving Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  WebAnalyzer/SPRel Data Serving Protocol (WASDS), which is used to improve
+  search relevance by retrieving metadata about search items before they are
+  indexed. This protocol is used by protocol clients to retrieve information
+  from a remote protocol server where the meta information is associated with a
+  unique key.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWASMT%5d.pdf"><span>[MS-FSWASMT]: WebAnalyzer and
+  SPRel Multinode Transport Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  WebAnalyzer and SPRel Multinode Transport Protocol, which manages the
+  messages exchanged between hosts in a distributed system when a central
+  component communicates with other components.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSWCU%5d.pdf"><span>[MS-FSWCU]: WebAnalyzer/Crawler
+  Utility Data Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  WebAnalyzer/Crawler Utility File Format, which serializes and de-serializes
+  data types, such as numerical values, text, and arrays, to an octet stream.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-FSXTAPI%5d.pdf"><span>[MS-FSXTAPI]: XML-RPC
+  Translatable API Structure</span></a></p>
+  </td>
+  <td>
+  <p>Specifies an
+  application program interface (API) that represents remote method calls, as
+  described in [XML-RPC]. It specifies how this API translates to an XML body
+  structure for those method calls.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-MAVA%5d.pdf"><span>[MS-MAVA]: Microsoft Office SharePoint
+  Server (MOSS) Analytics View Access Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  MOSS Analytics View Access Protocol. This protocol enables a protocol client
+  to retrieve analytical data about web-traffic, searches and inventory of
+  various entities in the farm from a store on the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-MOSSUAN%5d.pdf"><span>[MS-MOSSUAN]: SQL Usage
+  Analytics Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Usage Analytics Protocol, which is used to collect, access, and analyze
+  data for usage analysis reports about a Web site. This protocol is not an
+  extension to an existing protocol.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-PPSSPROC%5d.pdf"><span>[MS-PPSSPROC]:
+  PerformancePoint Services Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  PerformancePoint Services Stored Procedures Protocol, which defines
+  communication requests for scorecard annotations administration, user
+  selected filters for user administration, and temporary state data structures
+  for first class object administration tasks between the front-end Web server
+  and the database server. This server-to-server protocol uses the
+  PerformancePoint Services Application Server Protocol.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSCLSP%5d.pdf"><span>[MS-SPSCLSP]: SPSCrawl Stored
+  Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SPSCrawl Stored Procedures Protocol, which allows clients to read values of
+  user profile properties for user profiles within the context of a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSCLSP2%5d.pdf"><span>[MS-SPSCLSP2]: SPSCrawl
+  Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SPSCrawl Stored Procedures Protocol, which allows clients to read values of
+  user profile properties for user profiles within the context of a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSCLSP3%5d.pdf"><span>[MS-SPSCLSP3]: SPSCrawl
+  Stored Procedures Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the SPSCrawl Stored Procedures Protocol. This protocol is used to
+  read values of user profile properties for user profiles within the context
+  of a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSETSP%5d.pdf"><span>[MS-SPSETSP]: SharePoint
+  Subscription Settings Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SharePoint Subscription Settings Stored Procedures Protocol, which allows for
+  a set of configuration data to be shared among a set of site collections.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSETSP2%5d.pdf"><span>[MS-SPSETSP2]: SharePoint
+  Subscription Settings Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the SharePoint Subscription Settings Stored Procedures Protocol.
+  This protocol allows for a set of configuration data to be shared among a set
+  of site collections. This protocol is typically needed for hosting scenarios.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSSDBSOGP%5d.pdf"><span>[MS-SPSSDBSOGP]: SharePoint
+  Shared Service Database Scale Out Generic Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  generic stored procedures to scale out databases (split and move data) for
+  some SharePoint Shared Services.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SPSTATE%5d.pdf"><span>[MS-SPSTATE]: Temporary State
+  Service Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Temporary State Service protocol, which enables a protocol client to store
+  and retrieve binary data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPADM%5d.pdf"><span>[MS-SQLPADM]: SQL
+  Administration Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Administration Protocol, which are the communication sequences that are
+  used by the protocol client (Web and application servers) to perform data
+  query and update commands on the protocol server in relation to search
+  administration functions.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPADM2%5d.pdf"><span>[MS-SQLPADM2]: SQL
+  Administration Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Administration Protocol, which are the communication sequences that are
+  used by the protocol client (Web and application servers) to perform data
+  query and update commands on the protocol server in relation to search
+  administration functions.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPGAT%5d.pdf"><span>[MS-SQLPGAT]: SQL Gatherer
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Gatherer Protocol, which is the communication between the index server
+  and back-end database server that is used to satisfy requests for search
+  crawl tasks.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPGAT2%5d.pdf"><span>[MS-SQLPGAT2]: SQL Gatherer
+  Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Gatherer Protocol, which allows for communication between the protocol
+  client (Web and application servers) and protocol server (database server) to
+  perform data query and update commands on the protocol server in relation to
+  search crawl (content indexing) functions.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPQ%5d.pdf"><span>[MS-SQLPQ]: Search Service
+  Database Query Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Service Database Query Protocol, which is the communication sequences
+  used by the protocol client (Web server and application server) to perform
+  data query and update operations on the protocol server (database server) in
+  relation to search query execution.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SQLPQ2%5d.pdf"><span>[MS-SQLPQ2]: Search Service
+  Database Query Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Service Database Query Protocol, which is the communication sequences
+  used by the protocol client (Web server and application server) to perform
+  query and logging commands on the protocol server (database server) in
+  relation to search query operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SRCHTP%5d.pdf"><span>[MS-SRCHTP]: Search Topology
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Search Topology Protocol, which enables the application server and back-end
+  database server to create and configure the components of a search service
+  application.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SSDPS%5d.pdf"><span>[MS-SSDPS]: Secure Store
+  Database Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Secure Store Database Protocol, which is an interface for protocol clients to
+  store and retrieve credential and related information typically used to
+  authenticate to line-of-business systems.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SSDPS2%5d.pdf"><span>[MS-SSDPS2]: Secure Store
+  Database Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the Secure Store Database Protocol Specification. This protocol
+  specifies an interface for protocol clients to store and retrieve credential
+  and related information typically used to authenticate to line-of-business
+  (LOB) systems.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SSOSP%5d.pdf"><span>[MS-SSOSP]: Single Sign-On
+  Database Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Single Sign-On Database Protocol, which enables a user to securely create,
+  read, update, and delete authentication credentials for line-of-business
+  systems.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SSPSJ%5d.pdf"><span>[MS-SSPSJ]: SSP Scheduled
+  Jobs Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SSP Scheduled Jobs Stored Procedures Protocol, which is a protocol that
+  allows clients to add, modify, refresh, and delete scheduled jobs from a
+  store on the protocol server, as well as retrieve those scheduled jobs by
+  using predefined criteria such as a unique identifier or jobs scheduled to be
+  run within a specified interval. This protocol also specifies the actions
+  that the client takes when a particular scheduled job is retrieved and is to
+  be executed in the next specified interval.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-SSPSOS%5d.pdf"><span>[MS-SSPSOS]: SQL
+  Configuration Object Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SQL Configuration Object Stored Procedures Protocol, which is a client-server
+  protocol for storing and retrieving configuration settings on a protocol
+  server and maintaining a cache of the configuration settings on protocol
+  clients.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-TSSPROC%5d.pdf"><span>[MS-TSSPROC]: Translation
+  Services Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Translation Services Stored Procedures Protocol. This protocol allows
+  protocol clients to store and retrieve information about machine-translating
+  documents from one language to another.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPASP%5d.pdf"><span>[MS-UPASP]: User Profile
+  Admin Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Admin Stored Procedures Protocol, which enables the protocol
+  client to interact with partitions in the user profile store.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPASP2%5d.pdf"><span>[MS-UPASP2]: User Profile
+  Admin Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies User Profile Admin Stored Procedure Protocol Specification (UPASP).
+  This protocol provides a way for the protocol client to interact with
+  dedicated tenant-specific areas, called partitions, within a database that
+  resides on the protocol server and contains properties that pertain to
+  specific persons or entities.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPIESP%5d.pdf"><span>[MS-UPIESP]: User Profile
+  Import and Export Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Import and Export Stored Procedures Protocol, which is used to
+  import and export user profile and member group data to and from the user
+  profile store.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPIESP2%5d.pdf"><span>[MS-UPIESP2]: User Profile
+  Import and Export Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Import and Export Stored Procedures Protocol, which is used to
+  import and export information about users and member groups.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSAUD%5d.pdf"><span>[MS-UPSAUD]: User Profile
+  Service Audiences Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Service Audiences Protocol. This protocol provides information
+  about the management of sets of users, or audiences, that allow protocol
+  clients to target content to users based upon selected criteria about the
+  users.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSAUD2%5d.pdf"><span>[MS-UPSAUD2]: User Profile
+  Service Audiences Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Service Audiences Protocol, which enables protocol clients to
+  manage sets of users (audiences) from a store on the protocol server.
+  Audiences allow protocol clients to target content to users based on selected
+  criteria about the users.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSAUD3%5d.pdf"><span>[MS-UPSAUD3]: User Profile
+  Service Audiences Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the User Profile Service Audiences protocol. This protocol covers
+  management of sets of users (audiences) stored in the protocol server store.
+  Audiences allow protocol clients to target content to users based upon
+  selected criteria about the users. For example, an audience could include
+  users who are members of a specific server group, users who are in a specific
+  organizational reporting structure, or users whose public properties have
+  certain values.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSCHNG%5d.pdf"><span>[MS-UPSCHNG]: User Profile
+  Change Log Stored Procedure Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Change Log Stored Procedure Protocol, which allows clients to
+  add, or delete user profile change entries from a log on the protocol server,
+  as well as retrieve these entries by using pre-defined criteria such as
+  change entries which have happened after a specified time or have happened to
+  a specified user.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSCHNG2%5d.pdf"><span>[MS-UPSCHNG2]: User Profile
+  Change Log Stored Procedure Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Change Log Stored Procedure Protocol. This protocol allows
+  clients to add or delete user profile change events from a log on the
+  protocol server and to retrieve those user profile change events using
+  pre-defined criteria such as events that have happened after a specified time
+  or with a specific user.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSCHNG3%5d.pdf"><span>[MS-UPSCHNG3]: User Profile
+  Change Log Stored Procedure Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  provides specific details of the User Profile Change Log Stored Procedure
+  protocol. This protocol allows multiple ways for the protocol client to
+  interact with the user profile change events on the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSCSP%5d.pdf"><span>[MS-UPSCSP]: User Profile
+  Service Application Caching Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Service Application Caching Stored Procedures Protocol to
+  retrieve the user information stored in a user profile store on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSCSP2%5d.pdf"><span>[MS-UPSCSP2]: User Profile
+  Service Application Caching Stored Procedures Version 2 Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the User Profile Service Application Caching Stored Procedures
+  Protocol. This protocol enables a protocol client to retrieve the user
+  information stored in a user profile store on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSGRAD%5d.pdf"><span>[MS-UPSGRAD]: User Profile
+  Service Push Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Service Push Protocol, which allows one user profile service to
+  push updates to another user profile service.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSIMP%5d.pdf"><span>[MS-UPSIMP]: User Profile
+  Import Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Import Protocol, which enables the protocol client to import
+  user profiles, member groups, and memberships from directory services into
+  the protocol server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSPROF%5d.pdf"><span>[MS-UPSPROF]: User Profile
+  Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Stored Procedures Protocol, which allows clients to perform
+  create, read, update, and delete operations on user information stored in the
+  user profile store.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSPROF2%5d.pdf"><span>[MS-UPSPROF2]: User Profile
+  Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Service Stored Procedure protocol. This protocol allows clients
+  to perform create, read, update and delete operations on user information
+  stored in a user profile store on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSPROF3%5d.pdf"><span>[MS-UPSPROF3]: User Profile
+  Stored Procedures Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  provides specific details of the User Profile Stored Procedures protocol.
+  This protocol allows clients to perform create, read, update and delete
+  operations on user information stored in a user profile store on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSRCHSP%5d.pdf"><span>[MS-UPSRCHSP]: User Profile
+  Search Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Search Stored Procedure protocol. This protocol enables a
+  protocol client to search for different types of profiles (including user,
+  organization, member group, and audience) based on search terms.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSRCHSP2%5d.pdf"><span>[MS-UPSRCHSP2]: User Profile
+  Search Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the User Profile Search Stored Procedures protocol. This protocol
+  enables a protocol client to search for different types of profiles (such as
+  user profiles) based on search terms. A typical scenario for using this
+  protocol is to search for one or more profiles to grant access to associated
+  objects in the system.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSSDSP%5d.pdf"><span>[MS-UPSSDSP]: User Profile
+  Social Data Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Social Data Stored Procedure protocol, to allow create, read,
+  update and delete operations on social metadata stored in a social data store
+  on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSSDSP2%5d.pdf"><span>[MS-UPSSDSP2]: User Profile
+  Social Data Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Social Data Stored Procedure Protocol. This protocol allows
+  clients to perform create, read, update, and delete operations on social
+  metadata stored in a social data store on a site.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSSYNC%5d.pdf"><span>[MS-UPSSYNC]: User Profile
+  Synchronization Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Synchronization Stored Procedures Protocol, which is the
+  communication between a protocol client and the user profile store (protocol
+  server) for the purpose of synchronizing data between security principals and
+  user profiles.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSSYNC2%5d.pdf"><span>[MS-UPSSYNC2]: User Profile Synchronization
+  Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  User Profile Stored Procedures Version 2 protocol, which provides
+  bi-directional synchronization for distributing and centralizing data across
+  multiple Web sites during deployment.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UPSSYNC3%5d.pdf"><span>[MS-UPSSYNC3]: User Profile
+  Synchronization Stored Procedures Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the User Profile Synchronization Stored Procedures, a protocol for
+  bi-directional synchronization to: Distribute centralized data about people
+  such that it is available at each Web site. Acquire distributed data about
+  what content people own across multiple Web sites and centralize it.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UTSP%5d.pdf"><span>[MS-UTSP]: SharePoint Usage
+  Tracking Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  SharePoint Usage Tracking Stored Procedures Protocol, which supports the
+  collection and storage of usage and diagnostic data. This protocol can be
+  used for reporting and analyzing the collected data, and can also be extended
+  to store additional types of data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-UTSP2%5d.pdf"><span>[MS-UTSP2]: SharePoint Usage
+  Tracking Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the SharePoint Usage Tracking Stored Procedures Protocol, which
+  supports the collection, storage, and reporting of usage and diagnostic data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WORDSSP%5d.pdf"><span>[MS-WORDSSP]: Word Automation
+  Services Stored Procedures Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Word Automation Services Stored Procedures Protocol, which allows clients to
+  store information on the server about converting documents from one file
+  format to another.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WORDSSP2%5d.pdf"><span>[MS-WORDSSP2]: Word
+  Automation Services Stored Procedures Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the Word Services Stored Procedures Protocol. This protocol allows
+  clients to store on the server information about converting documents from
+  one file format to another.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCADM%5d.pdf"><span>[MS-WSSCADM]: Windows
+  SharePoint Services Content Database Administrative Communications Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services Content Database Administrative Communications
+  Protocol. This protocol specifies the communication sequences used by
+  front-end Web servers and application servers to perform administrative
+  operations on a back-end database server related to content databases. This
+  protocol also specifies Recycle Bin, quota, database integrity and
+  maintenance, and auditing operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCADM2%5d.pdf"><span>[MS-WSSCADM2]: Windows
+  SharePoint Services Content Database Administrative Communications Version 2
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services Content Database Administrative Communications
+  Protocol. This protocol specifies the communication sequences used by
+  front-end Web servers and application servers to perform administrative
+  operations on a back-end database server related to content databases. This
+  protocol also specifies Recycle Bin, quota, database integrity and
+  maintenance, and auditing operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCADM3%5d.pdf"><span>[MS-WSSCADM3]: Windows
+  SharePoint Services Content Database Administrative Communications Version 3
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>The Windows
+  SharePoint Services Content Database Administrative Communications protocol
+  specifies the communication sequences used by front-end Web servers and
+  application servers to perform administrative operations on a back-end
+  database server related to content databases. This includes quota, recycle
+  bin, security, database integrity and maintenance, auditing and query
+  operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCCSP%5d.pdf"><span>[MS-WSSCCSP]: Windows
+  SharePoint Services: Content Database Core List Schema and Site Provisioning
+  Communications Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Core List Schema and Site
+  Provisioning Communications Protocol, which is the communication between the
+  front-end Web server and the back-end database server used to satisfy requests
+  involving list schema management and site provisioning within Windows
+  SharePoint Services. This client-to-server protocol uses the Tabular Data
+  Stream protocol as its transport between the front-end Web server, acting as
+  a client, and the back-end database server, acting as a server.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCCSP2%5d.pdf"><span>[MS-WSSCCSP2]: Windows
+  SharePoint Services: Content Database Core List Schema and Site Provisioning
+  Communications Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Core List Schema and Site
+  Provisioning Communications Version 2 Protocol, which allows Web and
+  application servers to perform data query and update commands on database
+  servers.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCCSP3%5d.pdf"><span>[MS-WSSCCSP3]: Windows
+  SharePoint Services: Content Database Core List Schema and Site Provisioning
+  Communications Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Core List Schema and Site
+  Provisioning Communications Protocol that allows web and application servers
+  to perform data query and update commands on database servers.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCFGD%5d.pdf"><span>[MS-WSSCFGD]: Windows
+  SharePoint Services: Configuration Database Communications Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Configuration Database Communications Protocol,
+  which is the communications between a computer or set of computers running
+  one or more services and a back-end database server in which the
+  configuration data for the services are stored. The clients of this protocol
+  are computers running services. The protocol server is a device holding the
+  configuration data in the configuration database.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCFGD2%5d.pdf"><span>[MS-WSSCFGD2]: Windows
+  SharePoint Services: Configuration Database Communications Version 2 Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Configuration Database Communications Protocol.
+  This protocol specifies the communications that are used by one or more
+  protocol clients to share configuration settings.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSCFGD3%5d.pdf"><span>[MS-WSSCFGD3]: Windows
+  SharePoint Services Configuration Database Communications Version 3 Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Configuration Database Communications Protocol
+  that provides the communications needed for one or more clients to share
+  configuration settings by storing those settings in a central location.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDLIM%5d.pdf"><span>[MS-WSSDLIM]: Windows
+  SharePoint Services: Content Database Document and List Item Management
+  Communications Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Document and List Item
+  Management Communications Protocol, which is the communication sequences used
+  by front-end Web servers and application servers to perform data query and
+  update commands on back-end database servers as part of theme, change log,
+  list, document, and list item operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDLIM2%5d.pdf"><span>[MS-WSSDLIM2]: Windows
+  SharePoint Services: Content Database Document and List Item Management
+  Communications Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Document and List Item
+  Management Communications Version 2 Protocol that describes the communication
+  sequences used by the front-end Web server and application servers to perform
+  data query and update commands on back-end database servers as part of
+  document and list item management operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDLIM3%5d.pdf"><span>[MS-WSSDLIM3]: Windows
+  SharePoint Services: Content Database Document and List Item Management
+  Communications Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Document and
+  List Item Management Communications Version 3 Protocol, which specifies the
+  communication sequences used by the front-end Web server and application
+  servers to perform data query and update commands on back-end database
+  servers as part of document and list item management operations</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDM%5d.pdf"><span>[MS-WSSDM]: Windows
+  SharePoint Services: Content Database Data Migration Communications Protocol
+  Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Data Migration Communications
+  Protocol, which is the communication sequences used by front-end Web servers
+  and back-end database servers to perform data migration operations.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDM2%5d.pdf"><span>[MS-WSSDM2]: Windows
+  SharePoint Services: Content Database Data Migration Communications Version 2
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Data Migration Communications
+  protocol APIs used by a front-end Web server to retrieve objects and their
+  meta information from the back-end database servers to do data migration. It
+  also provides helper APIs to be used in conjunction with other protocols to
+  import data objects into back-end database servers.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSDM3%5d.pdf"><span>[MS-WSSDM3]: Windows
+  SharePoint Services: Content Database Data Migration Communications Version 3
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>The Windows®
+  SharePoint® Services: Content Database Data Migration Communications protocol
+  specifies the APIs used by a front-end Web server to retrieve objects and
+  their meta information from the back-end database servers to do data
+  migration. It also provides helper APIs to be used in conjunction with other
+  protocols to import data objects into back-end database servers.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSEUX%5d.pdf"><span>[MS-WSSEUX]: Windows
+  SharePoint Services: Content Database End-User Experience Communications
+  Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database End-User Experience
+  Communications Protocol, which is the front-end Web server to back-end
+  database server communication protocol used for managing alerts, e-mail
+  enabled lists, the HTML transform service, document copying, meeting
+  workspaces, site navigation structure, the SharePoint tree view, and Web
+  discussions.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSEUX2%5d.pdf"><span>[MS-WSSEUX2]: Windows
+  SharePoint Services: Content Database End-User Experience Communications
+  Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database End-User Experience
+  Communications Version 2 Protocol. This protocol specifies communications
+  between servers that support various end-user experiences such as online
+  discussions, meeting arrangements, Web site navigation, and alerts about
+  changed data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSEUX3%5d.pdf"><span>[MS-WSSEUX3]: Windows
+  SharePoint Services: Content Database End-User Experience Communications
+  Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>This document
+  specifies the Windows SharePoint Services: Content Database End-User
+  Experience Communications Version 2 Protocol. This protocol specifies
+  communications between servers that support various end-user experiences,
+  such as online discussions, meeting arrangements, Web-site navigation, and
+  alerts about changed data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSPROG%5d.pdf"><span>[MS-WSSPROG]: Windows
+  SharePoint Services: Content Database Communications Programmability
+  Extensions</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Communications Programmability
+  Extensions, which is the communication sequences used by a protocol client to
+  perform data query and update operations on a protocol server in relation to
+  Web Part, event receiver, workflow, and work item data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSPROG2%5d.pdf"><span>[MS-WSSPROG2]: Windows
+  SharePoint Services: Content Database Programmability Extensions
+  Communications Version 2 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Programmability Extensions
+  Communications Protocol, which is the communication sequences used by a
+  protocol client to perform data query and update operations on a protocol
+  server in relation to Web Part, event receiver, workflow, and work item data.</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><a href="https://download.microsoft.com/download/5/0/1/501ED102-E53F-4CE0-AA6B-B0F93629DDC6/SharePoint/%5bMS-WSSPROG3%5d.pdf"><span>[MS-WSSPROG3]: Windows
+  SharePoint Services Content Database Programmability Extensions
+  Communications Version 3 Protocol Specification</span></a></p>
+  </td>
+  <td>
+  <p>Specifies the
+  Windows SharePoint Services: Content Database Programmability Extensions
+  Communications Protocol. This protocol specifies the communication sequences
+  used by a protocol client to perform data query and update operations on a
+  protocol server in relation to Web Part, event receiver, workflow, and work
+  item data.</p>
+  </td>
+ </tr>
+</table>
+
+<p> </p>
+
+<p><a id="EndOfDocument_ST"></a><code> </code></p>
+
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

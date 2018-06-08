@@ -1,0 +1,91 @@
+- name: "What's New and Changed"
+  href: MS-SQLPORTLP/62997c70-b816-4f30-82f5-333503fe52e2.md
+- name: "Preview Documents"
+  href: MS-SQLPORTLP/2cd2bf77-7b11-418a-800a-b16f67f128ba.md
+- name: "SQL Server Data Portability Technical Documents"
+  href: MS-SQLPORTLP/01e865dd-5054-4d83-a87a-91afd67d59a5.md
+  items:
+   - name:  "[MS-DPAD]: Alert Definition Data Portability Overview"
+     href: MS-DPAD/toc.yml
+     homepage: MS-DPAD/2fd6c5be-f0bc-46b9-bbfc-98d7e63fe427.md"
+   - name:  "[MS-DPBACPAC]: Data-Tier Application Schema and Data Data Portability Overview"
+     href: MS-DPBACPAC/toc.yml
+     homepage: MS-DPBACPAC/7301163d-9a21-4988-91b8-ab4c343e0726.md"
+   - name:  "[MS-DPBCP]: Bulk Copy Utility Data Portability Overview"
+     href: MS-DPBCP/toc.yml
+     homepage: MS-DPBCP/e4d1f544-a8da-4621-88f0-15c7a5cd9590.md"
+   - name:  "[MS-DPDACPAC]: Data-Tier Application Data Portability Overview"
+     href: MS-DPDACPAC/toc.yml
+     homepage: MS-DPDACPAC/2490dbe5-6197-493e-ac67-7a46521d2ea5.md"
+   - name:  "[MS-DPDQS]: Data Quality Services Data Portability Overview"
+     href: MS-DPDQS/toc.yml
+     homepage: MS-DPDQS/e004939a-7710-44a9-8451-12dc157025e3.md"
+   - name:  "[MS-DPEDM]: Entity Data Model Data Portability Overview"
+     href: MS-DPEDM/toc.yml
+     homepage: MS-DPEDM/46b287b4-e3e7-49d5-a301-f6a378115a32.md"
+   - name:  "[MS-DPEDMX]: Entity Data Model for Data Services Packaging Format Data Portability Overview"
+     href: MS-DPEDMX/toc.yml
+     homepage: MS-DPEDMX/9f4e1b59-8dca-405e-b734-27d4e183410f.md"
+   - name:  "[MS-DPIS]: Integration Services Data Portability Overview"
+     href: MS-DPIS/toc.yml
+     homepage: MS-DPIS/aceea3fd-1107-4c8a-8ed1-5b68a22ef6e8.md"
+   - name:  "[MS-DPMDS]: Master Data Services Data Portability Overview"
+     href: MS-DPMDS/toc.yml
+     homepage: MS-DPMDS/bb4aa34a-b8dd-4810-aeea-b44017270ea7.md"
+   - name:  "[MS-DPPDW]: Parallel Data Warehouse Data Portability Overview"
+     href: MS-DPPDW/toc.yml
+     homepage: MS-DPPDW/da7daec3-f547-4e54-a6a7-a1312228b8cb.md"
+   - name:  "[MS-DPRDL]: Report Definition Language Data Portability Overview"
+     href: MS-DPRDL/toc.yml
+     homepage: MS-DPRDL/f6d2f8c0-97d3-4fdd-91d5-20caa829b413.md"
+   - name:  "[MS-DPREP]: Replication Data Portability Overview"
+     href: MS-DPREP/toc.yml
+     homepage: MS-DPREP/46b38d32-e933-4821-8a9d-8f093fedec8f.md"
+   - name:  "[MS-DPSMDL]: Semantic Model Definition Language Data Portability Overview"
+     href: MS-DPSMDL/toc.yml
+     homepage: MS-DPSMDL/b75927e8-1edb-4470-ae85-783f7bdf9920.md"
+   - name:  "[MS-DPSSAS]: SQL Server Analysis Services Data Portability Overview"
+     href: MS-DPSSAS/toc.yml
+     homepage: MS-DPSSAS/d3671d14-b30f-4224-86e4-87aa3088d362.md"
+- name: "SQL Server File Formats Technical Documents"
+  href: MS-SQLPORTLP/b1c8ac25-96ca-4efb-972e-d5d105db8755.md
+  items:
+   - name:  "[MS-BCP]: Bulk Copy Format"
+     href: MS-BCP/toc.yml
+     homepage: MS-BCP/54965c4d-34c7-400d-b970-1007984315a5.md"
+   - name:  "[MS-CONNMGR]: Integration Services Connection Manager File Format"
+     href: MS-CONNMGR/toc.yml
+     homepage: MS-CONNMGR/6dc22fcc-5104-4ec0-b427-a1f6f8c6aca2.md"
+   - name:  "[MS-CSDLBI]: Conceptual Schema Definition File Format with Business Intelligence Annotations"
+     href: MS-CSDLBI/toc.yml
+     homepage: MS-CSDLBI/336647b0-95bf-4375-962d-4024c4554faa.md"
+   - name:  "[MS-DACPAC]: Data-Tier Application Schema File Format"
+     href: MS-DACPAC/toc.yml
+     homepage: MS-DACPAC/e539cf5f-67bb-4756-a11f-0b7704791bbd.md"
+   - name:  "[MS-DTS]: Data Transformation Services Package File Format"
+     href: MS-DTS/toc.yml
+     homepage: MS-DTS/67546106-e1bf-498c-a174-51bf07465801.md"
+   - name:  "[MS-DTSX]: Data Transformation Services Package XML File Format"
+     href: MS-DTSX/toc.yml
+     homepage: MS-DTSX/235600e9-0c13-4b5b-a388-aa3c65aec1dd.md"
+   - name:  "[MS-DTSX2]: Data Transformation Services Package XMLVersion 2 File Format"
+     href: MS-DTSX2/toc.yml
+     homepage: MS-DTSX2/fb216aa4-62ab-41c8-a6d5-5b1002739d21.md"
+   - name:  "[MS-ISPAC]: Integration Services Project Deployment File Format"
+     href: MS-ISPAC/toc.yml
+     homepage: MS-ISPAC/1e2e0b43-67cc-46ca-b5b0-8f17980c3549.md"
+   - name:  "[MS-MSL]: Mapping Specification Language File Format"
+     href: MS-MSL/toc.yml
+     homepage: MS-MSL/e4c18589-e0e3-4134-b91c-304a6e9ca693.md"
+   - name:  "[MS-RDLRS]: Report Definition Language Report State File Format"
+     href: MS-RDLRS/toc.yml
+     homepage: MS-RDLRS/763e4a6a-2d4a-4eab-982c-2e01c448d50f.md"
+   - name:  "[MS-SMDL]: Semantic Model Definition Language File Format"
+     href: MS-SMDL/toc.yml
+     homepage: MS-SMDL/11bb5b26-8aa6-4f04-84b2-5b6e3a189ed0.md"
+   - name:  "[MS-SSDL]: Store Schema Definition Language File Format"
+     href: MS-SSDL/toc.yml
+     homepage: MS-SSDL/1a2ae1f0-b4d0-46fa-a220-25f7dbc3814b.md"
+   - name:  "[MS-SSISPARAMS]: Integration Services Project Parameter File Format"
+     href: MS-SSISPARAMS/toc.yml
+     homepage: MS-SSISPARAMS/4b3d8323-20db-41ab-9a05-86048183150c.md"

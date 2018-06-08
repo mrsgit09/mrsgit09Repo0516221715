@@ -1,0 +1,18 @@
+﻿- name: "SQL Server Standards Support"
+  href: MS-SQLSTANDLP/89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2.md
+  items:
+   - name:  "[MS-SQLXQUERY]: SQL XQuery Standards Support Document"
+     href: MS-SQLXQUERY/toc.yml
+     homepage: MS-SQLXQUERY/def1cf40-6a45-44d8-a3b2-8a60e8733d3d.md"
+   - name:  "[MS-TSQLISO02]: SQL Server Transact-SQL ISO/IEC 9075-2 Standards Support Document"
+     href: MS-TSQLISO02/toc.yml
+     homepage: MS-TSQLISO02/b909df7f-14fb-499e-83a8-0f42f94b2160.md"
+   - name:  "[MS-TSQLISO03]: SQL Server Transact-SQL ISO/IEC 9075-3 Standards Support Document"
+     href: MS-TSQLISO03/toc.yml
+     homepage: MS-TSQLISO03/7a8e7cfe-d2dc-46d3-a9ae-0fee066e9915.md"
+   - name:  "[MS-TSQLISO11]: SQL Server Transact-SQL ISO/IEC 9075-11 Standards Support Document"
+     href: MS-TSQLISO11/toc.yml
+     homepage: MS-TSQLISO11/60cb661b-8fad-4d05-831f-1d5bc60bc1a2.md"
+   - name:  "[MS-TSQLISO14]: SQL Server Transact-SQL ISO/IEC 9075-14 Standards Support Document"
+     href: MS-TSQLISO14/toc.yml
+     homepage: MS-TSQLISO14/9dddf3fa-b205-46f3-b424-a93bc5855016.md"

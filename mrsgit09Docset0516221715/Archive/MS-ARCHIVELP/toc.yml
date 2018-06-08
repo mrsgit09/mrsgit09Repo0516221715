@@ -1,0 +1,11 @@
+﻿- name: "Exchange Server Archive"
+  href: f56b904d-9048-455d-bcc9-279a9df64f60.md
+- name: "Office Archive"
+  href: f73663f4-4781-42d2-86d4-08981db30975.md
+- name: "SharePoint Products and Technologies Archive"
+  href: 2f5a8f3f-376f-4d45-b9fd-865825dbaa2e.md
+  items:
+    - name: "SharePoint Products and Technologies Protocols"
+      href: bd4ccdb6-4eda-4f2d-a13a-c6de1ccc4baf.md
+    - name: "SharePoint Back-End Technical Specifications"
+      href: 59f5633c-9b5f-414c-a448-b6f5e289a652.md

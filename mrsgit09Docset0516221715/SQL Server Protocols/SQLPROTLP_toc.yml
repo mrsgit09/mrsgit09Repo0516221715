@@ -1,0 +1,103 @@
+- name: "What's New and Changed"
+  href: MS-SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
+- name: "SQL Protocols Errata"
+  href: MS-SQLERRATA/toc.yml
+  homepage: MS-SQLERRATA/ccfd60a1-e76b-4f03-93d0-a4d10ec03f5e.md
+- name: "Preview Documents"
+  href: MS-SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
+- name: "Overview Document"
+  href: MS-SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
+  items:
+    - name: "[MS-SSSO]: SQL Server System Overview"
+      href: MS-SSSO/toc.yml
+      homepage: "MS-SSSO/002209fe-adfb-44e1-bfc4-9c9d19761f3a.md"
+- name: "Technical Documents"
+  href: MS-SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
+  items:
+   - name:  "[MS-ASUR]: Analysis Services Usage Reporting Protocol"
+     href: MS-ASUR/toc.yml
+     homepage: MS-ASUR/26b72b89-ed60-4991-b8cc-03f36f7c13be.md"
+   - name:  "[MS-BINXML]: SQL Server Binary XML Structure"
+     href: MS-BINXML/toc.yml
+     homepage: MS-BINXML/11ab6e8d-2472-44d1-a9e6-bddf000e12f6.md"
+   - name:  "[MS-CEPM]: Microsoft Complex Event Processing Engine Manageability Protocol"
+     href: MS-CEPM/toc.yml
+     homepage: MS-CEPM/76d533d1-8c07-46af-8a31-3f2520cda70c.md"
+   - name:  "[MS-DSDG]: DataSet DiffGram Structure"
+     href: MS-DSDG/toc.yml
+     homepage: MS-DSDG/a0102bae-8980-4c2a-9edf-56f215b08308.md"
+   - name:  "[MS-DSDIFFGRAM]: SharePoint Web Services: DataSet DiffGram Structure"
+     href: MS-DSDIFFGRAM/toc.yml
+     homepage: MS-DSDIFFGRAM/021e1033-8322-486d-a4de-56075686a09e.md"
+   - name:  "[MS-LETSF]: LINQ Expression Tree Serialization Format"
+     href: MS-LETSF/toc.yml
+     homepage: MS-LETSF/697e4fad-ab35-4861-a3f5-a62466a3ae68.md"
+   - name:  "[MS-ODBCSTR]: ODBC Connection String Structure"
+     href: MS-ODBCSTR/toc.yml
+     homepage: MS-ODBCSTR/13b4e848-b36c-4b11-acce-d6bf199d5391.md"
+   - name:  "[MS-OLEDBSTR]: OLEDB Connection String Structure"
+     href: MS-OLEDBSTR/toc.yml
+     homepage: MS-OLEDBSTR/774039da-09c1-4b24-b53b-8f9ae019830c.md"
+   - name:  "[MS-RDL]: Report Definition Language File Format"
+     href: MS-RDL/toc.yml
+     homepage: MS-RDL/53287204-7cd0-4bc9-a5cd-d42a5925dca1.md"
+   - name:  "[MS-RGDI]: Remote GDI+ (RGDI) Binary Stream Format"
+     href: MS-RGDI/toc.yml
+     homepage: MS-RGDI/b420a652-10eb-49b2-834c-ebc4d31e8ce5.md"
+   - name:  "[MS-RPL]: Report Page Layout (RPL) Binary Stream Format"
+     href: MS-RPL/toc.yml
+     homepage: MS-RPL/9c4ff7ba-f6da-4092-9670-aa0e54e73887.md"
+   - name:  "[MS-RSREST]: Reporting Services REST API"
+     href: MS-RSREST/toc.yml
+     homepage: MS-RSREST/a7752484-e24a-41f8-8ea2-c0e6568768fd.md"
+   - name:  "[MS-RSWSRE2005]: Report Server Web Service for Report Execution: ReportExecution2005"
+     href: MS-RSWSRE2005/toc.yml
+     homepage: MS-RSWSRE2005/96c33524-52c1-4358-a23a-6921db74211c.md"
+   - name:  "[MS-RSWSRM2010]: Report Server Web Service for Report Management: ReportService2010"
+     href: MS-RSWSRM2010/toc.yml
+     homepage: MS-RSWSRM2010/0c9864cf-afe9-4789-ae9e-a55df1ff9111.md"
+   - name:  "[MS-RSWSRMNM2005]: Report Server Web Service for Report Management for Native Mode: ReportService2005"
+     href: MS-RSWSRMNM2005/toc.yml
+     homepage: MS-RSWSRMNM2005/a30e6fc4-36ad-423a-b578-ba50523f5a77.md"
+   - name:  "[MS-RSWSRMSM2006]: Report Server Web Service for Report Management for SharePoint Mode: ReportService2006"
+     href: MS-RSWSRMSM2006/toc.yml
+     homepage: MS-RSWSRMSM2006/eea1faab-ab5f-4fac-aecd-5c7543a8977c.md"
+   - name:  "[MS-RSWSSFA]: Report Server Web Service for SharePoint Forms Authentication: ReportServiceAuthentication"
+     href: MS-RSWSSFA/toc.yml
+     homepage: MS-RSWSSFA/ee081425-607f-4742-8d61-5bf61f0d2a26.md"
+   - name:  "[MS-SCCSTR]: SqlClient Connection String Structure"
+     href: MS-SCCSTR/toc.yml
+     homepage: MS-SCCSTR/f57903e4-18af-4281-aa9e-9b2198bde494.md"
+   - name:  "[MS-SQLRS]: SQL Server Remote Storage Profile"
+     href: MS-SQLRS/toc.yml
+     homepage: MS-SQLRS/3a7a8a09-b876-465d-99b4-de0e84d8f101.md"
+   - name:  "[MS-SSAS]: SQL Server Analysis Services Protocol"
+     href: MS-SSAS/toc.yml
+     homepage: MS-SSAS/854a72f2-d637-4be3-b60f-6a44422e80c9.md"
+   - name:  "[MS-SSAS8]: SQL Server Analysis Services Version 8.0 Protocol"
+     href: MS-SSAS8/toc.yml
+     homepage: MS-SSAS8/63b87474-0530-4ac3-9a9b-62f48bd2b447.md"
+   - name:  "[MS-SSAS-T]: SQL Server Analysis Services Tabular Protocol"
+     href: MS-SSAS-T/toc.yml
+     homepage: MS-SSAS-T/f85cd3b9-690c-4bc7-a1f0-a854d7daecd8.md"
+   - name:  "[MS-SSCLRT]: Microsoft SQL Server CLR Types Serialization Formats"
+     href: MS-SSCLRT/toc.yml
+     homepage: MS-SSCLRT/77460aa9-8c2f-4449-a65e-1d649ebd77fa.md"
+   - name:  "[MS-SSDPWP]: Database Publishing Wizard Protocol"
+     href: MS-SSDPWP/toc.yml
+     homepage: MS-SSDPWP/6111fbea-38e6-4a73-a077-f4724cb1baec.md"
+   - name:  "[MS-SSMDSWS]: Master Data Services Web Service"
+     href: MS-SSMDSWS/toc.yml
+     homepage: MS-SSMDSWS/ab7df855-59f8-4d31-9d8a-9ab6e4b7a459.md"
+   - name:  "[MS-SSMDSWS-15]: Master Data Services Web Service 15"
+     href: MS-SSMDSWS-15/toc.yml
+     homepage: MS-SSMDSWS-15/484fe9af-35ad-489f-a672-b3acad9db116.md"
+   - name:  "[MS-SSNWS]: Native Web Services Protocol"
+     href: MS-SSNWS/toc.yml
+     homepage: MS-SSNWS/de41906d-ae82-406b-8ad6-2504bf966536.md"
+   - name:  "[MS-SSTDS]: Tabular Data Stream Protocol Version 4.2"
+     href: MS-SSTDS/toc.yml
+     homepage: MS-SSTDS/dab36a48-6c13-44c7-954a-0f5c8623590d.md"
+   - name:  "[MS-XSSK]: XML Serialization of Synchronization Knowledge"
+     href: MS-XSSK/toc.yml
+     homepage: MS-XSSK/d35ee88b-13a5-4c5f-b868-329e6e1e2320.md"
