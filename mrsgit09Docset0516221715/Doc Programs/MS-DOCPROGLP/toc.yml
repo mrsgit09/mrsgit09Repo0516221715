@@ -3,7 +3,7 @@
   items:
     - name: "FILE AND PRINT TASK PROTOCOLS"
       href: "3332ae4e-af93-4dff-9434-b3ad2157b57b.md"
-          items:
+      items:
         - name: "Base File Server Protocols Scenario"
           href: "00572077-465b-4f46-9ef9-2af6191713a1.md"
         - name: "Distributed File System (DFS) + File Replication Service (FRS) Server Protocols Scenario"
@@ -16,7 +16,7 @@
           href: "a7ded3e7-9134-4448-8ae0-22c5707967ec.md"
     - name: "USER AND GROUP ADMINISTRATION TASK PROTOCOLS"
       href: "e71ba7de-b28d-422b-858e-bdd7203de79b.md"
-          items:
+      items:
         - name: "Base Authorization and Authentication Protocols Scenario"
           href: "dcb29eb3-6f2b-4da8-9331-88afb876fb7b.md"
         - name: "Domain Services Interaction Server Protocols Scenario"
@@ -49,7 +49,7 @@
       href: "2aa736a8-0727-4748-afe9-941120f3f4ae.md"
     - name: "ROYALTY FREE PROTOCOLS"
       href: "0f52fe83-1c7d-4bb0-8224-39ccd30e75df.md"
-          items:
+      items:
         - name: "Common Internet File System Protocols"
           href: "471c554e-97dc-4db1-8d3c-04bead89c7dc.md"
     - name: "ONE-TIME FLAT FEE (UNIFORM PRICING) PROTOCOLS"
