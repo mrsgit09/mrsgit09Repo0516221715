@@ -17,7 +17,7 @@
         - name: "Supporting Technologies Archive"
          # homepage: "Archive/MS-WINSTECHLP/97610dd3-7a5b-4ebf-aede-2e1768c64cbe.md"
     - name: Protocols
-      homepage: "Open Specs/MS-PROTOCOLSLP/37d6d6fd-6f20-450f-bdb9-d7c1812a2021.md"
+      homepage: "Protocols/MS-PROTOCOLSLP/37d6d6fd-6f20-450f-bdb9-d7c1812a2021.md"
       items:
         - name: "Windows Protocols"
           href: "Windows Protocols/toc.yml"
