@@ -1,7 +1,6 @@
-﻿
-- name: "WSPP Technical Specifications Task and Scenario"
+﻿- name: "WSPP Technical Specifications Task and Scenario"
   href: "103ce5aa-24bd-4b4d-9305-b1d4884335a8.md"
-      items:
+  items:
     - name: "FILE AND PRINT TASK PROTOCOLS"
       href: "3332ae4e-af93-4dff-9434-b3ad2157b57b.md"
           items:
