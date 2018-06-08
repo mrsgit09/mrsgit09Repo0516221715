@@ -1,14 +1,14 @@
-- name: Open Specifications
+- name: "Open Specifications"
   href: "Open Specifications/MS-OPENSPECLP/toc.yml"
   homepage: "Open Specifications/MS-OPENSPECLP/02eda353-b4a6-4df9-bae8-024732808901.md"
   items:
 #    - name: Forums and Blogs
-    - name: Document Programs
+    - name: "Document Programs"
     - name: Archive
       href: Archive/MS-ARCHIVELP/toc.yml
       homepage: "Archive/MS-ARCHIVELP/2fe94c9b-0a0f-49cf-aa30-1d80c2aef590.md"
 # LOOKS LIKE OFFICE, EXCHANGE AND SHAREPOINT ARE IN ARCHIVELP AND THE SUBDOCS BELOW HAVE NEVER BEEN USED
-#      items:
+      items:
 #        - name: Exchange Server Archive # 
 #         # href: "Archive/MS-OXARCHLP/toc.yml"
 #         # homepage: "Archive/MS-OXARCHLP/f56b904d-9048-455d-bcc9-279a9df64f60.md"
@@ -21,13 +21,13 @@
 #          items:
 #            - name: SharePoint Products and Technologies Archive # MS-SPARCHLP
 #            - name: SharePoint Back-End Technical Specifications # MS-SPARCHLP
-        - name: SQL Server Archive # NEW
+        - name: "SQL Server Archive" # NEW
          # href: "Archive/MS-SQLARCHLP/toc.yml"
          # homepage: "Archive/MS-SQLARCHLP/fbae8353-4aa9-44f5-acda-a7d5e3d1f37e.md"
-        - name: Windows Archive # NEW
+        - name: "Windows Archive" # NEW
          # href: "Archive/MS-WINARCHLP/toc.yml"
          # homepage: "Archive/MS-WINARCHLP/03170f23-87dd-4186-a81b-1343f2280f0e.md"  c5ba7457-d9b8-42cf-89f7-d5146f1bcaf2 FROM MS-WINARCHLP
-        - name: Supporting Technologies Archive # NEW
+        - name: "Supporting Technologies Archive" # NEW
          # href: "Archive/MS-WINSTECHLP/toc.yml"
          # homepage: "Archive/MS-WINSTECHLP/97610dd3-7a5b-4ebf-aede-2e1768c64cbe.md"
     - name: Protocols # NEW
@@ -44,13 +44,13 @@
         - name: "SQL Server Protocols"
           href: "SQL Server Protocols/toc.yml"
           homepage: "SQL Server Protocols/MS-SQLPROTLP/f16558b2-4561-45be-89c9-6f9114514c97.md"
-    - name: Computer Languages # NEW
+    - name: "Computer Languages" # NEW
     #  href: "Computer Languages/toc.yml"
     #  homepage: "Computer Languages/MS-COMPLANLP/74862872-4b7f-4506-a04d-85dd84e10c97.md"
-    - name: Standards Support # NEW
+    - name: "Standards Support" # NEW
 #      href: "Standards Support/toc.yml"
       homepage: "Standards Support/MS-STDSUPLP/73f435dc-1369-4bc4-b56f-23642b24ac58.md"
-    - name: Data Portability # NEW
+    - name: "Data Portability" # NEW
     #  href: "Data Portability/toc.yml"
     #  homepage: "Data Portability/MS-DATAPORTLP/1de30cc1-10af-4b98-820d-414400400c6d.md"
 
