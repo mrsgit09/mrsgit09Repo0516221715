@@ -7,16 +7,6 @@
     - name: "Document Programs"
       href: "Doc Programs/MS-DOCPROGLP/toc.yml"
       homepage: "Doc Programs/MS-DOCPROGLP/dbcaeeb5-86dd-454b-a7a9-285e01fa3572.md"
-    - name: Archive
-      href: Archive/MS-ARCHIVELP/toc.yml
-      homepage: "Archive/MS-ARCHIVELP/2fe94c9b-0a0f-49cf-aa30-1d80c2aef590.md"
-      items:
-        - name: "SQL Server Archive"
-          href: "Archive/MS-SQLARCHLP/fbae8353-4aa9-44f5-acda-a7d5e3d1f37e.md"
-        - name: "Windows Archive"
-          href: "Archive/MS-WINARCHLP/c5ba7457-d9b8-42cf-89f7-d5146f1bcaf2.md"
-        - name: "Supporting Technologies Archive"
-          href: "Archive/MS-WINSTECHLP/97610dd3-7a5b-4ebf-aede-2e1768c64cbe.md"
     - name: Protocols
       href: "Protocols/MS-PROTOCOLSLP/37d6d6fd-6f20-450f-bdb9-d7c1812a2021.md"
       items:
