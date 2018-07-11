@@ -1,12 +1,12 @@
 - name: "Overview Documents"
-  href: "MS-SPPROTLP/3f4728e8-69fc-40ca-829c-d43e57e35239.md"
+  href: MS-SPPROTLP/3f4728e8-69fc-40ca-829c-d43e57e35239.md
   items:
     - name:  "[MS-SPO]: SharePoint Protocols Overview"
       href: MS-SPO/toc.yml
-      homepage: MS-SPO/a9173bd4-2327-41ac-8ecb-dc20e0ab7d92.md"
+      homepage: MS-SPO/a9173bd4-2327-41ac-8ecb-dc20e0ab7d92.md
 - name: "Technical Documents"
-  href: "MS-SPPROTLP/51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff.md"
+  href: MS-SPPROTLP/51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff.md
   items:
     - name:  "[MS-CSOMSPT]: SharePoint Client-Side Object Model Protocol"
       href: MS-CSOMSPT/toc.yml
-      homepage: MS-CSOMSPT/8ebba305-5af3-477d-bf4f-ad378a39eaba.md"
+      homepage: MS-CSOMSPT/8ebba305-5af3-477d-bf4f-ad378a39eaba.md

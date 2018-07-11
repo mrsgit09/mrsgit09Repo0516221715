@@ -1,0 +1,15 @@
+- name: "Overview Document"
+  href: MS-OXPROTLP/toc.yml
+  homepage: MS-OXPROTLP/5b616fcc-5885-448d-8406-3d1cca6f5619.md
+- name: "Technical Documents"
+  href: MS-OXPROTLP/229f77ea-6518-4fe7-84fe-bd535fc6c32e.md
+  items:
+    - name: "[MS-OXCNOTIF]: Core Notifications Protocol"
+      href: MS-OXCNOTIF/toc.yml
+      homepage: MS-OXCNOTIF/7c7d1653-5dfb-42f1-9410-fc4e48e10731.md
+    - name: "[MS-OXCROPS]: Remote Operations (ROP) List and Encoding Protocol"
+      href: MS-OXCROPS/toc.yml
+      homepage: MS-OXCROPS/13af6911-27e5-4aa0-bb75-637b02d4f2ef.md
+    - name: "[MS-OXPROPS]: Exchange Server Protocols Master Property List"
+      href: MS-OXPROPS/toc.yml 
+      homepage: MS-OXPROPS/f6ab1613-aefe-447d-a49c-18217230b148.md

@@ -1,42 +1,45 @@
 - name: "What’s New and Changed"
-  href: "MS-WINPROTLP/e168a474-7de2-421c-b460-91adf87692a3.md"
+  href: MS-WINPROTLP/e168a474-7de2-421c-b460-91adf87692a3.md
+- name: "Windows Protocol Errata"
+  href: MS-WINERRATA/toc.yml
+  homepage: MS-WINERRATA/314fe022-28ea-4bd9-93ac-7941ecf9ca10.md
 - name: "Preview Documents"
-  href: "MS-WINPROTLP/8a9c667b-2825-46a8-8066-a80681233c33.md"
+  href: MS-WINPROTLP/8a9c667b-2825-46a8-8066-a80681233c33.md
 - name: "Overview Documents"
-  href: "MS-WINPROTLP/4a1806f9-2979-491d-af3c-f82ed0a4c1ba.md"
+  href: MS-WINPROTLP/4a1806f9-2979-491d-af3c-f82ed0a4c1ba.md
 - name: "Technical Documents"
-  href: "MS-WINPROTLP/e36c976a-6263-42a8-b119-7a3cc41ddd2a.md"
+  href: MS-WINPROTLP/e36c976a-6263-42a8-b119-7a3cc41ddd2a.md
   items:
    - name:  "[MS-ADTS]: Active Directory Technical Specification"
 #     href: MS-ADTS/toc.yml
-#     homepage: MS-ADTS/d2435927-0999-4c62-8c6d-13ba31a52e1a.md"
+#     homepage: MS-ADTS/d2435927-0999-4c62-8c6d-13ba31a52e1a.md
    - name:  "[MS-CFB]: Compound File Binary File Format"
 #     href: MS-CFB/toc.yml
-#     homepage: MS-CFB/53989ce4-7b05-4f8d-829b-d08d6148375b.md"
+#     homepage: MS-CFB/53989ce4-7b05-4f8d-829b-d08d6148375b.md
    - name:  "[MS-CPSP]: Connection Point Services: Phonebook Data Structure"
 #     href: MS-CPSP/toc.yml
-#     homepage: MS-CPSP/c1d5ce53-4b37-48d2-a13b-2713503384d7.md"
+#     homepage: MS-CPSP/c1d5ce53-4b37-48d2-a13b-2713503384d7.md
    - name:  "[MS-FSA]: File System Algorithms"
      href: MS-FSA/toc.yml
-     homepage: MS-FSA/860b1516-c452-47b4-bdbc-625d344e2041.md"
+     homepage: MS-FSA/860b1516-c452-47b4-bdbc-625d344e2041.md
    - name:  "[MS-HVRS]: Hyper-V Remote Storage Profile"
 #     href: MS-HVRS/toc.yml
-#     homepage: MS-HVRS/71761708-a421-4e32-8e0d-97e6539dc9eb.md"
+#     homepage: MS-HVRS/71761708-a421-4e32-8e0d-97e6539dc9eb.md
    - name:  "[MS-IPAMM2]: IP Address Management (IPAM) Management Protocol Version 2"
 #     href: MS-IPAMM2/toc.yml
-#     homepage: MS-IPAMM2/bd22c2c7-3080-470c-a409-7bcc4768ff6f.md"
+#     homepage: MS-IPAMM2/bd22c2c7-3080-470c-a409-7bcc4768ff6f.md
    - name:  "[MS-RDPEGFX]: Remote Desktop Protocol: Graphics Pipeline Extension"
 #     href: MS-RDPEGFX/toc.yml
-#     homepage: MS-RDPEGFX/da5c75f9-cd99-450c-98c4-014a496942b0.md"
+#     homepage: MS-RDPEGFX/da5c75f9-cd99-450c-98c4-014a496942b0.md
 - name: "References"
-  href: "MS-WINPROTLP/1593dc07-6116-4e9e-8aeb-85c7438fab0a.md"
+  href: MS-WINPROTLP/1593dc07-6116-4e9e-8aeb-85c7438fab0a.md
   items:
     - name: "[MS-DTYP]: Windows Data Types"
-      href: "MS-DTYP/toc.yml"
-      homepage: "MS-DTYP/cca27429-5689-4a16-b2b4-9325d93e4ba2.md"
+      href: MS-DTYP/toc.yml"
+      homepage: MS-DTYP/cca27429-5689-4a16-b2b4-9325d93e4ba2.md
     - name: "[MS-ERREF]: Windows Error Codes"
-      href: "MS-ERREF/toc.yml"
-      homepage: "MS-ERREF/1bc92ddf-b79e-413c-bbaa-99a5281a6c90.md"
+      href: MS-ERREF/toc.yml"
+      homepage: MS-ERREF/1bc92ddf-b79e-413c-bbaa-99a5281a6c90.md
     - name: "[MS-UCODEREF]: Windows Protocols Unicode Reference"
-      href: "MS-UCODEREF/toc.yml"
-      homepage: "MS-UCODEREF/4a045e08-fc29-4f22-baf4-16f38c2825fb.md"
+      href: MS-UCODEREF/toc.yml"
+      homepage: MS-UCODEREF/4a045e08-fc29-4f22-baf4-16f38c2825fb.md

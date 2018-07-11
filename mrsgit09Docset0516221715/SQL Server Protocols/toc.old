@@ -1,0 +1,46 @@
+- name: "What's New and Changed"
+  href: MS-SQLPROTLP/2efaa6c9-699e-4e2c-9ea7-d342ad51a988.md
+- name: "SQL Protocols Errata"
+  href: MS-SQLERRATA/toc.yml
+  homepage: "MS-SQLERRATA/ccfd60a1-e76b-4f03-93d0-a4d10ec03f5e.md"
+- name: "Preview Documents"
+  href: MS-SQLPROTLP/9523bb93-328f-4e27-9b1b-a0aab77ebcf0.md
+- name: "Overview Document"
+  href: MS-SQLPROTLP/f70b3936-14e4-4b43-b242-acbb527328c5.md
+  items:
+    - name: "[MS-SSSO]: SQL Server System Overview"
+      href: MS-SSSO/toc.yml
+      homepage: "MS-SSSO/002209fe-adfb-44e1-bfc4-9c9d19761f3a.md"
+- name: "Technical Documents"
+  href: MS-SQLPROTLP/3432cb95-3f91-446d-86d7-b9ea0816464e.md
+  items:
+    - name: "[MS-RDL]: Report Definition Language File Format"
+      href: MS-RDL/toc.yml
+      homepage: "MS-RDL/53287204-7cd0-4bc9-a5cd-d42a5925dca1.md"
+    - name: "[MS-RGDI]: Remote GDI+ (RGDI) Binary Stream Format"
+      href: MS-RGDI/toc.yml
+      homepage: "MS-RGDI/b420a652-10eb-49b2-834c-ebc4d31e8ce5.md"
+    - name: "[MS-RPL]: Report Page Layout (RPL) Binary Stream Format"
+      href: MS-RPL/toc.yml 
+      homepage: "MS-RPL/9c4ff7ba-f6da-4092-9670-aa0e54e73887.md"
+    - name: "[MS-RSWSRMSM2006]: Report Server Web Service for Report Management for SharePoint Mode: ReportService2006"
+      href: MS-RSWSRMSM2006/toc.yml
+      homepage: "MS-RSWSRMSM2006/eea1faab-ab5f-4fac-aecd-5c7543a8977c.md"
+    - name: "[MS-RSWSSFA]: Report Server Web Service for SharePoint Forms Authentication: ReportServiceAuthentication"
+      href: MS-RSWSSFA/toc.yml
+      homepage: "MS-RSWSSFA/ee081425-607f-4742-8d61-5bf61f0d2a26.md"
+    - name: "[MS-SSAS]: SQL Server Analysis Services Protocol"
+      href: MS-SSAS/toc.yml
+      homepage: "MS-SSAS/854a72f2-d637-4be3-b60f-6a44422e80c9.md"
+    - name: "[MS-SSAS8]: SQL Server Analysis Services Version 8.0 Protocol"
+      href: MS-SSAS8/toc.yml
+      homepage: "MS-SSAS8/63b87474-0530-4ac3-9a9b-62f48bd2b447.md"
+    - name: "[MS-SSCLRT]: Microsoft SQL Server CLR Types Serialization Formats"
+      href: MS-SSCLRT/toc.yml
+      homepage: "MS-SSCLRT/77460aa9-8c2f-4449-a65e-1d649ebd77fa.md"
+    - name: "[MS-SSMDSWS-15]: Master Data Services Web Service 15"
+      href: MS-SSMDSWS-15/toc.yml
+      homepage: "MS-SSMDSWS-15/484fe9af-35ad-489f-a672-b3acad9db116.md"
+    - name: "[MS-SSNWS]: Native Web Services Protocol"
+      href: MS-SSNWS/toc.yml
+      homepage: "MS-SSNWS/de41906d-ae82-406b-8ad6-2504bf966536.md"
